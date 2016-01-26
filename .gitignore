@@ -5,5 +5,12 @@
 ##########
 
 # ignore Msft webtools config folders
-_vti_cnf
+_vti_cnf/
+_vti_pvt/
+_private/
+
+# ignore windows desktop files
+desktop.ini
+
+
 
