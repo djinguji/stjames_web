@@ -1,0 +1,9 @@
+##########
+#
+# Files and folders to ignore
+#
+##########
+
+# ignore Msft webtools config folders
+_vti_cnf
+
