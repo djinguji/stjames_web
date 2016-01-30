@@ -1,0 +1,92 @@
+UNKNOWN
+{
+    FONT-FAMILY: Verdana
+}
+BODY
+{
+    COLOR: #000077;
+    BACKGROUND-COLOR: #ffff99;
+}
+P
+{
+    margin-top: 0; 
+    margin-bottom: 0;
+}
+A
+{
+    text-decoration: none;
+    font-family: Arial;
+    font-size: x-small;
+}
+.Heading
+{
+    font-weight: 700; 
+    font-family: Verdana;
+    font-size: x-small;
+}
+A:link
+{
+    color: #000077;
+}
+A:visited
+{
+    color: #000077;
+}
+A:hover
+{
+    color: #ff0000;
+}
+HR
+{
+    COLOR: #000077;
+    HEIGHT: 1px
+}
+.Red
+{
+    COLOR: #cc0000;
+    LIGHT: #ffcccc;
+    TEXT: #ffffff;
+    HOVER: #000077;
+}
+.Gold
+{
+    COLOR: #ffff99;
+    LIGHT: #ffffcc;
+    TEXT: #000077;
+    HOVER: #ff0000;
+    HR: #000077;
+}
+.Violet
+{
+    COLOR: #9933cc;
+    LIGHT: #cc99ff;
+    TEXT: #ffffff;
+    HOVER: #ccccff;
+}
+.Green
+{
+    COLOR: #336633;
+    LIGHT: #ccff99;
+    TEXT: #ffffff;
+    HOVER: #000077;
+}
+.White
+{
+    COLOR: #ffffff
+}
+.Black
+{
+    COLOR: #000000
+}
+#link A
+{
+    COLOR: black;
+    TEXT-DECORATION: none;
+    verdana:; font-style:normal; font-variant:normal; font-weight:normal; font-size:13pt; font-family:&quot 
+}
+#link A
+{
+    COLOR: red;
+    TEXT-DECORATION: none;
+    verdana:; font-style:normal; font-variant:normal; font-weight:normal; font-size:13pt; font-family:&quot 
+}
