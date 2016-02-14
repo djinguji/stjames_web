@@ -27,6 +27,14 @@ parishioner community. Here are links to the online bulletin.</p>
 <p>Here are links to recent bulletins:</p>
 	<table border="0" cellpadding="5" align="center" id="table2">
 		<tr>
+			<td><a href="16Bulletins/160207.aspx">February 7, 2016</a> - 
+			<a href="16Bulletins/160207.pdf" target="_bulletin">PDF</a></td>
+		</tr>
+		<tr>
+			<td><a href="16Bulletins/160131.aspx">January 31, 2016</a> - 
+			<a href="16Bulletins/160131.pdf" target="_bulletin">PDF</a></td>
+		</tr>
+		<tr>
 			<td><a href="16Bulletins/160124.aspx">January 24, 2016</a> - 
 			<a href="16Bulletins/160124.pdf" target="_bulletin">PDF</a></td>
 		</tr>
@@ -57,26 +65,6 @@ parishioner community. Here are links to the online bulletin.</p>
 		<tr>
 			<td><a href="16Bulletins/151206.aspx">December 6, 2015</a> - 
 			<a href="16Bulletins/151206.pdf" target="_bulletin">PDF</a> - Advent II</td>
-		</tr>
-		<tr>
-			<td><a href="16Bulletins/151129.aspx">November 29, 2015</a> - 
-			<a href="16Bulletins/151129.pdf" target="_bulletin">PDF</a> - Advent I</td>
-		</tr>
-		<tr>
-			<td><a href="15Bulletins/151122.aspx">November 22, 2015</a> - 
-			<a href="15Bulletins/151122.pdf" target="_bulletin">PDF</a> - Christ the King</td>
-		</tr>
-		<tr>
-			<td><a href="15Bulletins/151115.aspx">November 15, 2015</a> - 
-			<a href="15Bulletins/151115.pdf" target="_bulletin">PDF</a></td>
-		</tr>
-		<tr>
-			<td><a href="15Bulletins/151108.aspx">November 8, 2015</a> - 
-			<a href="15Bulletins/151108.pdf" target="_bulletin">PDF</a></td>
-		</tr>
-		<tr>
-			<td><a href="15Bulletins/151101.aspx">November 1, 2015</a> - 
-			<a href="15Bulletins/151101.pdf" target="_bulletin">PDF</a> - All Souls</td>
 		</tr>
 	</table>
 <p>Yearly archives:</p>

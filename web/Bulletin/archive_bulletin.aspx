@@ -1,11 +1,11 @@
-﻿<%@ Page Language="C#" masterpagefile="~/StJames.master" title="Bulletin for 17 January 2016" %>
+﻿<%@ Page Language="C#" masterpagefile="~/StJames.master" title="Bulletin for 14 February 2016" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
 
 <!-- HEADER GOES HERE -- edit the GetHeader below with your title also, edit the title above with your title -->
 <!-- DO NOT CHANGE THE TABLE STYLE IN THIS HEADER -->
 <table  style="margin-top:10px;" cellspacing="1" border="0" width="100%" >
   	<script language="javascript" type="text/javascript">
-		GetHeader("Bulletin Archive: 17 January 2016", ""); 
+		GetHeader("Bulletin Archive: 14 February 2016", "Lent I"); 
 	</script>
 </table>
 <!-- END HEADER -->
