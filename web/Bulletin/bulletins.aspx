@@ -27,6 +27,10 @@ parishioner community. Here are links to the online bulletin.</p>
 <p>Here are links to recent bulletins:</p>
 	<table border="0" cellpadding="5" align="center" id="table2">
 		<tr>
+			<td><a href="16Bulletins/160221.aspx">February 21, 2016</a> - 
+			<a href="16Bulletins/160221.pdf" target="_bulletin">PDF</a> - Lent II</td>
+		</tr>
+		<tr>
 			<td><a href="16Bulletins/160214.aspx">February 14, 2016</a> - 
 			<a href="16Bulletins/160214.pdf" target="_bulletin">PDF</a> - Lent I</td>
 		</tr>
