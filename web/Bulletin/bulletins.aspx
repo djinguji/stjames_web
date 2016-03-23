@@ -27,6 +27,10 @@ parishioner community. Here are links to the online bulletin.</p>
 <p>Here are links to recent bulletins:</p>
 	<table border="0" cellpadding="5" align="center" id="table2">
 		<tr>
+			<td><a href="16Bulletins/160320.aspx">March 20, 2016</a> - 
+			<a href="16Bulletins/160320.pdf" target="_bulletin">PDF</a> - Palm Sunday</td>
+		</tr>
+		<tr>
 			<td><a href="16Bulletins/160313.aspx">March 13, 2016</a> - 
 			<a href="16Bulletins/160313.pdf" target="_bulletin">PDF</a> - Lent V</td>
 		</tr>
