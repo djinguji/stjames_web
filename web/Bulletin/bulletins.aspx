@@ -27,6 +27,10 @@ parishioner community. Here are links to the online bulletin.</p>
 <p>Here are links to recent bulletins:</p>
 	<table border="0" cellpadding="5" align="center" id="table2">
 		<tr>
+			<td><a href="16Bulletins/160327.aspx">March 27, 2016</a> - 
+			<a href="16Bulletins/160327.pdf" target="_bulletin">PDF</a> - Easter Sunday</td>
+		</tr>
+		<tr>
 			<td><a href="16Bulletins/160320.aspx">March 20, 2016</a> - 
 			<a href="16Bulletins/160320.pdf" target="_bulletin">PDF</a> - Palm Sunday</td>
 		</tr>
@@ -53,26 +57,6 @@ parishioner community. Here are links to the online bulletin.</p>
 		<tr>
 			<td><a href="16Bulletins/160207.aspx">February 7, 2016</a> - 
 			<a href="16Bulletins/160207.pdf" target="_bulletin">PDF</a></td>
-		</tr>
-		<tr>
-			<td><a href="16Bulletins/160131.aspx">January 31, 2016</a> - 
-			<a href="16Bulletins/160131.pdf" target="_bulletin">PDF</a></td>
-		</tr>
-		<tr>
-			<td><a href="16Bulletins/160124.aspx">January 24, 2016</a> - 
-			<a href="16Bulletins/160124.pdf" target="_bulletin">PDF</a></td>
-		</tr>
-		<tr>
-			<td><a href="16Bulletins/160117.aspx">January 17, 2016</a> - 
-			<a href="16Bulletins/160117.pdf" target="_bulletin">PDF</a></td>
-		</tr>
-		<tr>
-			<td><a href="16Bulletins/160110.aspx">January 10, 2016</a> - 
-			<a href="16Bulletins/160110.pdf" target="_bulletin">PDF</a> - Baptism of the Lord</td>
-		</tr>
-		<tr>
-			<td><a href="16Bulletins/160103.aspx">January 3, 2016</a> - 
-			<a href="16Bulletins/160103.pdf" target="_bulletin">PDF</a> - Epiphany</td>
 		</tr>
 	</table>
 <p>Yearly archives:</p>

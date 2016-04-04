@@ -91,6 +91,10 @@ parishioner community. </p>
 			<td><a href="16Bulletins/160320.aspx">March 20, 2016</a> - 
 			<a href="16Bulletins/160320.pdf" target="_bulletin">PDF</a> - Palm Sunday</td>
 		</tr>
+		<tr>
+			<td><a href="16Bulletins/160327.aspx">March 27, 2016</a> - 
+			<a href="16Bulletins/160327.pdf" target="_bulletin">PDF</a> - Easter Sunday</td>
+		</tr>
 	</table>
 <p>Back to <a href="bulletins.aspx">current archive</a>.</p>
 <p>&nbsp;</p>
