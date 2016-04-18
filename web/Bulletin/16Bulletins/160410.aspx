@@ -161,7 +161,7 @@ Tom.</p>
 <p><b>STRENGTH FOR THE JOURNEY</b>. Developed in
 partnership with the Spiritual Care Department,
 UW Medicine’s Memory & Brain Wellness
-Center will offer Strength for the Journey, a sixweek
+Center will offer Strength for the Journey, a six-week
 small group experience for persons living
 with early stage memory loss. Through
 discussion and creative reflection, participants
