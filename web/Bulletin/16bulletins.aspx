@@ -103,6 +103,10 @@ parishioner community. </p>
 			<td><a href="16Bulletins/160410.aspx">April 10, 2016</a> - 
 			<a href="16Bulletins/160410.pdf" target="_bulletin">PDF</a> - Easter III</td>
 		</tr>
+		<tr>
+			<td><a href="16Bulletins/160417.aspx">April 17, 2016</a> - 
+			<a href="16Bulletins/160417.pdf" target="_bulletin">PDF</a> - Easter IV</td>
+		</tr>
 	</table>
 <p>Back to <a href="bulletins.aspx">current archive</a>.</p>
 <p>&nbsp;</p>

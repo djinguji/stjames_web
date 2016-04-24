@@ -1,11 +1,11 @@
-﻿<%@ Page Language="C#" masterpagefile="~/StJames.master" title="This Week's Bulletin" %>
+﻿<%@ Page Language="C#" masterpagefile="~/StJames.master" title="Bulletin for 24 April 2016" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
 
 <!-- HEADER GOES HERE -- edit the GetHeader below with your title also, edit the title above with your title -->
 <!-- DO NOT CHANGE THE TABLE STYLE IN THIS HEADER -->
 <table  style="margin-top:10px;" cellspacing="1" border="0" width="100%" >
   	<script language="javascript" type="text/javascript">
-		GetHeader("This Week's Bulletin: 24 April 2016", "Easter V"); 
+		GetHeader("Bulletin Archive: 24 April 2016", "Easter V"); 
 	</script>
 </table>
 <!-- END HEADER -->
@@ -21,10 +21,10 @@
 <!-- NOTE: 2) remove the "tableheader table" since we use our own header at the top -->
 <!-- NOTE: 3) Remove the footer StJames Logo and Address - we automatically put that in on every page-->
 
-<p>Link to the <a target="_bulletin" href="bulletin.pdf">PDF</a> of this week&#39;s 
-bulletin.</p>
-<p>Looking for an older bulletin? <a href="bulletins.aspx">Click here for the 
+
+<p><a href="../../bulletins.aspx">Click here for the 
 archive</a>.</p>
+<p>&nbsp;</p>
 <hr>
 
 <!-- Beginning of bulletin -->
@@ -68,7 +68,7 @@ advocating on their behalf.</p>
 for Patty Bowman as she prepares to transition out of her position, and to join me in
 welcoming Patrick Barredo as he joins the St. James Cathedral team.</p>
 
-<table width=100%><tr><td width=50%></td><td width=50%><img src="../images/FrRyan.gif" width="179" height="53"><br>
+<table width=100%><tr><td width=50%></td><td width=50%><img src="../../images/FrRyan.gif" width="179" height="53"><br>
 Father Michael G. Ryan<br>
 	Pastor of St. James Cathedral</td></tr></table>
 <hr/>
@@ -266,7 +266,7 @@ events at the Cathedral. Find us at
 	<tr>
 		<td style="font-family: Arial">
 		<p align="center">
-		<img border="0" src="../images/youth-ministry.png" width="406" height="61"></p>
+		<img border="0" src="../../images/youth-ministry.png" width="406" height="61"></p>
 
 <p><b>SUMMER MISSION TRIP: YOUTH MIGRANT
 PROJECT</b>. Join with youth from St. Anne and St.
@@ -388,8 +388,6 @@ and Concrete.</p>
 
 <!-- End of bulletin -->
 
-<p>&nbsp;</p>
- 
 <!-- END CONTENT -->
 
 <!-- ALWAYS END THE PAGE WITH TAG BELOW -->
