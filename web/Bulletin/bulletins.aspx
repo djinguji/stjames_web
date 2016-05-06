@@ -27,6 +27,14 @@ parishioner community. Here are links to the online bulletin.</p>
 <p>Here are links to recent bulletins:</p>
 	<table border="0" cellpadding="5" align="center" id="table2">
 		<tr>
+			<td><a href="16Bulletins/160501.aspx">May 1, 2016</a> - 
+			<a href="16Bulletins/160501.pdf" target="_bulletin">PDF</a> - Easter VI</td>
+		</tr>
+		<tr>
+			<td><a href="16Bulletins/160424.aspx">April 24, 2016</a> - 
+			<a href="16Bulletins/160424.pdf" target="_bulletin">PDF</a> - Easter V</td>
+		</tr>
+		<tr>
 			<td><a href="16Bulletins/160417.aspx">April 17, 2016</a> - 
 			<a href="16Bulletins/160417.pdf" target="_bulletin">PDF</a> - Easter IV</td>
 		</tr>
@@ -53,22 +61,6 @@ parishioner community. Here are links to the online bulletin.</p>
 		<tr>
 			<td><a href="16Bulletins/160306.aspx">March 6, 2016</a> - 
 			<a href="16Bulletins/160306.pdf" target="_bulletin">PDF</a> - Lent IV</td>
-		</tr>
-		<tr>
-			<td><a href="16Bulletins/160228.aspx">February 28, 2016</a> - 
-			<a href="16Bulletins/160228.pdf" target="_bulletin">PDF</a> - Lent III</td>
-		</tr>
-		<tr>
-			<td><a href="16Bulletins/160221.aspx">February 21, 2016</a> - 
-			<a href="16Bulletins/160221.pdf" target="_bulletin">PDF</a> - Lent II</td>
-		</tr>
-		<tr>
-			<td><a href="16Bulletins/160214.aspx">February 14, 2016</a> - 
-			<a href="16Bulletins/160214.pdf" target="_bulletin">PDF</a> - Lent I</td>
-		</tr>
-		<tr>
-			<td><a href="16Bulletins/160207.aspx">February 7, 2016</a> - 
-			<a href="16Bulletins/160207.pdf" target="_bulletin">PDF</a></td>
 		</tr>
 	</table>
 <p>Yearly archives:</p>

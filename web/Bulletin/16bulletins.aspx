@@ -107,6 +107,14 @@ parishioner community. </p>
 			<td><a href="16Bulletins/160417.aspx">April 17, 2016</a> - 
 			<a href="16Bulletins/160417.pdf" target="_bulletin">PDF</a> - Easter IV</td>
 		</tr>
+		<tr>
+			<td><a href="16Bulletins/160424.aspx">April 24, 2016</a> - 
+			<a href="16Bulletins/160424.pdf" target="_bulletin">PDF</a> - Easter V</td>
+		</tr>
+		<tr>
+			<td><a href="16Bulletins/160501.aspx">May 1, 2016</a> - 
+			<a href="16Bulletins/160501.pdf" target="_bulletin">PDF</a> - Easter VI</td>
+		</tr>
 	</table>
 <p>Back to <a href="bulletins.aspx">current archive</a>.</p>
 <p>&nbsp;</p>
