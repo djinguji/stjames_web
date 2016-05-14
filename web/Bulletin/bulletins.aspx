@@ -27,6 +27,10 @@ parishioner community. Here are links to the online bulletin.</p>
 <p>Here are links to recent bulletins:</p>
 	<table border="0" cellpadding="5" align="center" id="table2">
 		<tr>
+			<td><a href="16Bulletins/160508.aspx">May 8, 2016</a> - 
+			<a href="16Bulletins/160508.pdf" target="_bulletin">PDF</a> - Easter VI</td>
+		</tr>
+		<tr>
 			<td><a href="16Bulletins/160501.aspx">May 1, 2016</a> - 
 			<a href="16Bulletins/160501.pdf" target="_bulletin">PDF</a> - Easter VI</td>
 		</tr>
