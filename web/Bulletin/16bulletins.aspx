@@ -117,7 +117,27 @@ parishioner community. </p>
 		</tr>
 		<tr>
 			<td><a href="16Bulletins/160508.aspx">May 8, 2016</a> - 
-			<a href="16Bulletins/160508.pdf" target="_bulletin">PDF</a> - Easter VI</td>
+			<a href="16Bulletins/160508.pdf" target="_bulletin">PDF</a> - Ascension</td>
+		</tr>
+		<tr>
+			<td><a href="16Bulletins/160515.aspx">May 15, 2016</a> - 
+			<a href="16Bulletins/160515.pdf" target="_bulletin">PDF</a> - Pentecost</td>
+		</tr>
+		<tr>
+			<td><a href="16Bulletins/160522.aspx">May 22, 2016</a> - 
+			<a href="16Bulletins/160522.pdf" target="_bulletin">PDF</a> - Trinity</td>
+		</tr>
+		<tr>
+			<td><a href="16Bulletins/160529.aspx">May 29, 2016</a> - 
+			<a href="16Bulletins/160529.pdf" target="_bulletin">PDF</a> - Corpus Christi</td>
+		</tr>
+		<tr>
+			<td><a href="16Bulletins/160605.aspx">June 5, 2016</a> - 
+			<a href="16Bulletins/160605.pdf" target="_bulletin">PDF</a></td>
+		</tr>
+		<tr>
+			<td><a href="16Bulletins/160612.aspx">June 12, 2016</a> - 
+			<a href="16Bulletins/160612.pdf" target="_bulletin">PDF</a></td>
 		</tr>
 	</table>
 <p>Back to <a href="bulletins.aspx">current archive</a>.</p>

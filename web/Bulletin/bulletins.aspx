@@ -27,8 +27,28 @@ parishioner community. Here are links to the online bulletin.</p>
 <p>Here are links to recent bulletins:</p>
 	<table border="0" cellpadding="5" align="center" id="table2">
 		<tr>
+			<td><a href="16Bulletins/160612.aspx">June 12, 2016</a> - 
+			<a href="16Bulletins/160612.pdf" target="_bulletin">PDF</a></td>
+		</tr>
+		<tr>
+			<td><a href="16Bulletins/160605.aspx">June 5, 2016</a> - 
+			<a href="16Bulletins/160605.pdf" target="_bulletin">PDF</a></td>
+		</tr>
+		<tr>
+			<td><a href="16Bulletins/160529.aspx">May 29, 2016</a> - 
+			<a href="16Bulletins/160529.pdf" target="_bulletin">PDF</a> - Corpus Christi</td>
+		</tr>
+		<tr>
+			<td><a href="16Bulletins/160522.aspx">May 22, 2016</a> - 
+			<a href="16Bulletins/160522.pdf" target="_bulletin">PDF</a> - Trinity</td>
+		</tr>
+		<tr>
+			<td><a href="16Bulletins/160515.aspx">May 15, 2016</a> - 
+			<a href="16Bulletins/160515.pdf" target="_bulletin">PDF</a> - Pentecost</td>
+		</tr>
+		<tr>
 			<td><a href="16Bulletins/160508.aspx">May 8, 2016</a> - 
-			<a href="16Bulletins/160508.pdf" target="_bulletin">PDF</a> - Easter VI</td>
+			<a href="16Bulletins/160508.pdf" target="_bulletin">PDF</a> - Ascension</td>
 		</tr>
 		<tr>
 			<td><a href="16Bulletins/160501.aspx">May 1, 2016</a> - 
@@ -49,22 +69,6 @@ parishioner community. Here are links to the online bulletin.</p>
 		<tr>
 			<td><a href="16Bulletins/160403.aspx">April 3, 2016</a> - 
 			<a href="16Bulletins/160403.pdf" target="_bulletin">PDF</a> - Easter II</td>
-		</tr>
-		<tr>
-			<td><a href="16Bulletins/160327.aspx">March 27, 2016</a> - 
-			<a href="16Bulletins/160327.pdf" target="_bulletin">PDF</a> - Easter Sunday</td>
-		</tr>
-		<tr>
-			<td><a href="16Bulletins/160320.aspx">March 20, 2016</a> - 
-			<a href="16Bulletins/160320.pdf" target="_bulletin">PDF</a> - Palm Sunday</td>
-		</tr>
-		<tr>
-			<td><a href="16Bulletins/160313.aspx">March 13, 2016</a> - 
-			<a href="16Bulletins/160313.pdf" target="_bulletin">PDF</a> - Lent V</td>
-		</tr>
-		<tr>
-			<td><a href="16Bulletins/160306.aspx">March 6, 2016</a> - 
-			<a href="16Bulletins/160306.pdf" target="_bulletin">PDF</a> - Lent IV</td>
 		</tr>
 	</table>
 <p>Yearly archives:</p>
