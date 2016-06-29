@@ -1,11 +1,11 @@
-﻿<%@ Page Language="C#" masterpagefile="~/StJames.master" title="This Week's Bulletin" %>
+﻿<%@ Page Language="C#" masterpagefile="~/StJames.master" title="Bulletin for 26 June 2016" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
 
 <!-- HEADER GOES HERE -- edit the GetHeader below with your title also, edit the title above with your title -->
 <!-- DO NOT CHANGE THE TABLE STYLE IN THIS HEADER -->
 <table  style="margin-top:10px;" cellspacing="1" border="0" width="100%" >
   	<script language="javascript" type="text/javascript">
-		GetHeader("This Week's Bulletin: 26 June 2016", ""); 
+		GetHeader("Bulletin Archive: 26 June 2016", ""); 
 	</script>
 </table>
 <!-- END HEADER -->
@@ -21,10 +21,10 @@
 <!-- NOTE: 2) remove the "tableheader table" since we use our own header at the top -->
 <!-- NOTE: 3) Remove the footer StJames Logo and Address - we automatically put that in on every page-->
 
-<p>Link to the <a target="_bulletin" href="bulletin.pdf">PDF</a> of this week&#39;s 
-bulletin.</p>
-<p>Looking for an older bulletin? <a href="bulletins.aspx">Click here for the 
+
+<p><a href="../../bulletins.aspx">Click here for the 
 archive</a>.</p>
+<p>&nbsp;</p>
 <hr>
 
 <!-- Beginning of bulletin -->
@@ -92,7 +92,7 @@ Martinis</i>, <i>Leticia Iranon</i>, and <i>Micheal O’Rourke</i>.</p>
 	<tr>
 		<td style="font-family: Arial">
 		<p align="center">
-		<img border="0" src="../images/youth-ministry.png" width="406" height="61"></p>
+		<img border="0" src="../../images/youth-ministry.png" width="406" height="61"></p>
 
 <p><b>FAITH & FAMILY NIGHT WITH THE SEATTLE
 STORM</b> Thursday, June 30. Join us as we watch a
@@ -320,8 +320,6 @@ Covington.</p>
 
 <!-- End of bulletin -->
 
-<p>&nbsp;</p>
- 
 <!-- END CONTENT -->
 
 <!-- ALWAYS END THE PAGE WITH TAG BELOW -->
