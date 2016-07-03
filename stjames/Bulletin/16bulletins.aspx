@@ -143,6 +143,10 @@ parishioner community. </p>
 			<td><a href="16Bulletins/160619.aspx">June 19, 2016</a> - 
 			<a href="16Bulletins/160619.pdf" target="_bulletin">PDF</a></td>
 		</tr>
+		<tr>
+			<td><a href="16Bulletins/160626.aspx">June 26, 2016</a> - 
+			<a href="16Bulletins/160626.pdf" target="_bulletin">PDF</a></td>
+		</tr>
 	</table>
 <p>Back to <a href="bulletins.aspx">current archive</a>.</p>
 <p>&nbsp;</p>
