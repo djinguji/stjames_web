@@ -27,6 +27,10 @@ parishioner community. Here are links to the online bulletin.</p>
 <p>Here are links to recent bulletins:</p>
 	<table border="0" cellpadding="5" align="center" id="table2">
 		<tr>
+			<td><a href="16Bulletins/160710.aspx">July 10, 2016</a> - 
+			<a href="16Bulletins/160710.pdf" target="_bulletin">PDF</a></td>
+		</tr>
+		<tr>
 			<td><a href="16Bulletins/160703.aspx">July 3, 2016</a> - 
 			<a href="16Bulletins/160703.pdf" target="_bulletin">PDF</a></td>
 		</tr>
