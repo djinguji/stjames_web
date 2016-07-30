@@ -1,11 +1,11 @@
-﻿<%@ Page Language="C#" masterpagefile="~/StJames.master" title="This Week's Bulletin" %>
+﻿<%@ Page Language="C#" masterpagefile="~/StJames.master" title="Bulletin for 31 July 2016" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
 
 <!-- HEADER GOES HERE -- edit the GetHeader below with your title also, edit the title above with your title -->
 <!-- DO NOT CHANGE THE TABLE STYLE IN THIS HEADER -->
 <table  style="margin-top:10px;" cellspacing="1" border="0" width="100%" >
   	<script language="javascript" type="text/javascript">
-		GetHeader("This Week's Bulletin: 31 July 2016", ""); 
+		GetHeader("Bulletin Archive: 31 July 2016", ""); 
 	</script>
 </table>
 <!-- END HEADER -->
@@ -21,10 +21,10 @@
 <!-- NOTE: 2) remove the "tableheader table" since we use our own header at the top -->
 <!-- NOTE: 3) Remove the footer StJames Logo and Address - we automatically put that in on every page-->
 
-<p>Link to the <a target="_bulletin" href="bulletin.pdf">PDF</a> of this week&#39;s 
-bulletin.</p>
-<p>Looking for an older bulletin? <a href="bulletins.aspx">Click here for the 
+
+<p><a href="../../bulletins.aspx">Click here for the 
 archive</a>.</p>
+<p>&nbsp;</p>
 <hr>
 
 <!-- Beginning of bulletin -->
@@ -85,7 +85,7 @@ Margaret Lynch</a>, 206-382-4288.</p>
 	<tr>
 		<td style="font-family: Arial">
 		<p align="center">
-		<img border="0" src="../images/youth-ministry.png" width="406" height="61"></p>
+		<img border="0" src="../../images/youth-ministry.png" width="406" height="61"></p>
 
 <p><b>WORLD YOUTH DAY PILGRIMS</b>. This week a group
 from our parish will set out on pilgrimage to
@@ -174,7 +174,7 @@ only until late September. If you are aware of a
 possible new site in or very near to Downtown for
 WHEEL, or if you have questions, contact Patrick Barredo, 206-382-4515.</p>
 <p><b>
-<img border="0" src="../images/JVEnCorps.png" width="158" height="55" align="right">JESUIT 
+<img border="0" src="../../images/JVEnCorps.png" width="158" height="55" align="right">JESUIT 
 VOLUNTEER ENCORPS (JV ENCORPS)</b>, a program of JVC Northwest, facilitates 
 transformative opportunities for intentional service, community and spiritual 
 formation for older adults committed to social and ecological justice. During 
@@ -226,8 +226,6 @@ Darrington; and St. Ignatius Chapel at Seattle University.</p>
 
 <!-- End of bulletin -->
 
-<p>&nbsp;</p>
- 
 <!-- END CONTENT -->
 
 <!-- ALWAYS END THE PAGE WITH TAG BELOW -->

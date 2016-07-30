@@ -155,6 +155,14 @@ parishioner community. </p>
 			<td><a href="16Bulletins/160710.aspx">July 10, 2016</a> - 
 			<a href="16Bulletins/160710.pdf" target="_bulletin">PDF</a></td>
 		</tr>
+		<tr>
+			<td><a href="16Bulletins/160717.aspx">July 17, 2016</a> - 
+			<a href="16Bulletins/160717.pdf" target="_bulletin">PDF</a></td>
+		</tr>
+		<tr>
+			<td><a href="16Bulletins/160724.aspx">July 24, 2016</a> - 
+			<a href="16Bulletins/160724.pdf" target="_bulletin">PDF</a> - St. James</td>
+		</tr>
 	</table>
 <p>Back to <a href="bulletins.aspx">current archive</a>.</p>
 <p>&nbsp;</p>

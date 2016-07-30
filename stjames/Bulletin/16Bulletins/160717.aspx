@@ -197,9 +197,11 @@ this tournament has raised hundreds of thousands of
 dollars to support Cathedral outreach ministries. Please
 be a part of it this year, by golfing, attending the
 dinner, sponsoring a hole, or donating an item to our
-auction! Information, Maria Laughlin, 206-382-4284
-or mlaughlin@stjames-cathedral.org. Download
-registration materials at www.stjames-cathedral.org/golf.</p>
+auction! <i>Information</i>, 
+<a href="mailto:mlaughlin@stjames-cathedral.org?subject=Hunthausen Golf Tournament">
+Maria Laughlin</a>, 206-382-4284. Download
+registration materials at 
+<a target="_bulletin" href="http://www.stjames-cathedral.org/golf">www.stjames-cathedral.org/golf</a>.</p>
 <p><b>BABYSITTING</b> is available for children up to four years of age on 
 Sundays during the 10:00am and Noon Masses. The program is located in the Mother 
 Cabrini Room on the first floor of the Pastoral Outreach Center; enter through 
@@ -227,7 +229,7 @@ Margaret Lynch</a>, 206-382-4288.</p>
 and balance in a comfortable atmosphere with gentle
 yoga practice on Thursdays, 6:30 – 7:30 pm in the
 Pastoral Outreach Center, 907 Columbia Street.
-<b>Information, Nancy Granger 206-382-4369.</b></p>
+<i>Information</i>, Nancy Granger 206-382-4369.</p>
 <p><b>CONFRONTING PORNOGRAPHY SUPPORT GROUP:
 *NEW DAY/PLACE*</b> St. James holds an anonymous support group to overcome 
 	habits of porn use on Wednesdays, 8pm in the Pastoral Outreach Center (907 
