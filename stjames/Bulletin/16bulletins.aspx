@@ -167,6 +167,38 @@ parishioner community. </p>
 			<td><a href="16Bulletins/160731.aspx">July 31, 2016</a> - 
 			<a href="16Bulletins/160731.pdf" target="_bulletin">PDF</a></td>
 		</tr>
+		<tr>
+			<td><a href="16Bulletins/160807.aspx">August 7, 2016</a> - 
+			<a href="16Bulletins/160807.pdf" target="_bulletin">PDF</a></td>
+		</tr>
+		<tr>
+			<td><a href="16Bulletins/160814.aspx">August 14, 2016</a> - 
+			<a href="16Bulletins/160814.pdf" target="_bulletin">PDF</a></td>
+		</tr>
+		<tr>
+			<td><a href="16Bulletins/160821.aspx">August 21, 2016</a> - 
+			<a href="16Bulletins/160821.pdf" target="_bulletin">PDF</a></td>
+		</tr>
+		<tr>
+			<td><a href="16Bulletins/160828.aspx">August 28, 2016</a> - 
+			<a href="16Bulletins/160828.pdf" target="_bulletin">PDF</a></td>
+		</tr>
+		<tr>
+			<td><a href="16Bulletins/160904.aspx">September 4, 2016</a> - 
+			<a href="16Bulletins/160904.pdf" target="_bulletin">PDF</a></td>
+		</tr>
+		<tr>
+			<td><a href="16Bulletins/160911.aspx">September 11, 2016</a> - 
+			<a href="16Bulletins/160911.pdf" target="_bulletin">PDF</a></td>
+		</tr>
+		<tr>
+			<td><a href="16Bulletins/160918.aspx">September 18, 2016</a> - 
+			<a href="16Bulletins/160918.pdf" target="_bulletin">PDF</a></td>
+		</tr>
+		<tr>
+			<td><a href="16Bulletins/160925.aspx">September 25, 2016</a> - 
+			<a href="16Bulletins/160925.pdf" target="_bulletin">PDF</a></td>
+		</tr>
 	</table>
 <p>Back to <a href="bulletins.aspx">current archive</a>.</p>
 <p>&nbsp;</p>

@@ -22,7 +22,7 @@
 <!-- NOTE: 3) Remove the footer StJames Logo and Address - we automatically put that in on every page-->
 
 
-<p><a href="../../bulletins.aspx">Click here for the 
+<p><a href="../bulletins.aspx">Click here for the 
 archive</a>.</p>
 <p>&nbsp;</p>
 <hr>
@@ -111,8 +111,8 @@ partnership with Salaam Cultural Museum Medical
 Missions. <i>Information</i>,
 <a href="mailto:ckoehler@stjames-cathedral.org?subject=Donate Clothes for Refugees in Greece">
 Christopher Koehler</a>, 206-382-4511.</p>
-<p><b>SAVE THE DATE FOR BOLDLY LIVING THE GOSPEL
-ON NONVIOLENCE AND JUST PEACE</b>. A half-day of
+<p><b>SAVE THE DATE FOR <i>BOLDLY LIVING THE GOSPEL
+ON NONVIOLENCE AND JUST PEACE</i></b>. A half-day of
 education, prayer, reflection and public witness on
 Saturday, September 24, 10am to 12:45pm at St.
 Francis of Assisi Parish in Burien. Learn about: the

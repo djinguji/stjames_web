@@ -22,7 +22,7 @@
 <!-- NOTE: 3) Remove the footer StJames Logo and Address - we automatically put that in on every page-->
 
 
-<p><a href="../../bulletins.aspx">Click here for the 
+<p><a href="../bulletins.aspx">Click here for the 
 archive</a>.</p>
 <p>&nbsp;</p>
 <hr>
