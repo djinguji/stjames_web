@@ -302,10 +302,6 @@ Holy Communion on September 25.</p>
 <table cellpadding="8" border="2" width="100%">
 	<tr>
 		<td style="font-family: Arial">
-		<p align="center"><font face="Monotype Corsiva" size="6">Sacred Steps<br>
-		</font><font face="Times New Roman" size="4">Sacramental Celebrations at 
-		St. James</font></p>
-
 <p align="center"><font face="Times New Roman" size="4">SOUTH SEATTLE DEANERY
 PASTORAL PLANNING PROJECT</font></p>
 <p align="center"><font face="Lucida Calligraphy" size="5">Parish-Wide Listening Sessions</font></p>

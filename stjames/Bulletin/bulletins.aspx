@@ -27,6 +27,10 @@ parishioner community. Here are links to the online bulletin.</p>
 <p>Here are links to recent bulletins:</p>
 	<table border="0" cellpadding="5" align="center" id="table2">
 		<tr>
+			<td><a href="16Bulletins/161002.aspx">October 2, 2016</a> - 
+			<a href="16Bulletins/161002.pdf" target="_bulletin">PDF</a></td>
+		</tr>
+		<tr>
 			<td><a href="16Bulletins/160925.aspx">September 25, 2016</a> - 
 			<a href="16Bulletins/160925.pdf" target="_bulletin">PDF</a></td>
 		</tr>
@@ -57,26 +61,6 @@ parishioner community. Here are links to the online bulletin.</p>
 		<tr>
 			<td><a href="16Bulletins/160807.aspx">August 7, 2016</a> - 
 			<a href="16Bulletins/160807.pdf" target="_bulletin">PDF</a></td>
-		</tr>
-		<tr>
-			<td><a href="16Bulletins/160731.aspx">July 31, 2016</a> - 
-			<a href="16Bulletins/160731.pdf" target="_bulletin">PDF</a></td>
-		</tr>
-		<tr>
-			<td><a href="16Bulletins/160724.aspx">July 24, 2016</a> - 
-			<a href="16Bulletins/160724.pdf" target="_bulletin">PDF</a> - St. James</td>
-		</tr>
-		<tr>
-			<td><a href="16Bulletins/160717.aspx">July 17, 2016</a> - 
-			<a href="16Bulletins/160717.pdf" target="_bulletin">PDF</a></td>
-		</tr>
-		<tr>
-			<td><a href="16Bulletins/160710.aspx">July 10, 2016</a> - 
-			<a href="16Bulletins/160710.pdf" target="_bulletin">PDF</a></td>
-		</tr>
-		<tr>
-			<td><a href="16Bulletins/160703.aspx">July 3, 2016</a> - 
-			<a href="16Bulletins/160703.pdf" target="_bulletin">PDF</a></td>
 		</tr>
 	</table>
 <p>Yearly archives:</p>
