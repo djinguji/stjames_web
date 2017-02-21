@@ -5,7 +5,7 @@
 <!-- DO NOT CHANGE THE TABLE STYLE IN THIS HEADER -->
 <table  style="margin-top:10px;" cellspacing="1" border="0" width="100%" >
   	<script language="javascript" type="text/javascript">
-		GetHeader("Parish Bulletin Archive", "2014-2015"); 
+		GetHeader("Parish Bulletin Archive", "2015-2016"); 
 	</script>
 </table>
 <!-- END HEADER -->
@@ -202,6 +202,34 @@ parishioner community. </p>
 		<tr>
 			<td><a href="16Bulletins/161002.aspx">October 2, 2016</a> - 
 			<a href="16Bulletins/161002.pdf" target="_bulletin">PDF</a></td>
+		</tr>
+		<tr>
+			<td><a href="16Bulletins/161009.aspx">October 9, 2016</a> - 
+			<a href="16Bulletins/161009.pdf" target="_bulletin">PDF</a></td>
+		</tr>
+		<tr>
+			<td><a href="16Bulletins/161016.aspx">October 16, 2016</a> - 
+			<a href="16Bulletins/161016.pdf" target="_bulletin">PDF</a></td>
+		</tr>
+		<tr>
+			<td><a href="16Bulletins/161023.aspx">October 23, 2016</a> - 
+			<a href="16Bulletins/161023.pdf" target="_bulletin">PDF</a></td>
+		</tr>
+		<tr>
+			<td><a href="16Bulletins/161030.aspx">October 30, 2016</a> - 
+			<a href="16Bulletins/161030.pdf" target="_bulletin">PDF</a></td>
+		</tr>
+		<tr>
+			<td><a href="16Bulletins/161106.aspx">November 6, 2016</a> - 
+			<a href="16Bulletins/161106.pdf" target="_bulletin">PDF</a></td>
+		</tr>
+		<tr>
+			<td><a href="16Bulletins/161113.aspx">November 13, 2016</a> - 
+			<a href="16Bulletins/161113.pdf" target="_bulletin">PDF</a></td>
+		</tr>
+		<tr>
+			<td><a href="16Bulletins/161120.aspx">November 20, 2016</a> - Christ the King
+			<a href="16Bulletins/161120.pdf" target="_bulletin">PDF</a></td>
 		</tr>
 	</table>
 <p>Back to <a href="bulletins.aspx">current archive</a>.</p>

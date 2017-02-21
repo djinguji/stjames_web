@@ -27,53 +27,64 @@ parishioner community. Here are links to the online bulletin.</p>
 <p>Here are links to recent bulletins:</p>
 	<table border="0" cellpadding="5" align="center" id="table2">
 		<tr>
-			<td><a href="16Bulletins/161002.aspx">October 2, 2016</a> - 
-			<a href="16Bulletins/161002.pdf" target="_bulletin">PDF</a></td>
+			<td><a href="17Bulletins/170212.aspx">February 12, 2017</a>
+			<a href="17Bulletins/170212.pdf" target="_bulletin">PDF</a></td>
 		</tr>
 		<tr>
-			<td><a href="16Bulletins/160925.aspx">September 25, 2016</a> - 
-			<a href="16Bulletins/160925.pdf" target="_bulletin">PDF</a></td>
+			<td><a href="17Bulletins/170205.aspx">February 5, 2017</a>
+			<a href="17Bulletins/170205.pdf" target="_bulletin">PDF</a></td>
 		</tr>
 		<tr>
-			<td><a href="16Bulletins/160918.aspx">September 18, 2016</a> - 
-			<a href="16Bulletins/160918.pdf" target="_bulletin">PDF</a></td>
+			<td><a href="17Bulletins/170129.aspx">January 29, 2017</a>
+			<a href="17Bulletins/170129.pdf" target="_bulletin">PDF</a></td>
 		</tr>
 		<tr>
-			<td><a href="16Bulletins/160911.aspx">September 11, 2016</a> - 
-			<a href="16Bulletins/160911.pdf" target="_bulletin">PDF</a></td>
+			<td><a href="17Bulletins/170122.aspx">January 22, 2017</a>
+			<a href="17Bulletins/170122.pdf" target="_bulletin">PDF</a></td>
 		</tr>
 		<tr>
-			<td><a href="16Bulletins/160904.aspx">September 4, 2016</a> - 
-			<a href="16Bulletins/160904.pdf" target="_bulletin">PDF</a></td>
+			<td><a href="17Bulletins/170115.aspx">January 15, 2017</a>
+			<a href="17Bulletins/170115.pdf" target="_bulletin">PDF</a></td>
 		</tr>
 		<tr>
-			<td><a href="16Bulletins/160828.aspx">August 28, 2016</a> - 
-			<a href="16Bulletins/160828.pdf" target="_bulletin">PDF</a></td>
+			<td><a href="17Bulletins/170108.aspx">January 8, 2017</a> - Epiphany
+			<a href="17Bulletins/170108.pdf" target="_bulletin">PDF</a></td>
 		</tr>
 		<tr>
-			<td><a href="16Bulletins/160821.aspx">August 21, 2016</a> - 
-			<a href="16Bulletins/160821.pdf" target="_bulletin">PDF</a></td>
+			<td><a href="17Bulletins/170101.aspx">January 1, 2017</a> - Mary, the Mother of God
+			<a href="17Bulletins/170101.pdf" target="_bulletin">PDF</a></td>
 		</tr>
 		<tr>
-			<td><a href="16Bulletins/160814.aspx">August 14, 2016</a> - 
-			<a href="16Bulletins/160814.pdf" target="_bulletin">PDF</a></td>
+			<td><a href="17Bulletins/161225.aspx">December 25, 2016</a> - Christmas
+			<a href="17Bulletins/161225.pdf" target="_bulletin">PDF</a></td>
 		</tr>
 		<tr>
-			<td><a href="16Bulletins/160807.aspx">August 7, 2016</a> - 
-			<a href="16Bulletins/160807.pdf" target="_bulletin">PDF</a></td>
+			<td><a href="17Bulletins/161218.aspx">December 18, 2016</a> - Advent IV
+			<a href="17Bulletins/161218.pdf" target="_bulletin">PDF</a></td>
+		</tr>
+		<tr>
+			<td><a href="17Bulletins/161211.aspx">December 11, 2016</a> - Advent III
+			<a href="17Bulletins/161211.pdf" target="_bulletin">PDF</a></td>
+		</tr>
+		<tr>
+			<td><a href="17Bulletins/161204.aspx">December 4, 2016</a> - Advent II
+			<a href="17Bulletins/161204.pdf" target="_bulletin">PDF</a></td>
 		</tr>
 	</table>
 <p>Yearly archives:</p>
 	<table border="0" cellpadding="5" align="center" id="table1">
 		<tr>
+<!--
 			<td><a href="09bulletins.aspx">2009</a></td>
 			<td><a href="10bulletins.aspx">2010</a></td>
 			<td><a href="11bulletins.aspx">2011</a></td>
 			<td><a href="12bulletins.aspx">2012</a></td>
+-->
 			<td><a href="13bulletins.aspx">2013</a></td>
 			<td><a href="14bulletins.aspx">2014</a></td>
 			<td><a href="15bulletins.aspx">2015</a></td>
 			<td><a href="16bulletins.aspx">2016</a></td>
+			<td><a href="17bulletins.aspx">2017</a></td>
 		</tr>
 	</table>
 
