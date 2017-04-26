@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" masterpagefile="~/StJames.master" title="Parish Bulletin Archive" %>
+<%@ Page Language="C#" masterpagefile="~/StJames.master" title="Parish Bulletin Archive" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
 
 <!-- HEADER GOES HERE -- edit the GetHeader below with your title also, edit the title above with your title -->
@@ -70,6 +70,42 @@ parishioner community. </p>
 		<tr>
 			<td><a href="17Bulletins/170212.aspx">February 12, 2017</a>
 			<a href="17Bulletins/170212.pdf" target="_bulletin">PDF</a></td>
+		</tr>
+		<tr>
+			<td><a href="17Bulletins/170219.aspx">February 19, 2017</a>
+			<a href="17Bulletins/170219.pdf" target="_bulletin">PDF</a></td>
+		</tr>
+		<tr>
+			<td><a href="17Bulletins/170226.aspx">February 26, 2017</a>
+			<a href="17Bulletins/170226.pdf" target="_bulletin">PDF</a></td>
+		</tr>
+		<tr>
+			<td><a href="17Bulletins/170305.aspx">March 5, 2017</a> - Lent I
+			<a href="17Bulletins/170305.pdf" target="_bulletin">PDF</a></td>
+		</tr>
+		<tr>
+			<td><a href="17Bulletins/170312.aspx">March 12, 2017</a> - Lent II
+			<a href="17Bulletins/170312.pdf" target="_bulletin">PDF</a></td>
+		</tr>
+		<tr>
+			<td><a href="17Bulletins/170319.aspx">March 19, 2017</a> - Lent III
+			<a href="17Bulletins/170319.pdf" target="_bulletin">PDF</a></td>
+		</tr>
+		<tr>
+			<td><a href="17Bulletins/170326.aspx">March 26, 2017</a> - Lent IV
+			<a href="17Bulletins/170326.pdf" target="_bulletin">PDF</a></td>
+		</tr>
+		<tr>
+			<td><a href="17Bulletins/170402.aspx">April 2, 2017</a> - Lent V
+			<a href="17Bulletins/170402.pdf" target="_bulletin">PDF</a></td>
+		</tr>
+		<tr>
+			<td><a href="17Bulletins/170409.aspx">April 9, 2017</a> - Palm Sunday
+			<a href="17Bulletins/170409.pdf" target="_bulletin">PDF</a></td>
+		</tr>
+		<tr>
+			<td><a href="17Bulletins/170416.aspx">April 16, 2017</a> - Easter Sunday
+			<a href="17Bulletins/170416.pdf" target="_bulletin">PDF</a></td>
 		</tr>
 	</table>
 <p>Back to <a href="bulletins.aspx">current archive</a>.</p>
