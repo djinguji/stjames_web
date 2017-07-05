@@ -18,10 +18,10 @@
 <!-- NOTE: 2) remove the "tableheader table" since we use our own header at the top -->
 <!-- NOTE: 3) Remove the footer StJames Logo and Address - we automatically put that in on every page-->
 
-<h1>Weekly Bulletin, 2015-2016</h1>
+<h1>Weekly Bulletin, 2016-2017</h1>
 <p>The weekly bulletin is one of the primary ways we communicate with our 
 parishioner community. </p>
-<p>Here are links to the online bulletin for the liturgical year, 2015-2016.</p>
+<p>Here are links to the online bulletin for the liturgical year, 2016-2017.</p>
 	<table border="0" cellpadding="5" align="center" id="table1">
 		<tr>
 			<td><a href="17Bulletins/161127.aspx">November 27, 2016</a> - 
@@ -106,6 +106,46 @@ parishioner community. </p>
 		<tr>
 			<td><a href="17Bulletins/170416.aspx">April 16, 2017</a> - Easter Sunday
 			<a href="17Bulletins/170416.pdf" target="_bulletin">PDF</a></td>
+		</tr>
+		<tr>
+			<td><a href="17Bulletins/170423.aspx">April 23, 2017</a> - Easter II
+			<a href="17Bulletins/170423.pdf" target="_bulletin">PDF</a></td>
+		</tr>
+		<tr>
+			<td><a href="17Bulletins/170430.aspx">April 30, 2017</a> - Easter III
+			<a href="17Bulletins/170430.pdf" target="_bulletin">PDF</a></td>
+		</tr>
+		<tr>
+			<td><a href="17Bulletins/170507.aspx">May 7, 2017</a> - Easter IV
+			<a href="17Bulletins/170507.pdf" target="_bulletin">PDF</a></td>
+		</tr>
+		<tr>
+			<td><a href="17Bulletins/170514.aspx">May 14, 2017</a> - Easter V
+			<a href="17Bulletins/170514.pdf" target="_bulletin">PDF</a></td>
+		</tr>
+		<tr>
+			<td><a href="17Bulletins/170521.aspx">May 21, 2017</a> - Easter VI
+			<a href="17Bulletins/170521.pdf" target="_bulletin">PDF</a></td>
+		</tr>
+		<tr>
+			<td><a href="17Bulletins/170528.aspx">May 28, 2017</a> - Ascension
+			<a href="17Bulletins/170528.pdf" target="_bulletin">PDF</a></td>
+		</tr>
+		<tr>
+			<td><a href="17Bulletins/170604.aspx">June 4, 2017</a> - Pentecost
+			<a href="17Bulletins/170604.pdf" target="_bulletin">PDF</a></td>
+		</tr>
+		<tr>
+			<td><a href="17Bulletins/170611.aspx">June 11, 2017</a> - Trinity
+			<a href="17Bulletins/170611.pdf" target="_bulletin">PDF</a></td>
+		</tr>
+		<tr>
+			<td><a href="17Bulletins/170618.aspx">June 18, 2017</a> - Corpus Christi
+			<a href="17Bulletins/170618.pdf" target="_bulletin">PDF</a></td>
+		</tr>
+		<tr>
+			<td><a href="17Bulletins/170625.aspx">June 25, 2017</a> 
+			<a href="17Bulletins/170625.pdf" target="_bulletin">PDF</a></td>
 		</tr>
 	</table>
 <p>Back to <a href="bulletins.aspx">current archive</a>.</p>
