@@ -5,7 +5,7 @@
 <!-- DO NOT CHANGE THE TABLE STYLE IN THIS HEADER -->
 <table  style="margin-top:10px;" cellspacing="1" border="0" width="100%" >
   	<script language="javascript" type="text/javascript">
-		GetHeader("This Week's Bulletin: 2 July 2017", ""); 
+		GetHeader("This Week's Bulletin: 8 October 2017", ""); 
 	</script>
 </table>
 <!-- END HEADER -->
@@ -28,39 +28,6 @@ archive</a>.</p>
 
 <!-- Beginning of bulletin -->
 
-<table width=100%><tr><td width=50% style="font-family: Arial"></td>
-	<td width=50% style="font-family: Arial"><br>
-	July 2, 2017</td></tr></table>
-<p>Dear Friends,</p>
-<p>The last couple of months have been among the busiest I can
-remember. In addition to the usual round of Confirmations, Baccalaureates,
-and graduations we have every spring, we had two major archdiocesan
-celebrations: the ordination of our new auxiliary bishop, Daniel
-Mueggenborg, followed by the ordination of four new priests for the
-archdiocese. And, of course, there were, as always, a good number of
-baptisms, weddings, and funerals. It’s seldom, if ever, quiet at St. James
-Cathedral!</p>
-<p>Even so, we are going to take advantage of what we hope will be a
-summer lull to do some necessary maintenance work on the cathedral chapel.
-You may have noticed that the chapel’s south wall has some serious plaster
-problems which must be attended to and doing that will necessitate
-repainting the entire chapel. It’s been twenty-five years since the chapel was
-last painted, so it’s time!</p>
-<p>During the several weeks involved in this project, the chapel will be
-closed.</p>
-<p>Future maintenance projects (that will begin in the fall) will involve
-major work on the beautiful decorative terra cotta at the upper levels of both
-Cathedral towers. As you might expect, the ravages of time and weather on
-an historic building like ours demands the periodic expenditure of significant
-amounts of money.</p>
-<p>Stay tuned. It’s unlikely that we will run out of projects like these very
-soon. Happy summer!</p>
-<table width=100%><tr><td width=50% style="font-family: Arial"></td>
-	<td width=50% style="font-family: Arial"><img src="../images/FrRyan.gif" width="179" height="53"><br>
-Father Michael G. Ryan<br>
-	<i>Pastor of St. James Cathedral</i></td></tr></table>
-<hr/>
-
 <p><b>WELCOME!</b> <i>If you are a visitor to the
 Cathedral, we want you to know how
 welcome you are – whether you have come
@@ -70,193 +37,197 @@ Archdiocese. For more information about the parish,
 to register, or to ask a question, visit our <b>Sunday 
 Help Desk</b> at Coffee Hour. A Cathedral staff person 
 will be on hand to assist you.</i> </p>
-<p><b>ON THE COVER</b> “<i>Elisha promised, This time next year
-you will be fondling a baby son</i>.” (2 Kings 4:16). Detail
-of the Ceremonial Bronze Doors, Ulrich Henn, sculptor.</p>
-<p><b>FLOWERS AT THE ALTAR</b> are from Dan and Carol DeMatteis in loving memory of their son Danny on the
-5th anniversary of his death.</p>
-<p><b>CAMINO SEATTLE WALK AFTER 10:00AM MASS
-TODAY: HISTORIC FIRST HILL</b>. This short (about 2 mile)
-walk in our First Hill neighborhood will highlight some
-of the city’s oldest civic buildings, hospitals, homes,
-and schools. Find out why First Hill has been called
-“Profanity Hill” and “Pill Hill”! Gather on the front
-steps of the Cathedral, in front of the bronze doors,
-immediately following the 10:00am Mass today.</p>
-<p><b>INDEPENDENCE DAY HOLIDAY</b>. On Monday, July 3 and
-Tuesday, July 4, the Parish Office will be closed in
-observance of the national holiday. Masses will follow
-the usual schedule on July 3. On July 4, there will be
-just one Mass in the Cathedral, at 9:00am, and the
-Cathedral will be closed following the Mass.</p>
-<p><b>CINCINNATI BOYCHOIR LUNCHTIME CONCERT</b>
-Thursday, July 6 at 12:15pm in the Cathedral. The
-renowned Cincinnati Boychoir Ambassadors will
-perform throughout the Pacific Northwest, bringing
-with them repertoire from Bach and Mozart to African-American Spirituals, historical gospel songs, and more.
-The Ambassadors is an elite group. This is a free
-concert.</p>
-<p><b>FIRST FRIDAY EXPOSITION AND HOLY HOUR</b>. Friday,
-July 7 is First Friday. Exposition of the Blessed
-Sacrament will begin immediately following the 8:15am
-Mass, and continue until 1:00pm. Holy Hour will be
-prayed at 12 Noon, with hymns, readings, and rosary.</p>
-<p><b>JOURNEY: CONTEMPLATIVE PRAYER WITH MUSIC
-FROM TAIZE</b>. This Friday, July 7, at 6:30pm in the
-Cathedral, join us for a contemplative candlelight prayer
-with music from the ecumenical community of Taizé in
-France.</p>
-
-<table cellpadding="8" border="2" width="100%">
-	<tr>
-		<td style="font-family: Arial">
-		<p align="center"><font face="Monotype Corsiva" size="6">
-		Opportunities to Serve<br>
-		</font><i>Do you long to get more involved in the Cathedral
-parish and find ways to meet fellow parishioners and
-form community here? The best way to do that is by
-getting involved in one of our many ministries!
-<br>
-		Here are some current opportunities.</i></p>
-		<p><b>MENTAL HEALTH & WELLNESS MINISTRY</b> is in need of well-suited volunteers 
-to offer ministry of presence during weekday meals at Cathedral Kitchen and 
-during all liturgies. If you would like to learn more about this opportunity to 
-provide a sense of welcoming, safety, and comfort to our fellow brothers and 
-sisters who experience homelessness and mental health challenges, please contact
-<a href="mailto:ngranger@stjames-cathedral.org?subject=Mental Health & Wellness Ministry volunteers">
-Nancy Granger</a>, 206-382-4269.</p>
-		<p><b>INTENTIONAL SERVICE!</b> Jesuit Volunteer EnCorps (JV
-EnCorps) is now accepting applications for 2017-18!
-JV EnCorps, a program of JVC Northwest, facilitates
-transformative opportunities for service, community
-and spiritual formation for adults 50 and older who are
-committed to social and ecological justice. During
-their ten months of part-time volunteer service,
-participants meet regularly in community to deepen
-their spirituality and explore the values of community,
-simple living and social & ecological justice. Priority
-application deadline: August 15th. <i>Information</i>,
-<a href="mailto:JVESeattle@jvcnorthwest.org">JVESeattle@jvcnorthwest.org</a> or 
-<a target="_bulletin" href="http://www.jvencorps.org">www.jvencorps.org</a>.</p>
-</td></tr></table>
-<p><b>NOTE FOR THOSE PARKING IN THE CABRINI GARAGE</b>:
-Please note that parking at Cabrini is by “head in” only.
-No “back in” parking is allowed. There are utility lines
-and other equipment in the garage which have been
-damaged by people backing into a parking place. Thank
-you for your cooperation.</p>
-	<p><b>SUMMER ORGAN RECITAL SERIES</b>. On Friday, July
-14 at 7:00pm, Robert Huw Morgan, University
-Organist at Stanford University will present a program
-of Bach, Wynslate, Preston, Tomkins, Rachmaninoff,
-Schumann. Passes are available at 
-<a target="_bulletin" href="http://www.stjames-cathedral.org/music">www.stjames-cathedral.org/music</a> or at the door for a suggested $15
-donation. Join us after each concert in the 2017
-Summer Organ Recital Series for a gelato reception in
-the Cathedral courtyard!</p>
-<p><b>ST VINCENT DE PAUL THANKS YOU</b>. We visited a
-delightful grandpa with no income who had to move
-out of his longtime apartment several months before,
-leaving behind a large waterbed filled with memories
-of his “grand babies” making the water slosh back and
-forth with laughter before they would settle down to
-sleep. At his new apartment, his adult children give
-him what financial support they can. But they could
-not afford a bed, and he was having great difficulty
-sleeping on a borrowed and very lumpy old futon. We
-could not provide a new water bed but did give him a
-new, “standard” bed that made him very happy. Thank
-you for giving grandpa the gift of sleep! <i>Information</i>,
-<a href="mailto:bobclifford53@gmail.com?subject=St. Vincent de Paul">Bob 
-Clifford</a>, 206-718-4158.</p>
-
-<table cellpadding="8" border="2" width="100%">
-	<tr>
-		<td style="font-family: Arial">
-		<p align="center">
-		<font face="Times New Roman" size="5">
-		<i>
-		YOUNG ADULT MINISTRY</i></font><br>
-		For parishioners in their 20s and 30s</p>
-
-<p><b>TAIZÉ + PIZZA</b>. Join other young adults this Friday,
-July 7 at 6:30pm for ecumenical prayer with music
-from Taizé. After the prayer you’re invited to meet
-in the Archbishop Murphy Coutryard and head out
-for a slice of pizza and fellowship with other young
-adults.</p>
-		<p align="center"><i>Information</i>,
-		<a href="mailto:cleighton@stjames-cathedral.org?subject=Cathedral Young Adults">
-		Curtis Leighton</a>, 206-264-2082</p>
-</td></tr></table>
-
-<p><b>IS YOUR CHILD 5 YEARS OLD?</b> Now is a good time to
-begin the two-year preparation process for First
-Communion. First Communion typically occurs when
-a child is 7 years old. <i>Information</i>,
-<a href="mailto:bbellamy@stjames-cathedral.org?subject=Sacramental Preparation">
+<p><b>FLOWERS AT THE ALTAR</b> are offered by
+Bridget Cooley in loving memory of Dick
+Cooley, on the first anniversary of his death
+and the fourteenth anniversary of their
+wedding day. Flowers are also from the
+Saturday wedding of Ellie McDonnell and
+Casey Robertshaw.</p>
+<p><b>REMEMBERING OUR BELOVED DEAD</b>. You are invited
+to write the names of deceased loved ones in the Book
+of Remembrance which has been placed near the Shrine
+of the Blessed Virgin Mary. This book will be carried in
+procession at the solemn Requiem Mass of All Souls on
+Thursday, November 2 at 7:30pm.</p>
+<p><b>PROTECTING GOD’S CHILDREN – SAFE ENVIRONMENT TRAINING FOR NEW VOLUNTEERS</b>. 
+Are you a volunteer at St. James working with children or vulnerable adults? 
+Safe Environment Training will be offered Sunday, November 12 from 1:30–4:30pm 
+in Cathedral Place, 2nd floor, Room 1EW. You must pre-register online for this 
+class at 
+<a target="_bulletin" href="https://www.virtusonline.org/virtus/">https://www.virtusonline.org/virtus/</a>;
+go to Seattle Archdiocese, and look for the
+November 12th class. 
+<i>Information</i>, 
+<a href="mailto:tvandeven@stjames-cathedral.org?subject=Safe Environment">Theresa Van de Ven</a> 
+at 206-219-5822, or
+<a href="mailto:slee@stjames-cathedral.org?subject=Safe Environment">Suzanne Lee</a> 
+at 206-979-6308.</p>
+<p><b>TALK ABOUT THE GOSPEL!</b> This year, the
+children of our Faith Formation programs are
+focused on the Bible. Watch this space in the
+bulletin each week for a few questions you
+might want to use for a conversation on the
+way home from church! This week’s Gospel
+reading is Matthew 21:33-43.What was
+today’s Gospel about? A “tenant” is a renter,
+not an owner. Have you ever borrowed
+something from someone? Did you take good
+care of it? What do you think Jesus means by
+the “vineyard”? What has God given to us to
+take good care of?</p>
+<p><b>95 FAMILIES HAVE REGISTERED THEIR CHILDREN
+FOR FAITH FORMATION CLASSES</b>. It’s not too late to join them. <i>
+Information</i>,
+<a href="mailto:bbellamy@stjames-cathedral.org?subject=Children's Faith Formation">
 Brenda Bellamy</a>, 206-274-3108.</p>
-<p><b>THE SUNDAY RESOURCE ROOM IN GALLAGHER
-CENTER</b> now shares space with Solanus Casey Center,
-which is in operation Monday-Thursday 1–4pm.
-Gallagher Center Resource Room is open on Sundays
-from 9:30am – 1:30pm. The Parish Mental Health
-Nurse and MHWM volunteers welcome you to stop by
-to enjoy hospitality, respectful listening, and inquire
-about resources pertaining to mental health and
-wellness.</p>
-<p><b>THE MENTAL HEALTH & WELLNESS MINISTRY’S
-DROP-IN ART GROUP</b> has changed location. This
-activity will now take place in the Mother Cabrini
-Room of the Pastoral Outreach Center. Entrance is
-through patio on SE corner of 9th Ave and Columbia
-Street. Join us on the second and fourth Thursday of
-the month from 12:00pm - 2:00pm to enjoy
-socialization and various types of creative arts and
-crafts. All are welcomed. No artistic experience
-necessary! Due to vacation, there will be no class on
-July 13—next session is July 27.</p>
-<p><b>A WEEKLY TIP ON CARING FOR OUR COMMON HOME</b>.
-When eating at a buffet restaurant, or even at Sunday
-Coffee Hour, you can help conserve natural resources
-and reduce waste by taking just one plate, one napkin
-and only the utensils you need. Encourage others to do
-the same. And remember that all plates, utensils and
-cups used at the Cathedral are compostable.</p>
-<p><b>GATES FOUNDATION TOUR</b>. On Wednesday, July 26
-at 11am, St. James Social Outreach and Advocacy is
-sponsoring a tour of the Gates Foundation campus in
-South Lake Union to learn about their work locally
-and globally. If you are interested, please RSVP at
-<a href="mailto:outreach@stjames-cathedral.org?subject=Gates Foundation Tour">outreach@stjames-cathedral.org</a> or 206-382-4515.
-Limited transportation will be available from the
-Cathedral.</p>
+<p><b>OUR ANNUAL MENTAL HEALTH AND
+WELLNESS FAIR</b> will take place during
+Coffee Hours following the 10am and Noon
+masses on Sunday, October 8. Please drop by
+to meet representatives from various service
+organizations in our community.</p>
+<p><b>ST VINCENT DE PAUL THANKS YOU</b>. A young
+man who works for another charitable
+organization that helps the homeless called the SVdP Helpline because he could not pay his
+own rent. He had fallen behind when his
+elderly parents in another state needed him for
+a few months while his mom prepared for and
+went through an organ transplant. Sadly, mom
+died, dad had to move into assisted living, and
+the young man found himself helping pay
+their many unexpected expenses. When he got
+back to Seattle, your support made it possible
+for us to help pay his rent. Your support is
+lightening his burden, making it so much
+easier for him to focus on the job he loves:
+helping the homeless. Thank you!
+<i>Information</i>,
+<a href="mailto:bobclifford53@gmail.com?subject=St Vincent de Paul">Bob Clifford</a>, 
+206-718-4158.</p>
+<p><b>CATHEDRAL ESPRESSO IS UP AND RUNNING</b> after the
+10:00am Mass in Cathedral Hall. All proceeds benefit
+the ministries of St. James. Proceeds for October will
+go to the Winter Shelter Ministry.</p>
+<p><b>ART IN THE CHAPEL: THROUGH THE EYES OF ST.
+FRANCIS</b>. Now and through October, stop in the Chapel
+to view a series of paintings by Kathleen Frugé-Brown
+exploring the life of St. Francis from the saint’s
+perspective. These extraordinary paintings inspired a
+book, <i>And I, Francis: The Life of Francis of Assisi in
+Word and Image</i> by Lauren Glen Dunlap. The artist and
+the author will be here to give a brief talk on their work
+on Sunday, October 8 following the 10:00am Mass in the
+Chapel.</p>
 
-<table cellpadding="8" border="2" width="100%">
-	<tr>
-		<td style="font-family: Arial">
-		<p align="center"><font face="Monotype Corsiva" size="6">Sacred Steps<br>
-		</font><font face="Times New Roman" size="4">Sacramental Celebrations at 
-		St. James</font></p>
+	<p><b>SPECIAL NOTE FOR THOSE WHO WRITE CHECKS</b>. Our
+bank has asked that all checks for Cathedral ministries
+be made payable to S<span style="font-variant: small-caps">t</span>. J<span style="font-variant: small-caps"><font face="serif">ames</font></span> 
+C<span style="font-variant: small-caps">athedral</span>, with the
+special ministry you wish to support indicated in the
+memo line. This applies to all donations to St. Vincent
+de Paul, Solanus Casey Center, Cathedral Kitchen,
+Hunthausen Fund, etc. Thanks for your understanding!
+<i>Information</i>, Sister Mary Slater, 206-382-4564.</p>
+<p><b>THE GOSPEL OF MARK</b>. Join Patty Bowman as she leads scripture study on 
+the Gospel of Mark. These sessions continue into November, 7:00pm in Cathedral 
+Place, Room 1EW. <i>Information</i>,
+<a href="mailto:kmccabe@stjames-cathedral.org?subject=The Gospel of Mark">
+Kathleen McCabe</a>.</p>
+<p><b>EARLY MUSIC SEATTLE PRESENTS
+DIABOLUS IN MUSICA</b>. On Sunday, October 8
+at 8:00pm in the Cathedral, the French
+medieval music ensemble Diabolus in Musica
+will perform “Cantores: Music from Chapel
+of the Popes in Avignon,” taking you back to
+the 14th-c. Avignon Papacy, where bold
+musical innovation arose amidst religious and
+political turmoil. The male vocalists of
+Diabolus in Musica will revive your passion for polyphony. <i>Information and passes</i>, <a target="_bulletin" href="http://www.earlymusicseattle.org">
+www.earlymusicseattle.org</a>.</p>
+<p><b>CONFIRMATION INFO SESSION</b> on Sunday, October 15
+after the 10:00am and Noon Masses in the Cathedral
+Chapel. If you or your child will be at least 16 years
+old this spring, this 30-minute session will be a chance
+to learn about the process for receiving the Sacrament
+of Confirmation in May 2018.</p>
+<p><b>ADVENT BAZAAR</b>. The annual St. James Advent
+Bazaar will be on Sunday, December 3, after the three
+morning Masses (8am, 10am, 12noon) in Cathedral
+Hall. If you are interested in being a part of the Bazaar
+as a vendor, please contact 
+<a href="mailto:pbarredo@stjames-cathedral.org?subject=Advent Bazaar">Patrick Barredo</a>, 206-382-4515, to be
+considered for a table.</p>
 
-<p><b>REST IN PEACE</b>. Please pray for the repose of
-the soul of <i>Charles Pellor</i>.</p>
-</td></tr></table>
+<p><b>FALL CATHOLIC HERITAGE LECTURE: THE
+CATHOLIC CHURCH AND THE RACIAL
+DIVIDE IN THE UNITED STATES</b>. Keynote by
+the Most Rev. Edward K. Braxton, Bishop of
+Belleville, Illinois. Tuesday, October 17, 7:00
+pm, Pigott Auditorium, Seattle University.
+The Institute for Catholic Thought and
+Culture welcomes Bishop Braxton, who
+is one of eight African-American bishops in
+the U.S. Catholic Conference of Bishops, to
+start off the 2017-18 Catholic Heritage
+Lecture Series.We invite you to read two of
+his pastoral letters on the racial divide in the
+United States, which are available on the
+ICTC web-site (<a target="_bulletin" href="http://seattleu.edu/ictc">seattleu.edu/ictc</a>). Bishop
+Braxton’s keynote will be followed by a
+conversation with Tyrone Brown, Asst.
+Director of the Office of Multicultural Affairs.
+<i>Information</i>,
+<a href="mailto:ictc@seattleu.edu?subject=Fall Catholic Heritage Lecture">ictc@seattleu.edu</a> or 206-220-8270.</p>
+<p><b>CURIOUS ABOUT PAX CHRISTI AT ST
+JAMES?</b> Visit our Pax Christi group after the
+Noon Mass on October 8th in the Pastoral
+Outreach Center. We will be discussing “Pope
+Francis On Peace,” viewing a short Pax
+Christi video, and considering peace-building
+training opportunities. To learn more about
+this peace and justice ministry, please contact
+<a href="mailto:hhoffman@stjames-cathedral.org?subject=Pax Christi">Hunt Hoffman</a>, 206-382-4235.</p>
+<p><b>MANY THANKS</b> to the San Gennaro
+Foundation, who chose the Cathedral Kitchen
+as one of two charitable organizations to
+receive proceeds from the San Gennaro
+Festival held in Georgetown in September.
+This annual Italian street fair celebrating the
+patron saint of Naples is full of music, food
+and fun. Their generosity helps the Cathedral
+Kitchen to continue to serve the poor and
+homeless of this city with a hot meal every
+weekday. Bravo!</p>
+<p><b>CD OF SUNDAY MASS</b>. Do you know someone
+who is unable to attend Sunday Mass but
+would appreciate staying connected by
+listening to the Mass on CD? Each Sunday, a
+faithful volunteer records and masters the
+10:00am Mass, including the music, prayers,
+reading, and homilies. This CD is mailed at
+no charge to homebound parishioners and to
+“long-distance” parishioners around the
+country. If you or someone you know would
+like to be added to the list, contact 
+<a href="mailto:mlaughlin@stjames-cathedral.org?subject=CD of Sunday Mass">Maria
+Laughlin</a>, 206-382-4284.</p>
 
-<p></p>
 <table cellpadding="8" border="2" width="100%">
 <tr><td style="font-family: Arial">
 <b>FOR YOUR SAFETY</b>. It is important for you to know that
 at each of the weekend Masses a Seattle police officer
 or a private security guard is present on the Cathedral
 campus.</td></tr></table>
-<p><b>PARISH REMEMBRANCE</b>: <i>Throughout the year, because we
-are the Cathedral Church, we remember in prayer at Mass
-and Vespers each of the parishes and missions of the
-Archdiocese of Seattle on a Sunday near their feast day</i>. This
-week we pray for the parish of St. Thomas in Tukwila, and
-the mission churches of St. Anne in Blaine and Tulalip, and
-St. Thomas in Clallam Bay.</p>
+<p><b>PARISH REMEMBRANCE</b>: <i>Throughout the year,
+because we are the Cathedral Church, we
+remember in prayer at Mass and Vespers each of
+the parishes and missions of the Archdiocese of
+Seattle on a Sunday near their feast day</i>. This
+week we pray for the parishes of Holy Rosary in
+Seattle, Tacoma, and Edmonds; Our Lady of
+Fatima in Seattle; and St. Edward in Seattle and
+Shelton.</p>
 
 <!-- End of bulletin -->
 

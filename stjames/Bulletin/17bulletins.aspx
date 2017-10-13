@@ -52,100 +52,156 @@ parishioner community. </p>
 			<a href="17Bulletins/170108.pdf" target="_bulletin">PDF</a></td>
 		</tr>
 		<tr>
-			<td><a href="17Bulletins/170115.aspx">January 15, 2017</a>
+			<td><a href="17Bulletins/170115.aspx">January 15, 2017</a> - 
 			<a href="17Bulletins/170115.pdf" target="_bulletin">PDF</a></td>
 		</tr>
 		<tr>
-			<td><a href="17Bulletins/170122.aspx">January 22, 2017</a>
+			<td><a href="17Bulletins/170122.aspx">January 22, 2017</a> - 
 			<a href="17Bulletins/170122.pdf" target="_bulletin">PDF</a></td>
 		</tr>
 		<tr>
-			<td><a href="17Bulletins/170129.aspx">January 29, 2017</a>
+			<td><a href="17Bulletins/170129.aspx">January 29, 2017</a> - 
 			<a href="17Bulletins/170129.pdf" target="_bulletin">PDF</a></td>
 		</tr>
 		<tr>
-			<td><a href="17Bulletins/170205.aspx">February 5, 2017</a>
+			<td><a href="17Bulletins/170205.aspx">February 5, 2017</a> - 
 			<a href="17Bulletins/170205.pdf" target="_bulletin">PDF</a></td>
 		</tr>
 		<tr>
-			<td><a href="17Bulletins/170212.aspx">February 12, 2017</a>
+			<td><a href="17Bulletins/170212.aspx">February 12, 2017</a> - 
 			<a href="17Bulletins/170212.pdf" target="_bulletin">PDF</a></td>
 		</tr>
 		<tr>
-			<td><a href="17Bulletins/170219.aspx">February 19, 2017</a>
+			<td><a href="17Bulletins/170219.aspx">February 19, 2017</a> - 
 			<a href="17Bulletins/170219.pdf" target="_bulletin">PDF</a></td>
 		</tr>
 		<tr>
-			<td><a href="17Bulletins/170226.aspx">February 26, 2017</a>
+			<td><a href="17Bulletins/170226.aspx">February 26, 2017</a> - 
 			<a href="17Bulletins/170226.pdf" target="_bulletin">PDF</a></td>
 		</tr>
 		<tr>
-			<td><a href="17Bulletins/170305.aspx">March 5, 2017</a> - Lent I
-			<a href="17Bulletins/170305.pdf" target="_bulletin">PDF</a></td>
+			<td><a href="17Bulletins/170305.aspx">March 5, 2017</a> - 
+			<a href="17Bulletins/170305.pdf" target="_bulletin">PDF</a> - Lent I</td>
 		</tr>
 		<tr>
-			<td><a href="17Bulletins/170312.aspx">March 12, 2017</a> - Lent II
-			<a href="17Bulletins/170312.pdf" target="_bulletin">PDF</a></td>
+			<td><a href="17Bulletins/170312.aspx">March 12, 2017</a> - 
+			<a href="17Bulletins/170312.pdf" target="_bulletin">PDF</a> - Lent II</td>
 		</tr>
 		<tr>
-			<td><a href="17Bulletins/170319.aspx">March 19, 2017</a> - Lent III
-			<a href="17Bulletins/170319.pdf" target="_bulletin">PDF</a></td>
+			<td><a href="17Bulletins/170319.aspx">March 19, 2017</a> - 
+			<a href="17Bulletins/170319.pdf" target="_bulletin">PDF</a> - Lent III</td>
 		</tr>
 		<tr>
-			<td><a href="17Bulletins/170326.aspx">March 26, 2017</a> - Lent IV
-			<a href="17Bulletins/170326.pdf" target="_bulletin">PDF</a></td>
+			<td><a href="17Bulletins/170326.aspx">March 26, 2017</a> - 
+			<a href="17Bulletins/170326.pdf" target="_bulletin">PDF</a> - Lent IV</td>
 		</tr>
 		<tr>
-			<td><a href="17Bulletins/170402.aspx">April 2, 2017</a> - Lent V
-			<a href="17Bulletins/170402.pdf" target="_bulletin">PDF</a></td>
+			<td><a href="17Bulletins/170402.aspx">April 2, 2017</a> - 
+			<a href="17Bulletins/170402.pdf" target="_bulletin">PDF</a> - Lent V</td>
 		</tr>
 		<tr>
-			<td><a href="17Bulletins/170409.aspx">April 9, 2017</a> - Palm Sunday
-			<a href="17Bulletins/170409.pdf" target="_bulletin">PDF</a></td>
+			<td><a href="17Bulletins/170409.aspx">April 9, 2017</a> - 
+			<a href="17Bulletins/170409.pdf" target="_bulletin">PDF</a> - Palm Sunday</td>
 		</tr>
 		<tr>
-			<td><a href="17Bulletins/170416.aspx">April 16, 2017</a> - Easter Sunday
-			<a href="17Bulletins/170416.pdf" target="_bulletin">PDF</a></td>
+			<td><a href="17Bulletins/170416.aspx">April 16, 2017</a> - 
+			<a href="17Bulletins/170416.pdf" target="_bulletin">PDF</a> - Easter Sunday</td>
 		</tr>
 		<tr>
-			<td><a href="17Bulletins/170423.aspx">April 23, 2017</a> - Easter II
-			<a href="17Bulletins/170423.pdf" target="_bulletin">PDF</a></td>
+			<td><a href="17Bulletins/170423.aspx">April 23, 2017</a> - 
+			<a href="17Bulletins/170423.pdf" target="_bulletin">PDF</a> - Easter II</td>
 		</tr>
 		<tr>
-			<td><a href="17Bulletins/170430.aspx">April 30, 2017</a> - Easter III
-			<a href="17Bulletins/170430.pdf" target="_bulletin">PDF</a></td>
+			<td><a href="17Bulletins/170430.aspx">April 30, 2017</a> - 
+			<a href="17Bulletins/170430.pdf" target="_bulletin">PDF</a> - Easter III</td>
 		</tr>
 		<tr>
-			<td><a href="17Bulletins/170507.aspx">May 7, 2017</a> - Easter IV
-			<a href="17Bulletins/170507.pdf" target="_bulletin">PDF</a></td>
+			<td><a href="17Bulletins/170507.aspx">May 7, 2017</a> - 
+			<a href="17Bulletins/170507.pdf" target="_bulletin">PDF</a> - Easter IV</td>
 		</tr>
 		<tr>
-			<td><a href="17Bulletins/170514.aspx">May 14, 2017</a> - Easter V
-			<a href="17Bulletins/170514.pdf" target="_bulletin">PDF</a></td>
+			<td><a href="17Bulletins/170514.aspx">May 14, 2017</a> - 
+			<a href="17Bulletins/170514.pdf" target="_bulletin">PDF</a> - Easter V</td>
 		</tr>
 		<tr>
-			<td><a href="17Bulletins/170521.aspx">May 21, 2017</a> - Easter VI
-			<a href="17Bulletins/170521.pdf" target="_bulletin">PDF</a></td>
+			<td><a href="17Bulletins/170521.aspx">May 21, 2017</a> - 
+			<a href="17Bulletins/170521.pdf" target="_bulletin">PDF</a> - Easter VI</td>
 		</tr>
 		<tr>
-			<td><a href="17Bulletins/170528.aspx">May 28, 2017</a> - Ascension
-			<a href="17Bulletins/170528.pdf" target="_bulletin">PDF</a></td>
+			<td><a href="17Bulletins/170528.aspx">May 28, 2017</a> - 
+			<a href="17Bulletins/170528.pdf" target="_bulletin">PDF</a> - Ascension</td>
 		</tr>
 		<tr>
-			<td><a href="17Bulletins/170604.aspx">June 4, 2017</a> - Pentecost
-			<a href="17Bulletins/170604.pdf" target="_bulletin">PDF</a></td>
+			<td><a href="17Bulletins/170604.aspx">June 4, 2017</a> - 
+			<a href="17Bulletins/170604.pdf" target="_bulletin">PDF</a> - Pentecost</td>
 		</tr>
 		<tr>
-			<td><a href="17Bulletins/170611.aspx">June 11, 2017</a> - Trinity
-			<a href="17Bulletins/170611.pdf" target="_bulletin">PDF</a></td>
+			<td><a href="17Bulletins/170611.aspx">June 11, 2017</a> - 
+			<a href="17Bulletins/170611.pdf" target="_bulletin">PDF</a> - Trinity</td>
 		</tr>
 		<tr>
-			<td><a href="17Bulletins/170618.aspx">June 18, 2017</a> - Corpus Christi
-			<a href="17Bulletins/170618.pdf" target="_bulletin">PDF</a></td>
+			<td><a href="17Bulletins/170618.aspx">June 18, 2017</a> - 
+			<a href="17Bulletins/170618.pdf" target="_bulletin">PDF</a> - Corpus Christi</td>
 		</tr>
 		<tr>
-			<td><a href="17Bulletins/170625.aspx">June 25, 2017</a> 
+			<td><a href="17Bulletins/170625.aspx">June 25, 2017</a> - 
 			<a href="17Bulletins/170625.pdf" target="_bulletin">PDF</a></td>
+		</tr>
+		<tr>
+			<td><a href="17Bulletins/170702.aspx">July 2, 2017</a> - 
+			<a href="17Bulletins/170702.pdf" target="_bulletin">PDF</a></td>
+		</tr>
+		<tr>
+			<td><a href="17Bulletins/170709.aspx">July 9, 2017</a> - 
+			<a href="17Bulletins/170709.pdf" target="_bulletin">PDF</a></td>
+		</tr>
+		<tr>
+			<td><a href="17Bulletins/170716.aspx">July 16, 2017</a> - 
+			<a href="17Bulletins/170716.pdf" target="_bulletin">PDF</a></td>
+		</tr>
+		<tr>
+			<td><a href="17Bulletins/170723.aspx">July 23, 2017</a> - 
+			<a href="17Bulletins/170723.pdf" target="_bulletin">PDF</a> - St. James</td>
+		</tr>
+		<tr>
+			<td><a href="17Bulletins/170730.aspx">July 30, 2017</a> - 
+			<a href="17Bulletins/170730.pdf" target="_bulletin">PDF</a></td>
+		</tr>
+		<tr>
+			<td><a href="17Bulletins/170806.aspx">August 6, 2017</a> - 
+			<a href="17Bulletins/170806.pdf" target="_bulletin">PDF</a> - Transfiguration</td>
+		</tr>
+		<tr>
+			<td><a href="17Bulletins/170813.aspx">August 13, 2017</a> - 
+			<a href="17Bulletins/170813.pdf" target="_bulletin">PDF</a></td>
+		</tr>
+		<tr>
+			<td><a href="17Bulletins/170820.aspx">August 20, 2017</a> - 
+			<a href="17Bulletins/170820.pdf" target="_bulletin">PDF</a></td>
+		</tr>
+		<tr>
+			<td><a href="17Bulletins/170827.aspx">August 27, 2017</a> - 
+			<a href="17Bulletins/170827.pdf" target="_bulletin">PDF</a></td>
+		</tr>
+		<tr>
+			<td><a href="17Bulletins/170903.aspx">September 3, 2017</a> - 
+			<a href="17Bulletins/170903.pdf" target="_bulletin">PDF</a></td>
+		</tr>
+		<tr>
+			<td><a href="17Bulletins/170910.aspx">September 10, 2017</a> - 
+			<a href="17Bulletins/170910.pdf" target="_bulletin">PDF</a></td>
+		</tr>
+		<tr>
+			<td><a href="17Bulletins/170917.aspx">September 17, 2017</a> - 
+			<a href="17Bulletins/170917.pdf" target="_bulletin">PDF</a></td>
+		</tr>
+		<tr>
+			<td><a href="17Bulletins/170924.aspx">September 24, 2017</a> - 
+			<a href="17Bulletins/170924.pdf" target="_bulletin">PDF</a></td>
+		</tr>
+		<tr>
+			<td><a href="17Bulletins/171001.aspx">October 1, 2017</a> - 
+			<a href="17Bulletins/171001.pdf" target="_bulletin">PDF</a></td>
 		</tr>
 	</table>
 <p>Back to <a href="bulletins.aspx">current archive</a>.</p>
