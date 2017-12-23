@@ -27,40 +27,48 @@ parishioner community. Here are links to the online bulletin.</p>
 <p>Here are links to recent bulletins:</p>
 	<table border="0" cellpadding="5" align="center" id="table2">
 		<tr>
+			<td><a href="18Bulletins/171210.aspx">December 10, 2016</a> - 
+			<a href="18Bulletins/171210.pdf" target="_bulletin">PDF</a> - Advent II</td>
+		</tr>
+		<tr>
+			<td><a href="18Bulletins/171203.aspx">December 3, 2016</a> - 
+			<a href="18Bulletins/171203.pdf" target="_bulletin">PDF</a> - Advent I</td>
+		</tr>
+		<tr>
+			<td><a href="17Bulletins/171126.aspx">November 26, 2017</a> - 
+			<a href="17Bulletins/171126.pdf" target="_bulletin">PDF</a> - Christ the King</td>
+		</tr>
+		<tr>
+			<td><a href="17Bulletins/171119.aspx">November 19, 2017</a> - 
+			<a href="17Bulletins/171119.pdf" target="_bulletin">PDF</a></td>
+		</tr>
+		<tr>
+			<td><a href="17Bulletins/171112.aspx">November 12, 2017</a> - 
+			<a href="17Bulletins/171112.pdf" target="_bulletin">PDF</a></td>
+		</tr>
+		<tr>
+			<td><a href="17Bulletins/171105.aspx">November 5, 2017</a> - 
+			<a href="17Bulletins/171105.pdf" target="_bulletin">PDF</a></td>
+		</tr>
+		<tr>
+			<td><a href="17Bulletins/171029.aspx">October 29, 2017</a> - 
+			<a href="17Bulletins/171029.pdf" target="_bulletin">PDF</a></td>
+		</tr>
+		<tr>
+			<td><a href="17Bulletins/171022.aspx">October 22, 2017</a> - 
+			<a href="17Bulletins/171022.pdf" target="_bulletin">PDF</a></td>
+		</tr>
+		<tr>
+			<td><a href="17Bulletins/171015.aspx">October 15, 2017</a> - 
+			<a href="17Bulletins/171015.pdf" target="_bulletin">PDF</a></td>
+		</tr>
+		<tr>
+			<td><a href="17Bulletins/171008.aspx">October 8, 2017</a> - 
+			<a href="17Bulletins/171008.pdf" target="_bulletin">PDF</a></td>
+		</tr>
+		<tr>
 			<td><a href="17Bulletins/171001.aspx">October 1, 2017</a> - 
 			<a href="17Bulletins/171001.pdf" target="_bulletin">PDF</a></td>
-		</tr>
-		<tr>
-			<td><a href="17Bulletins/170924.aspx">September 24, 2017</a> - 
-			<a href="17Bulletins/170924.pdf" target="_bulletin">PDF</a></td>
-		</tr>
-		<tr>
-			<td><a href="17Bulletins/170917.aspx">September 17, 2017</a> - 
-			<a href="17Bulletins/170917.pdf" target="_bulletin">PDF</a></td>
-		</tr>
-		<tr>
-			<td><a href="17Bulletins/170910.aspx">September 10, 2017</a> - 
-			<a href="17Bulletins/170910.pdf" target="_bulletin">PDF</a></td>
-		</tr>
-		<tr>
-			<td><a href="17Bulletins/170903.aspx">September 3, 2017</a> - 
-			<a href="17Bulletins/170903.pdf" target="_bulletin">PDF</a></td>
-		</tr>
-		<tr>
-			<td><a href="17Bulletins/170827.aspx">August 27, 2017</a> - 
-			<a href="17Bulletins/170827.pdf" target="_bulletin">PDF</a></td>
-		</tr>
-		<tr>
-			<td><a href="17Bulletins/170820.aspx">August 20, 2017</a> - 
-			<a href="17Bulletins/170820.pdf" target="_bulletin">PDF</a></td>
-		</tr>
-		<tr>
-			<td><a href="17Bulletins/170813.aspx">August 13, 2017</a> - 
-			<a href="17Bulletins/170813.pdf" target="_bulletin">PDF</a></td>
-		</tr>
-		<tr>
-			<td><a href="17Bulletins/170806.aspx">August 6, 2017</a> - 
-			<a href="17Bulletins/170806.pdf" target="_bulletin">PDF</a> - Transfiguration</td>
 		</tr>
 	</table>
 <p>Yearly archives:</p>
@@ -77,6 +85,7 @@ parishioner community. Here are links to the online bulletin.</p>
 			<td><a href="15bulletins.aspx">2015</a></td>
 			<td><a href="16bulletins.aspx">2016</a></td>
 			<td><a href="17bulletins.aspx">2017</a></td>
+			<td><a href="18bulletins.aspx">2018</a></td>
 		</tr>
 	</table>
 
