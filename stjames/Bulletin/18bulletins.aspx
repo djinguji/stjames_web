@@ -39,6 +39,10 @@ parishioner community. </p>
 			<td><a href="18Bulletins/171224.aspx">December 24, 2016</a> - 
 			<a href="18Bulletins/171224.pdf" target="_bulletin">PDF</a> - Advent IV</td>
 		</tr>
+		<tr>
+			<td><a href="18Bulletins/171231.aspx">December 31, 2016</a> - 
+			<a href="18Bulletins/171231.pdf" target="_bulletin">PDF</a> - Holy Family</td>
+		</tr>
 	</table>
 <p>Back to <a href="bulletins.aspx">current archive</a>.</p>
 <p>&nbsp;</p>

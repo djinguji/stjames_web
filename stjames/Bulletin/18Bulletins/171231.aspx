@@ -79,7 +79,7 @@ join us for a Dinner Date Series: Food for the Souls of
 Married Couples. Babysitting is provided. The evening
 will be facilitated by Christina and Dave Buchholz and
 we’ll spend time exploring the themes that future
-evenings will expore. To register, contact 
+evenings will explore. To register, contact 
 <a href="mailto:kmccabe@stjames-cathedral.org?subject=Marriage Enrichment">
 Kathleen McCabe</a> or
 <a href="mailto:slee@stjames-cathedral.org?subject=Marriage Enrichment">Suzanne 

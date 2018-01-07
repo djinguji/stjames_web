@@ -27,6 +27,10 @@ parishioner community. Here are links to the online bulletin.</p>
 <p>Here are links to recent bulletins:</p>
 	<table border="0" cellpadding="5" align="center" id="table2">
 		<tr>
+			<td><a href="18Bulletins/171231.aspx">December 31, 2016</a> - 
+			<a href="18Bulletins/171231.pdf" target="_bulletin">PDF</a> - Holy Family</td>
+		</tr>
+		<tr>
 			<td><a href="18Bulletins/171224.aspx">December 24, 2016</a> - 
 			<a href="18Bulletins/171224.pdf" target="_bulletin">PDF</a> - Advent IV</td>
 		</tr>

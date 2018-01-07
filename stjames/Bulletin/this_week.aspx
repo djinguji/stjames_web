@@ -5,7 +5,7 @@
 <!-- DO NOT CHANGE THE TABLE STYLE IN THIS HEADER -->
 <table  style="margin-top:10px;" cellspacing="1" border="0" width="100%" >
   	<script language="javascript" type="text/javascript">
-		GetHeader("This Week's Bulletin: 31 December 2017", "Holy Family"); 
+		GetHeader("This Week's Bulletin: 7 January 2018", "Epiphany"); 
 	</script>
 </table>
 <!-- END HEADER -->
@@ -44,45 +44,12 @@ souvenirs as well as Catholic books and gifts.</i> </p>
 <tr><td style="font-family: Arial">
 <b>FOR YOUR SAFETY</b>. At each of the weekend Masses a Seattle police officer 
 is present on the Cathedral campus. </td></tr></table>
-<p><b>ON THE COVER</b> The Holy Family. North transept
-stained-glass window, St. James Cathedral. Charles Connick, artist.</p>
-<p><b>MASSES OF NEW YEAR’S DAY</b>. January 1 is the
-Solemnity of Mary, Mother of God, the most ancient
-feast honoring Mary on the Church’s calendar! Masses
-for this holy day will be at 8:00am, 10:00am, and 12
-Noon on Monday, January 1. After the Noon Mass, the
-Cathedral will close for the remainder of the day. The
-parish office will be closed on Monday, January 1.</p>
-<p><b>SOCK DRIVE</b>. Please bring sock donations to the Cathedral Hall after 
-the morning Masses, the Chapel after the 5:30 Masses, or the Parish office 
-during the week. The deadline is Sunday, December 31. To volunteer to collect 
-socks contact
-<a href="mailto:cleighton@stjames-cathedral.org?subject=Sock Drive">Curtis 
-Leighton</a>, 206-264-2082.</p>
-<p><b>CAPPELLA ROMANA CONCERT–THE 12 DAYS OF
-CHRISTMAS IN THE EAST</b> Friday, January 5 at 8:00pm,
-Music Director Alexander Lingas leads Cappella
-Romana in a program of early and contemporary music
-from the Greek Orthodox tradition for the 12 Days of
-Christmas. The program includes Medieval Byzantine
-Chant, choral works by Greek-Americans Frank Desby,
-Tikey Zes, and Peter Michaelides, and by Michael
-Adamis and John Tavener. There is a pre-concert talk at
-7:00pm in Room 1E-W of Cathedral Place. <i>Information
-and passes</i>, <a target="_bulletin" href="http://www.cappellaromana.org">www.cappellaromana.org</a>.</p>
-<p><b>MARRIAGE ENRICHMENT</b>. Please join us as we kick off
-the 2018 season of marriage enrichment on Saturday,
-January 20, 2018, at 6:30pm in the Holy Names Room,
-Pastoral Outreach Center. Married couples are invited to
-join us for a Dinner Date Series: Food for the Souls of
-Married Couples. Babysitting is provided. The evening
-will be facilitated by Christina and Dave Buchholz and
-we’ll spend time exploring the themes that future
-evenings will expore. To register, contact 
-<a href="mailto:kmccabe@stjames-cathedral.org?subject=Marriage Enrichment">
-Kathleen McCabe</a> or
-<a href="mailto:slee@stjames-cathedral.org?subject=Marriage Enrichment">Suzanne 
-Lee</a>.</p>
+<p><b>ON THE COVER</b> The Three Kings. North transept stained-glass
+window. Charles Connick, artist.</p>
+<p><b>CATHEDRAL ESPRESSO</b> is up and running after the
+10:00 Mass in Cathedral Hall. All proceeds benefit the
+ministries of St. James. Proceeds for January will go to
+the Mental Health and Wellness Ministry.</p>
 <p><b>WYATT SMITH D.M.A. GRADUATE ORGAN RECITAL</b>.
 On Friday, January 12 at 7:00pm, organist Wyatt
 Smith will present his fourth graduate recital in
@@ -93,19 +60,66 @@ Fugue,” Jean Langlais’s “Arabesque for the Flutes,”
 and the complete Sixth Organ Symphony, Op. 59 by
 Louis Vierne. This performance is free and open to the
 public.</p>
-<p><b>THE ANNUAL MASS FOR LIFE AND MARCH FOR LIFE
-WILL BE HELD JANUARY 22, 2018</b>, the 45th
-anniversary of the Supreme Court’s Roe v. Wade
-decision legalizing abortion throughout the United
-States. The Mass for Life will be held at 9:30am in the
-Marcus Pavilion of St. Martin’s University in Lacey
-and will be concelebrated by Archbishop Sartain and
-Abbot Roth of St. Martin’s Abbey. The March for Life
-will take place on the steps of the State Capitol
-Building in Olympia at noon. Transportation from St.
-James will be available. <i>Information</i>,
-<a href="mailto:slee@stjames-cathedral.org?subject=Annual Mass for Life and March for Life">
-Suzanne Lee</a>, 206-654-4640.</p>
+<p><b>SAFE TOUCH CLASS</b>. Next Sunday, January 14,
+Children’s Faith Formation will offer one sexual abuse
+prevention course to children and youth enrolled in
+Sunday morning classes. In our efforts to protect our
+vulnerable population, the Archdiocese of Seattle has
+integrated abuse prevention material into our faith
+formation and youth ministry curriculum in the context
+of teaching our children and youth about our Catholic
+faith. To help you understand what your child will be
+offered, we ask you to visit: 
+<a target="_bulletin" href="http://www.seattlearchdiocese.org/SEP/faithformation.aspx">http://www.seattlearchdiocese.org/SEP/faithformation.aspx</a>.
+This will provide you with “Parent/ Guardian
+Resources,” to inform you about the curriculum being
+used while also making available the actual lessons. As
+the guardian, you have the right to opt your child/youth
+out of this lesson. You may do so notifying 
+<a href="mailto:bbellamy@stjames-cathedral.org?subject=Safe Touch Class">Brenda
+Bellamy</a> (Children’s Faith Formation) or 
+<a href="mailto:cleighton@stjames-cathedral.org?subject=Safe Touch Class">Curtis Leighton</a>
+(Youth Ministry). This
+announcement is to notify you of our new initiative to
+provide abuse prevention curriculum to our youth in
+Faith Formation and Youth Ministry. Unless you would
+like to opt your youth out of this lesson you are not
+required to do anything.</p>
+<p><b>MARRIAGE ENRICHMENT</b>. Please join us as we kick off
+the 2018 season of marriage enrichment on Saturday,
+January 20, 2018, at 6:30pm in the Holy Names Room,
+Pastoral Outreach Center. Married couples are invited to
+join us for a Dinner Date Series: Food for the Souls of
+Married Couples. Babysitting is provided. The evening
+will be facilitated by Christina and Dave Buchholz and
+we’ll spend time exploring the themes that future
+evenings will explore. To register, contact 
+<a href="mailto:kmccabe@stjames-cathedral.org?subject=Marriage Enrichment">
+Kathleen McCabe</a> or
+<a href="mailto:slee@stjames-cathedral.org?subject=Marriage Enrichment">Suzanne 
+Lee</a>.</p>
+<p><b>JUBILATE YOUNG WOMEN'S ENSEMBLE WITH
+JOSEPH ADAM, CATHEDRAL ORGANIST</b>. On Friday,
+January 26 at 8:00pm, Jubilate Young Women’s
+Ensemble, conducted by Stacey Sunde, is joined by
+cathedral organists Joseph Adam and Paul Thornock in
+a program of chant-based works, including Dupré’s
+Fifteen Pieces, Op. 18, movements from Couperin’s
+Messe des Couvents, and other works by Parisian
+composers. <i>Information and passes</i>,
+<a target="_bulletin" href="http://www.stjames-cathedral.org/music">www.stjames-cathedral.org/music</a>.</p>
+<p><b>FIRST ANNUAL PEACEMAKING SUMMIT</b>. Friday,
+January 26, 2018, 6:00pm-9:00pm at Seattle
+University Student Center, Room 160. A celebration
+and acknowledgment of the power of partnerships
+relating to the Peacemaking Circles Movement in King
+County. Dan Satterberg, King County Prosecuting
+Attorney, will be the keynote speaker. Register in
+advance at <a target="_bulletin" href="http://Peacemaking-Summit.eventbrite.com">
+http://Peacemaking-Summit.eventbrite.com</a>.
+<i>Information</i>, 
+<a href="mailto:pbarredo@stjames-cathedral.org?subject=Peacemaking Summit">Patrick Barredo</a>, 
+206-382-4515.</p>
 <p><b>COUNT US IN – FRIDAY, JANUARY 26</b>. All Home, a
 Seattle/King County agency that focuses on
 homelessness, is now accepting volunteers for Count
@@ -122,6 +136,37 @@ volunteer, go to
 <i>Information</i>, 
 <a href="mailto:pbarredo@stjames-cathedral.org?subject=Count us in - Friday, January 26">Patrick Barredo</a>, 
 206-382-4515.</p>
+<p><b>OUR FAITH IN ACTION ORIENTATION & RETREAT</b>. On
+Saturday, January 27, 10am-2:30pm at Our Lady of
+Guadalupe church, the parishes of South Seattle and
+Catholic Community Services will offer a retreat to
+help form you in Catholic Social Teaching and
+Advocacy. The day will be offered in both English and
+Spanish. Register at 
+<a href="mailto:outreach@stjames-cathedral.org?subject=Our Faith in Action Orientation and Retreat">outreach@stjames-cathedral.org</a>.
+And be sure to register at <a target="_bulletin" href="http://www.ipjc.org">www.ipjc.org</a> for Catholic
+Advocacy Day, Wednesday, February 21 in Olympia. <i>Information</i>,
+<a href="mailto:pbarredo@stjames-cathedral.org?subject=Our Faith in Action">
+Patrick Barredo</a>, 206-382-4515.</p>
+<p><b>ROSARY</b>. All are welcome to join with a group of
+parishioners who pray the rosary together in the
+Chapel, Monday through Saturday at 7:40am.</p>
+
+
+<table cellpadding="8" border="2" width="100%">
+	<tr>
+		<td style="font-family: Arial">
+		<p align="center">
+		<img border="0" src="../images/youth-ministry.png" width="406" height="61"></p>
+
+<p><b>YOUTH NIGHT TONIGHT</b>. Join us for an evening of
+fun activities, prayer and community-building to
+kick off the new year! Sunday night from 6:30-8:30pm in the Pastoral Outreach Center.</p>
+		<p align="center"><i>Information</i>,
+		<a href="mailto:cleighton@stjames-cathedral.org?subject=Youth Ministry">
+		Curtis Leighton</a>, 206-264-2082</p>
+</td></tr></table>
+
 <p><b>SURVIVING SUICIDE</b> Sunday, January 28, 1:30pm,
 Pastoral Outreach Center. If you have lost a loved one
 to suicide – you are a survivor of suicide. A survivor
@@ -138,19 +183,159 @@ loved one and sharing common experiences in a
 supportive environment. <i>Information</i>,
 <a href="mailto:ngranger@stjames-cathedral.org?subject=urviving Suicide">Nancy 
 Granger</a>, 206-382-4269. </p>
-<p><b>OUR FAITH IN ACTION ORIENTATION & RETREAT</b>. On
-Saturday, January 27, 10am-2:30pm at Our Lady of
-Guadalupe church, the parishes of South Seattle and
-Catholic Community Services will offer a retreat to
-help form you in Catholic Social Teaching and
-Advocacy. The day will be offered in both English and
-Spanish. Register at 
-<a href="mailto:outreach@stjames-cathedral.org?subject=Our Faith in Action Orientation and Retreat">outreach@stjames-cathedral.org</a>.
-And be sure to register at <a target="_bulletin" href="http://www.ipjc.org">www.ipjc.org</a> for Catholic
-Advocacy Day, Wednesday, February 21 in Olympia. <i>Information</i>,
-<a href="mailto:pbarredo@stjames-cathedral.org?subject=Our Faith in Action">
-Patrick Barredo</a>, 206-382-4515.</p>
-<p dir="ltr"><b>BABYSITTERS NEEDED</b>. St. James Cathedral offers babysitting 
+<p><b>REPORT FROM ST VINCENT DE PAUL</b>. Your SVdP
+donations made it possible for our Cathedral
+Vincentians to do 190 home visits during October,
+November & December and help 315 low (or no)
+income residents of St James parish who struggle to
+pay for life's necessities, such as rent, electricity, beds,
+food, clothes and basic hygiene products. Your
+generosity is great, but we continue to be asked for
+more help than we can provide, especially as rents
+keep rising. That means we and those we serve are
+deeply grateful for every dollar you share with SVdP – thank you! <i>Information</i>,
+<a href="mailto:bobclifford53@gmail.com?subject=St. Vincent de Paul">Bob 
+Clifford</a>, 206-718-4158.</p>
+<p><b>ARE YOU INTERESTED IN BECOMING CATHOLIC?</b> If
+you are an adult who has never been baptized, an adult
+who has been baptized in another Christian tradition or
+a Catholic who has been baptized, but not received
+First Eucharist or Confirmation, you are invited to
+participate in the RCIA, a process of initiation into the
+Catholic Church. You can learn more by visting the 
+<a href="http://www.stjames-cathedral.org/RCIA">RCIA website</a>. <i>Information</i>,
+<a href="mailto:kmccabe@stjames-cathedral.org?subject=RCIA Inquiry">Kathleen 
+McCabe</a>, 206-382-2018.</p>
+
+<table cellpadding="8" border="2" width="100%">
+	<tr>
+		<td style="font-family: Arial">
+		<p align="center"><font face="Monotype Corsiva" size="6">Sacred Steps<br>
+		</font><font face="Times New Roman" size="4">Sacramental Celebrations at 
+		St. James</font></p>
+
+<p><b>CONGRATULATIONS AND GOD’S BLESSINGS</b>
+to the following children, baptized in the
+Cathedral on Sunday, December 31: <i>Loui
+Gerard Gjonej</i>, <i>Dorothea Changning Wright Lo</i>,
+and <i>Eleanor Marie Shield</i>.</p>
+<p><b>REST IN PEACE</b>. Please pray for the repose of
+the soul of <i>Suzanne Lescantz</i>.</p>
+</td></tr></table>
+
+
+	<p><b>A WEEKLY TIP ON CARING FOR OUR COMMON HOME</b>.
+Instead of buying bottled water, buy reusable water
+bottles and fill them from the tap at home, work or
+school. You can also carry empty water bottles (even
+metal ones) through airport security and fill them once
+you have passed security. This will help remove non-biodegradable
+plastic from the waste stream and help
+keep it out of our waterways.</p>
+	<p><b>ADULT CONFIRMATION</b>. Are you a baptized Catholic
+who has not yet been confirmed? Adult preparation
+classes for this important sacrament begin Wednesday,
+February 21, and continue through early May.
+<i>Information</i>,
+<a href="mailto:rmichaels@stjames-cathedral.org?subject=Adult Confirmation">
+Rosanne Michaels</a>, 206-654-4658.</p>
+<p><b>SKYLINE OPEN HOUSE: SAVE THE DATE</b>. Skyline, a
+62+ retirement community across the street from St.
+James, will be hosting an exclusive Open House
+following Noon Mass on Sunday, February 11 from
+1:30 – 3pm. One and two bedroom independent living
+apartment homes will be available to tour. Come enjoy
+a beverage and appetizer as you learn about the benefits
+and amenities of Skyline. Skyline is a nonprofit
+continuing care retirement community that offers
+independent and assisted living, as well as memory
+support and 24-hour skilled nursing. RSVP to (206)
+405-4100 or email
+<a href="mailto:fjahan@skylineseattle.org?subject=Skyline Open House">fjahan@skylineseattle.org</a>. Free
+valet parking is available. Valet park at Skyline, walk
+across the street to noon Mass, and after Mass come to
+the Open House.</p>
+
+<table cellpadding="8" border="2" width="100%">
+	<tr>
+		<td style="font-family: Arial">
+		<font face="Times New Roman"><font size="5" color="#FF0000">Pax Christi</font><font size="5"> at St James</font></font></p>
+<p><b>Celebrating Martin Luther King, Jr</b>.
+<br>
+<font color="#FF0000">January 7</font>: Excerpts from MLK’s prophetic
+“Beyond Vietnam” speech will be read aloud
+in the Holy Names Room at 1:15pm (after
+Noon Mass). This speech addresses matters of
+race, injustice, and war that are as important
+today as they were fifty years ago. <font color="#FF0000">Come listen</font>
+to honor the life of MLK and be inspired by his
+words.</p>
+<p><b>Vow of Nonviolence<br>
+Mass with Archbishop Sartain<br>
+</b><font color="#FF0000">January 13</font>: <i>Nonviolence: A Style of Politics
+for Peace</i> is the theme chosen by Pope Francis
+for his yearly message for the 2017 World Day
+of Peace. We invite you to join Pax Christi
+members in making a one-year Vow of Nonviolence
+on Saturday, January 13 at the 5:30pm
+Mass.</p>
+<p dir="ltr"><b>Join Pax Christi</b><br>
+<font color="#FF0000">Second Sunday of each month at 1:15</font> in the
+Mother Mary Rose Room.</p>
+<p><i>Information</i>, 
+<a href="mailto:hhoffman@stjames-cathedral.org?subject=Pax Christi">Hunt Hoffman</a>, 206-382-4235</p>
+</td></tr></table>
+
+
+<p></p>
+
+
+<table cellpadding="8" border="2" width="100%">
+	<tr>
+		<td style="font-family: Arial">
+		<p align="center"><font face="Monotype Corsiva" size="6">
+		Opportunities to Serve<br>
+		</font><i>Do you long to get more involved in the Cathedral
+parish and find ways to meet fellow parishioners and
+form community here? The best way to do that is by
+getting involved in one of our many ministries!
+<br>
+		Here are some current opportunities.</i></p>
+<p><b>WINTER SHELTER NEEDS</b>. Your donations help the
+homeless men who stay in Cathedral Hall on the
+weekends. Items urgently needed include: spray
+deodorant; cough drops; small tissue packets; razors,
+toothbrushes. Items can be dropped off at Sunday
+Coffee Hour or in the Parish Office. Thank you!</p>
+<p><b>RE-GIFT TO SUPPORT YOUR COMMUNITY</b>. Spread
+the joy of giving even further when you re-gift
+presents to Cabrini Ministry Training for use at its
+fundraising dinner on January 20. Funds support the
+ministry of presence and Eucharist to those who are
+homebound or isolated in hospitals and other
+institutions. Mail gift cards to 5507 104th Ave NE,
+Kirkland WA 98033. <i>Information</i>,
+<a href="mailto:info@cabriniministry.org?subject=Re-gift to support your community">info@cabriniministry.org</a>.</p>
+		<p><b>MUFFIN MAKERS NEEDED FOR SUNDAY COFFEE
+HOURS</b>. We are in immediate need of volunteers to help make muffins on the 
+		First and Fourth Sundays of each month from about 7am-10am. <i>Information</i>, 
+<a href="mailto:hhoffman@stjames-cathedral.org?subject=Sunday Coffee Hour Volunteers">Hunt Hoffman</a>, 206-382-4235.</p>
+<p><b>PREPARES MINISTRY NEEDS VOLUNTEERS</b>. The cathedral’s new Pregnancy and 
+Parenting Support Ministry, PREPARES, offers unconditional, nurturing care to 
+families from pregnancy through a child’s fifth birthday. PREPARES recognizes 
+that parents need love and ongoing community support in order to choose life in 
+difficult circumstances. St. James Cathedral is the first parish to launch 
+PREPARES in central Seattle. We are forming teams of volunteers to work with a 
+parent or family over the long haul. The model is similar to our existing AIDS 
+Care Teams. Although PREPARES is brand new, we already have a waiting list of 
+pregnant mothers, single parents, and young families who have asked for help. 
+PREPARES is the ideal ministry for people who want to live out their commitment 
+to social and economic justice and their belief in the dignity of every human 
+life. Please consider stepping forward.
+<i>Information</i>,
+<a href="mailto:slee@stjames-cathedral.org?subject=PrePareS Ministry">Suzanne 
+Lee</a>, 206-654-4640.</p>
+		<p dir="ltr"><b>BABYSITTERS NEEDED</b>. St. James Cathedral offers babysitting 
 for children ages 1-4 during the 10am and 12 Noon Sunday Masses, during baptism 
 preparation classes, and for special events. Two paid babysitters, who are over 
 the age of 18 and have gone through Safe Environment Training, are on duty at 
@@ -158,64 +343,15 @@ all times. We currently have openings for additional staff. If you like working
 with children and want to provide a valuable service to the young families of 
 our parish, please apply. <i>Information</i>, 
 <a href="mailto:slee@stjames-cathedral.org?subject=Babysitting">Suzanne Lee</a>, 206-654-4640.</p>
-<p><b>ADULT CONFIRMATION</b>. Are you a baptized Catholic
-who has not yet been confirmed? Adult preparation
-classes for this important sacrament begin Wednesday,
-February 21, and continue through early May.
-<i>Information</i>,
-<a href="mailto:rmichaels@stjames-cathedral.org?subject=Adult Confirmation">
-Rosanne Michaels</a>, 206-654-4658.</p>
-<p><b>ARE YOU INTERESTED IN BECOMING CATHOLIC?</b> If
-you are an adult who has never been baptized, an adult
-who has been baptized in another Christian tradition or
-a Catholic who has been baptized, but not received
-First Eucharist or Confirmation, you are invited to
-participate in the RCIA, a process of initiation into the
-Catholic Church. Learn more by visting the 
-<a href="http://www.stjames-cathedral.org/RCIA">RCIA website</a>. <i>Information</i>,
-<a href="mailto:kmccabe@stjames-cathedral.org?subject=RCIA Inquiry">Kathleen 
-McCabe</a>, 206-382-2018.</p>
-<p><b>ST VINCENT DE PAUL THANKS YOU</b>. A man called the SVdP Helpline 
-(206-767-6449) asking if we could pay his entire month's rent, which was only 
-$59 thanks to a low-income rent subsidy. He had given a friend cash to buy a 
-money order to pay the rent. The friend disappeared with the cash, so he could 
-not pay the rent. We covered the rent and had a delightful visit with the man 
-and his pet, an affectionate terrier given to him by another friend who is 
-homeless and can no longer care for the dog. As we talked, we realized the man 
-was very short on food for himself and his little companion. When we gave him a 
-grocery store gift card, he was so happy and grateful, not just for the food but 
-also for the gift of hope our visit gave him. Thank you for making this 
-possible! <i>Information</i>,
-<a href="mailto:bobclifford53@gmail.com?subject=St. Vincent de Paul">Bob 
-Clifford</a>, 206-718-4158.</p>
-<p><b>SUNDAY COFFEE HOUR VOLUNTEERS NEEDED</b>. St.
-James hosts a Coffee Hour in the Cathedral Hall on
-Sundays after the 8am, 10am, and 12pm Masses. It is a
-welcoming space in which persons experiencing
-homelessness and parishioners can come together to
-drink coffee, eat pastries, relax, and socialize. It is also
-a great place to learn about the array of ministries and
-volunteer opportunities at St. James. We are in need of
-volunteers to serve coffee and pastries and help clean
-up after each Mass. <i>Information</i>, 
-<a href="mailto:hhoffman@stjames-cathedral.org?subject=Sunday Coffee Hour Volunteers">Hunt Hoffman</a>, 206-382-4235.</p>
-<p><b>IMMIGRATION SUMMIT</b>. Today we celebrate the gift of
-family through the Holy Family of Jesus, Mary, and
-Joseph. We are, too, part of a greater human family
-and Church. Together, we can create this family. Learn
-how at <i>Your Liberation is Bound Up with Mine</i>, the
-Archdiocesan Immigration Summit at Seattle
-University on March 10. Look for registration
-information at <a target="_bulletin" href="http://www.seattleu.edu/ictc">www.seattleu.edu/ictc</a> in early 2018.
-<i>Information</i>, 
-<a href="mailto:ckoehler@stjames-cathedral.org?subject=Immigration Summit">Chris Koehler</a>, 206-382-4511.</p>
+</td></tr></table>
+
 <p><b>PARISH REMEMBRANCE</b>: <i>Throughout the year, because we
 are the Cathedral Church, we remember in prayer at Mass
 and Vespers each of the parishes and missions of the
 Archdiocese of Seattle on a Sunday near their feast day</i>. This
-week we pray for the parishes of Holy Innocents in Duvall,
-Holy Family in Auburn, Kirkland, and Seattle, Holy Family
-Mission in Frances, and Prince of Peace Mission in Belfair.</p>
+week we pray for the parishes of St. Elizabeth Ann Seton in
+Bothell, St. Mary in Castle Rock and Centralia, and St. Mary
+Mission in Coupeville.</p>
 
 <!-- End of bulletin -->
 
