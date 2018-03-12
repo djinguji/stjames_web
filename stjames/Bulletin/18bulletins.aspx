@@ -43,6 +43,42 @@ parishioner community. </p>
 			<td><a href="18Bulletins/171231.aspx">December 31, 2016</a> - 
 			<a href="18Bulletins/171231.pdf" target="_bulletin">PDF</a> - Holy Family</td>
 		</tr>
+		<tr>
+			<td><a href="18Bulletins/180107.aspx">January 7, 2018</a> - 
+			<a href="18Bulletins/180107.pdf" target="_bulletin">PDF</a> - Baptism of the Lord</td>
+		</tr>
+		<tr>
+			<td><a href="18Bulletins/180114.aspx">January 14, 2018</a> - 
+			<a href="18Bulletins/180114.pdf" target="_bulletin">PDF</a></td>
+		</tr>
+		<tr>
+			<td><a href="18Bulletins/180121.aspx">January 21, 2018</a> - 
+			<a href="18Bulletins/180121.pdf" target="_bulletin">PDF</a></td>
+		</tr>
+		<tr>
+			<td><a href="18Bulletins/180128.aspx">January 28, 2018</a> - 
+			<a href="18Bulletins/180128.pdf" target="_bulletin">PDF</a></td>
+		</tr>
+		<tr>
+			<td><a href="18Bulletins/180204.aspx">February 4, 2018</a> - 
+			<a href="18Bulletins/180204.pdf" target="_bulletin">PDF</a></td>
+		</tr>
+		<tr>
+			<td><a href="18Bulletins/180211.aspx">February 11, 2018</a> - 
+			<a href="18Bulletins/180211.pdf" target="_bulletin">PDF</a></td>
+		</tr>
+		<tr>
+			<td><a href="18Bulletins/180218.aspx">February 18, 2018</a> - 
+			<a href="18Bulletins/180218.pdf" target="_bulletin">PDF</a> - Lent I</td>
+		</tr>
+		<tr>
+			<td><a href="18Bulletins/180225.aspx">February 25, 2018</a> - 
+			<a href="18Bulletins/180225.pdf" target="_bulletin">PDF</a> - Lent II</td>
+		</tr>
+		<tr>
+			<td><a href="18Bulletins/180304.aspx">March 4, 2018</a> - 
+			<a href="18Bulletins/180304.pdf" target="_bulletin">PDF</a> - Lent III</td>
+		</tr>
 	</table>
 <p>Back to <a href="bulletins.aspx">current archive</a>.</p>
 <p>&nbsp;</p>
