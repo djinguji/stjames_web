@@ -32,7 +32,7 @@ parishioner community. Here are links to the online bulletin.</p>
 		</tr>
 		<tr>
 			<td><a href="18Bulletins/180225.aspx">February 25, 2018</a> - 
-			<a href="18Bulletins/180235.pdf" target="_bulletin">PDF</a> - Lent II</td>
+			<a href="18Bulletins/180225.pdf" target="_bulletin">PDF</a> - Lent II</td>
 		</tr>
 		<tr>
 			<td><a href="18Bulletins/180218.aspx">February 18, 2018</a> - 
