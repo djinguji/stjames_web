@@ -27,76 +27,48 @@ parishioner community. Here are links to the online bulletin.</p>
 <p>Here are links to recent bulletins:</p>
 	<table border="0" cellpadding="5" align="center" id="table2">
 		<tr>
-			<td><a href="18Bulletins/180304.aspx">March 4, 2018</a> - 
-			<a href="18Bulletins/180304.pdf" target="_bulletin">PDF</a> - Lent III</td>
+			<td><a href="18Bulletins/181014.aspx">October 14, 2018</a> - 
+			<a href="18Bulletins/181014.pdf" target="_bulletin">PDF</a></td>
 		</tr>
 		<tr>
-			<td><a href="18Bulletins/180225.aspx">February 25, 2018</a> - 
-			<a href="18Bulletins/180225.pdf" target="_bulletin">PDF</a> - Lent II</td>
+			<td><a href="18Bulletins/181007.aspx">October 7, 2018</a> - 
+			<a href="18Bulletins/181007.pdf" target="_bulletin">PDF</a></td>
 		</tr>
 		<tr>
-			<td><a href="18Bulletins/180218.aspx">February 18, 2018</a> - 
-			<a href="18Bulletins/180218.pdf" target="_bulletin">PDF</a> - Lent I</td>
+			<td><a href="18Bulletins/180930.aspx">September 30, 2018</a> - 
+			<a href="18Bulletins/180930.pdf" target="_bulletin">PDF</a></td>
 		</tr>
 		<tr>
-			<td><a href="18Bulletins/180211.aspx">February 11, 2018</a> - 
-			<a href="18Bulletins/180211.pdf" target="_bulletin">PDF</a></td>
+			<td><a href="18Bulletins/180923.aspx">September 23, 2018</a> - 
+			<a href="18Bulletins/180923.pdf" target="_bulletin">PDF</a></td>
 		</tr>
 		<tr>
-			<td><a href="18Bulletins/180204.aspx">February 4, 2018</a> - 
-			<a href="18Bulletins/180204.pdf" target="_bulletin">PDF</a></td>
+			<td><a href="18Bulletins/180916.aspx">September 16, 2018</a> - 
+			<a href="18Bulletins/180916.pdf" target="_bulletin">PDF</a></td>
 		</tr>
 		<tr>
-			<td><a href="18Bulletins/180128.aspx">January 28, 2018</a> - 
-			<a href="18Bulletins/180128.pdf" target="_bulletin">PDF</a></td>
+			<td><a href="18Bulletins/180909.aspx">September 9, 2018</a> - 
+			<a href="18Bulletins/180909.pdf" target="_bulletin">PDF</a></td>
 		</tr>
 		<tr>
-			<td><a href="18Bulletins/180121.aspx">January 21, 2018</a> - 
-			<a href="18Bulletins/180121.pdf" target="_bulletin">PDF</a></td>
+			<td><a href="18Bulletins/180902.aspx">September 2, 2018</a> - 
+			<a href="18Bulletins/180902.pdf" target="_bulletin">PDF</a></td>
 		</tr>
 		<tr>
-			<td><a href="18Bulletins/180114.aspx">January 14, 2018</a> - 
-			<a href="18Bulletins/180114.pdf" target="_bulletin">PDF</a></td>
+			<td><a href="18Bulletins/180826.aspx">August 26, 2018</a> - 
+			<a href="18Bulletins/180826.pdf" target="_bulletin">PDF</a></td>
 		</tr>
 		<tr>
-			<td><a href="18Bulletins/180107.aspx">January 7, 2018</a> - 
-			<a href="18Bulletins/180107.pdf" target="_bulletin">PDF</a> - Baptism of the Lord</td>
+			<td><a href="18Bulletins/180819.aspx">August 19, 2018</a> - 
+			<a href="18Bulletins/180819.pdf" target="_bulletin">PDF</a></td>
 		</tr>
 		<tr>
-			<td><a href="18Bulletins/171231.aspx">December 31, 2017</a> - 
-			<a href="18Bulletins/171231.pdf" target="_bulletin">PDF</a> - Holy Family</td>
+			<td><a href="18Bulletins/180812.aspx">August 12, 2018</a> - 
+			<a href="18Bulletins/180812.pdf" target="_bulletin">PDF</a></td>
 		</tr>
 		<tr>
-			<td><a href="18Bulletins/171224.aspx">December 24, 2017</a> - 
-			<a href="18Bulletins/171224.pdf" target="_bulletin">PDF</a> - Advent IV</td>
-		</tr>
-		<tr>
-			<td><a href="18Bulletins/171217.aspx">December 17, 2017</a> - 
-			<a href="18Bulletins/171217.pdf" target="_bulletin">PDF</a> - Advent III</td>
-		</tr>
-		<tr>
-			<td><a href="18Bulletins/171210.aspx">December 10, 2017</a> - 
-			<a href="18Bulletins/171210.pdf" target="_bulletin">PDF</a> - Advent II</td>
-		</tr>
-		<tr>
-			<td><a href="18Bulletins/171203.aspx">December 3, 2017</a> - 
-			<a href="18Bulletins/171203.pdf" target="_bulletin">PDF</a> - Advent I</td>
-		</tr>
-		<tr>
-			<td><a href="17Bulletins/171126.aspx">November 26, 2017</a> - 
-			<a href="17Bulletins/171126.pdf" target="_bulletin">PDF</a> - Christ the King</td>
-		</tr>
-		<tr>
-			<td><a href="17Bulletins/171119.aspx">November 19, 2017</a> - 
-			<a href="17Bulletins/171119.pdf" target="_bulletin">PDF</a></td>
-		</tr>
-		<tr>
-			<td><a href="17Bulletins/171112.aspx">November 12, 2017</a> - 
-			<a href="17Bulletins/171112.pdf" target="_bulletin">PDF</a></td>
-		</tr>
-		<tr>
-			<td><a href="17Bulletins/171105.aspx">November 5, 2017</a> - 
-			<a href="17Bulletins/171105.pdf" target="_bulletin">PDF</a></td>
+			<td><a href="18Bulletins/180805.aspx">August 5, 2018</a> - 
+			<a href="18Bulletins/180805.pdf" target="_bulletin">PDF</a></td>
 		</tr>
 	</table>
 <p>Yearly archives:</p>

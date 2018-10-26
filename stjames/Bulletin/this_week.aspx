@@ -1,11 +1,11 @@
-Ôªø<%@ Page Language="C#" masterpagefile="~/StJames.master" title="This Week's Bulletin" %>
+<%@ Page Language="C#" masterpagefile="~/StJames.master" title="This Week's Bulletin" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
 
 <!-- HEADER GOES HERE -- edit the GetHeader below with your title also, edit the title above with your title -->
 <!-- DO NOT CHANGE THE TABLE STYLE IN THIS HEADER -->
 <table  style="margin-top:10px;" cellspacing="1" border="0" width="100%" >
   	<script language="javascript" type="text/javascript">
-		GetHeader("This Week's Bulletin: 11 March 2018", "Lent IV"); 
+		GetHeader("This Week's Bulletin: 21 October 2018", ""); 
 	</script>
 </table>
 <!-- END HEADER -->
@@ -28,9 +28,9 @@ archive</a>.</p>
 
 <!-- Beginning of bulletin -->
 
-<p><b>WELCOME!</b> <i>If you are a visitor to the
+<p><b>WELCOME, VISITORS!</b> <i>If you are a visitor to the
 Cathedral, we want you to know how
-welcome you are ‚Äì whether you have come
+welcome you are ñ whether you have come
 from another part of the country, from across the
 world, or simply from another parish here in the
 Archdiocese. For more information about the parish, 
@@ -44,182 +44,184 @@ souvenirs as well as Catholic books and gifts.</i> </p>
 <tr><td style="font-family: Arial">
 <b>FOR YOUR SAFETY</b>. At each of the weekend Masses a Seattle police officer 
 is present on the Cathedral campus. </td></tr></table>
-<p><b>ON THE COVER</b>. The healing of the man born blind.
-Detail of the Ceremonial Bronze Doors, St. James
-Cathedral. Ulrich Henn, artist. </p>
-<p><b>LET YOUR KIDS CATCH YOU PRAYING!</b> Parent‚Äôs Faith
-Formation continues today. Meet in Room 206 of
-O‚ÄôDea High School from 11:05 to 11:40. <i>Information</i>
-<a href="mailto:rmichaels@stjames-cathedral.org?subject=Parents' Faith Formation">
-Rosanne Michaels</a>, 206-654-4658.</p>
-<p><b>THE SCRUTINIES</b>. Lent began in the Church as a time of
-intense spiritual preparation and healing for the Elect,
-those preparing to celebrate the sacraments of Baptism,
-Confirmation, and First Holy Communion at the Easter
-Vigil. On the third, fourth and fifth Sundays of Lent, the
-Church pours out her most powerful prayers for
-deliverance from sin and evil during the Scrutiny Rites.
-These rites will take place at the 10:00am Mass on
-March 11 and March 18. Please pick up a prayer card at
-the Place of Prayer near the font and pray for our Elect
-each day during this holy season. As Easter draws near,
-you will be invited to write a note telling our Elect of
-your prayerful support.</p>
-<p><b>LENTEN ADORATION ON FRIDAY EVENINGS</b>. Each
-Friday during Lent, we will have an hour of Exposition
-of the Blessed Sacrament following the 5:30pm evening
-Mass. It is a time for silent prayer in the presence of
-Christ, lasting until 7:00pm. Stay for the whole prayer
-or drop in for a few minutes.</p>
-<p><b>SACRAMENT OF RECONCILIATION</b>. This Lent, there are
-many opportunities to celebrate the sacrament of God‚Äôs
-mercy. Confessions are heard each Saturday from
-4:00‚Äî5:00pm. Our communal celebration of the
-Sacrament of Penance will be Monday, March 19 at
-7:30pm.</p>
-<p dir="ltr"><b>DO YOU WANT TO BECOME A US CITIZEN?</b> St. James
-Immigrant Assistance can help you prepare for the test
-with free tutoring. We can also help you complete your
-application for citizenship. <i>Information</i>
-<a href="mailto:gcaldwell@stjames-cathedral.org?subject=Naturalization Assostance">Glenda
-Caldwell</a>, 206-382-4511.</p>
-<p><b>APPLICATIONS FOR CATHOLIC SCHOOL
-SCHOLARSHIPS</b>. St. James supports SIX Catholic
-Elementary Schools in Seattle: St. Therese, St. Paul,
-St. Edward, St. George, St. Joseph and Holy Family
-Bilingual. These schools provide in-parish tuition rates
-for registered St. James parishioners. We also support
-FOUR Catholic High Schools (O‚ÄôDea, Holy Names,
-Bishop Blanchet, and Kennedy Catholic) through the Simperman Scholar program. Contact 
-<a href="mailto:tvandeven@stjames-cathedral.org?subject=Application for Catholic Schools">Theresa Van de Ven</a> 
-at 206-219-5822&nbsp; for requirements and an application
-packet for the 2018-2019 school year. Completed
-applications must be submitted by April 30.</p>
-<p dir="ltr"><b>VAN DRIVER NEEDED</b>. Our Sunday van ministry is an
-important outreach to senior parishioners who would
-not be able to get to 10:00am Mass on Sunday if it
-weren‚Äôt for our drivers. It‚Äôs a simple but important way
-to reach out to some of our senior parishioners! <b>Right
-now we have a need for several drivers, each to
-cover one Sunday a month. Openings are currently
-on the third, fourth, and fifth Sundays</b>. All training
-provided; background check required. <i>Information</i>,
-<a href="mailto:mlaughlin@stjames-cathedral.org?subject=Van Driver">Maria 
-Laughlin</a>, 206-382-4284.</p>
-<p><b>SEATTLE CAMINO DE SANTIAGO</b>. On March 24, join
-other pilgrims in a mini-Camino de Santiago. The
-pilgrimage begins with a free hot lunch at St. John‚Äôs
-Church in Greenwood at 11:30am. Pilgrims pray two
-Stations of the Cross at each of seven churches,
-beginning at St. John‚Äôs and finishing at St. James
-Cathedral around 5pm. We walk and ride Metro
-busses, with a church minibus backup. Pilgrims are
-welcome to drive. <i>Information</i>, 
-<a target="_bulletin" href="ghttp://stjohnsea.org/OurParish/SeattleCaminodeSantiago/tabid/1660/Default.aspx">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-ghttp://stjohnsea.org/OurParish/SeattleCaminodeSantiago/tabid/1660/Default.aspx</a>, 
-or contact
-<a href="mailto:russelljim12@gmail.com?subject=Seattle Camino de Santiago">Jim 
-Russelll</a>, 206-782-6666.</p>
-<p><b>HAVE YOU DRIFTED AWAY FROM YOUR CATHOLIC
-FAITH?</b> Do you have a desire to return to your faith,
-and to the sacraments? Come join our Cathedral
-Welcome Back team for a single session. We‚Äôll listen
-to your needs, and offer ways you can deepen your
-understanding of your own Catholic faith ‚Ä¶. whether
-in the context of a daytime group, an evening series, or
-even an individual meeting. Single sessions will be
-Monday afternoon, March 12, from 3:00 ‚Äì 4:30 pm,
-OR Monday evening, March 12, from 7:00 ‚Äì 8:30 pm.,
-in Cathedral Place, 803 Terry Ave. <i>Questions, or to
-RSVP</i>, <a href="mailto:rmichaels@stjames-cathedral.org?subject=Welcome Back">Rosanne Michaels</a>, 206.654.4658.</p>
-<p><b>CAPPELLA ROMANA CONCERT‚Äì IVAN MOODY: THE
-AK√ÅTHISTOS HYMN</b>. Friday, March 16 at 8:00pm. Rev.
-Dr. Ivan Moody, British composer, conductor, and
-Orthodox priest, returns to direct his stunning setting
-of the sixth-century hymn to the Mother of God,
-blending Byzantine chant with richly textured Russianstyle
-choruses, composed expressly for Cappella
-Romana, in English with Greek refrains. There will be
-a pre-concert talk at 7:00pm in Room 1EW of
-Cathedral Place (803 Terry Avenue). <i>Information and
-passes</i> at <a target="_bulletin" href="http://www.cappellaromana.org">www.cappellaromana.org</a>.</p>
-<p><b>CATHEDRAL GARDEN VOLUNTEERS NEEDED</b>, We are preparing to get the 
-Cathedral Garden back up and running and need volunteers! <i>Information</i>,
-<a href="mailto:hhoffman@stjames-cathedral.org?subject=Cathedral Garden">Hunt 
-Hoffman</a>.</p>
-<p><b>BYRD ENSEMBLE CONCERT‚ÄìEVOLUTION OF CHANT:
-A STARTING POINT</b>. Saturday, March 17 at 8:00pm.
-Chant has been the cornerstone of Western music since
-the ninth century, providing an evolutionary
-foundation from the Gregorian era to the Renaissance,
-Baroque, and even contemporary music. The Byrd
-Ensemble explores motets based on chant from
-Thomas Tallis‚Äôs <i>Loquebantur variis linguis</i> to
-American composer Eric Whitacre‚Äôs <i>Sainte-Chapelle</i>.
-<i>Information and passes</i> at
-<a target="_bulletin" href="http://www.byrdensemble.com">www.byrdensemble.com</a>.</p>
-<p><b>PAX CHRISTI AT ST JAMES</b>. Visit our Pax Christi peace
-and justice group at 1:15pm (after the Noon Mass) on
-March 11 in the Pastoral Outreach Center. We meet
-the second Sunday of each month. Come to our
-meeting to learn more about working for peace and
-justice in our world. <i>Information</i>, 
-<a href="mailto:hhoffman@stjames-cathedral.org?subject=Pax Christi">Hunt Hoffman</a>, 
-206-382-4235.</p>
-<p><b>VINCENTIAN VOLUNTEERS IN THE UK</b>. Are you aged
-between 18-35? Have you ever wanted to live in
-another country while making a real difference in the
-community? Have you thought about trying to live out
-Gospel values in a faith-filled group? If the answer to
-these questions is yes, then become a Vincentian
-Volunteer in the UK - living in community, serving the
-needy and living out your faith practically. Spend a
-year that will change your life. If you want to know
-more, visit <a target="_bulletin" href="http://www.vincentianvolunteers.org.uk">www.vincentianvolunteers.org.uk</a>.</p>
-<p><b>MARK YOUR CALENDAR FOR SVDP‚ÄôS ‚ÄúSTUFF THE
-TRUCK‚Äù EVENT</b>. On Sunday, April 22 (8:00am-
-2:30pm), a St Vincent de Paul truck will be in the
-O‚ÄôDea parking lot to receive your donations of gently
-used clothes, shoes, kitchen and other household
-goods, books, DVDs, CDs, sports equipment and other
-re-sellable items. During Lent last year, dozens of
-parishioners sacrificed their time to cull through
-personal possessions and decide what they could part
-with. The result was a huge haul for SVdP, yielding
-countless treasures that were then sold through SVdP‚Äôs
-five King County thrift shops. Sale proceeds benefitted
-our neighbors in need. Can you help us haul away an
-even bigger stash of treasures this year? <i>Information</i>,
-Ken Goddard, 206-981-7185.</p>
-<p><b>AN EVENING WITH MARYKNOLL</b>. Come learn about
-formation, experiences, and resources available to help
-the US Church grow in embracing our call to global
-solidarity and living out mission in our daily lives ‚Äì all
-programs of the US Church Engagement Division of
-Maryknoll. Also, the Maryknoll Lay Missioners will
-share about mission immersion trips and opportunities
-for you to serve as a missioner overseas. March 5 at
-6:00pm at 958 16th Ave E, Seattle. Refreshments will
-be provided. <i>Information and RSVP</i>,
-<a href="mailto:Seattle@maryknoll.org?subject=Maryknoll Evening at St. James Cathedral">
-Anna Johnson</a>.</p>
+<p><b>ON THE COVER</b> <i>Jesus is clothed in a purple cloak</i>. East
+Apse Stained-Glass Window, St. James Cathedral. Hans
+Gottfried von Stockhausen, artist.</p>
+<p><b>FLOWERS AT THE ALTAR</b> are offered in loving memory
+of Dave Runkle from his wife Liz.</p>
+<p><b>TODAY IS WORLD MISSION SUNDAY</b>, celebrated in every
+parish in the world. This Sunday calls us to be
+missionary disciples, especially to those most in need of
+the Good News of Jesus Christ. Envelopes for this
+important collection are in the pews this weekend.</p>
+<p><b>PACIFIC MUSICWORKS CONCERT ñ MONTEVERDI
+MASTERWORKS</b> Saturday, October 27 at 8:00pm.
+Published 30 years after his Vespers, Claudio
+Monteverdiís last great collection of church music, <i>Selva Morale</i>, was conceived and written for the
+glorious and spacious acoustics of San Marco, Venice. Pacific MusicWorks Artistic Director
+Stephen Stubbs directs a stellar lineup of singers and
+instrumentalists in this breathtaking and inspirational
+program. <i>Information and passes</i>,
+<a target="_bulletin" href="http://www.pacificmusicworks.org">www.pacificmusicworks.org</a> or 206-708-6003.</p>
+<p><b>SOLEMN MASS FOR THE FEAST OF ALL SOULSñMOZART REQUIEM</b> Friday, November 2 at 7:30pm. Each
+year, St. James Cathedral commemorates the Feast of All
+Souls with a solemn Mass for the dead featuring a
+musical setting of the Requiem Mass. This year, Joseph
+Adam conducts the Cathedral Choir, soloists, and
+Cathedral Chamber Orchestra in Mozartís Requiem.
+Experiencing Mozartís masterpiece within the context of
+the Mass for which it was written offers new insights
+into a beloved musical work. Very Reverend Michael G.
+Ryan, presider. All are welcome.</p>
+<p><b>MULTICULTURAL CELEBRATION OF ALL OUR SAINTS</b>.
+On Saturday, November 3 at 11:00am, Archbishop Sartain will celebrate Mass with communities from
+across the Archdiocese of Seattle, as we honor our
+diversity and the saints who guide us along the way.
+The Mass will be preceded by Exposition of the
+Blessed Sacrament at 10:00am; a reception will
+follow. All are welcome!</p>
+<p><b>ST VINCENT DE PAUL THANKS YOU</b>. A young woman
+asked us for a bed. When we visited, we saw she
+already had a good twin bed, covered with a sweet
+collection of stuffed animals from her childhood. We
+gently asked why she needed another bed. She
+explained that the bed she had did not belong to her.
+Her favorite auntie had loaned her the bed, which
+belonged to auntieís young son. But the boy badly
+needed to get his bed back as sharing a bed with his
+mom was not working out so well for either of them!
+We gladly provided a new twin bed for the young
+woman. Thanks to your support, the single bed we
+gave is helping three people sleep much better now ñ
+all in their own beds. <i>Information</i>,
+<a href="mailto:bobclifford53@gmail.com?subject=St Vincent de Paul">Bob Clifford</a>, 
+206-718-4158.</p>
+<p><b>CALLED TO SERVE AS CHRIST CAMPAIGN</b>.
+Archbishop Sartain has launched a major capital campaign to raise funds for the 
+retirement needs of priests and women religious throughout the Archdiocese of 
+Seattle. The Cathedralís goal is $3.2 million. 15% of every gift will be 
+returned to the Cathedral parish. Many thanks to those who have already turned 
+in your pledges. We are well on our way to meeting our goal! If you have any 
+questions at all, would like additional information, or have other feedback 
+about the campaign, donít hesitate to call or e-mail. <i>Information</i>, 
+<a href="mailto:mlaughlin@stjames-cathedral.org?subject=Called to Serve as Christ Campaign">
+Maria Laughlin</a>, 206-382-4284.</p>
 <p><b>A WEEKLY TIP ON CARING FOR OUR COMMON HOME</b>.
-Think about the environment Jesus lived in and how it
-affected his ministry. Reflect on examples of Jesus
-drawing on his environment for illustrations and
-inspiration.</p>
-<p><b>YOUTH MINISTRY TRI-PARISH FOOD BANK TRIP</b>. We‚Äôll
-be volunteering on Holy Saturday, March 31 at the
-food bank in Skagit Valley. <i>Information</i>,
-<a href="mailto:cleighton@stjames-cathedral.org?subject=Youth Ministry">Curtis 
-Leighton</a>, 206-264-2082.</p>
+Insulating your attic is very important for keeping your
+home warm. As heat rises, a well-insulated attic will
+help trap the heat and keep it from escaping. Insulation
+can be done by the homeowner fairly easily; however,
+if you arenít sure which type to purchase, or simply
+donít have the time, be sure to call a professional.
+(Courtesy <i>Seattle Magazine</i>)</p>
+<p><b>WINTER SHELTER</b>. You can support our ministry to
+homeless men by donating much-needed supplies.
+Items can be brought to Sunday Coffee Hour or you
+can deliver or ship orders to the Parish Office. Wish
+List: hotel-size soap, shampoo, conditioner and lotion;
+lip balm; toothpaste and menís toothbrushes. Thank
+you!</p>
+<p><b>ARE YOU INTERESTED IN BECOMING CATHOLIC?</b> If you are an adult who has 
+never been baptized, an adult who has been baptized in another Christian 
+tradition or a Catholic who has been baptized, but not received First Eucharist 
+or Confirmation, you are invited to participate in the RCIA, a process of 
+initiation into the Catholic Church. You can learn more by going to the
+<a href="http://www.stjames-cathedral.org/rcia/default.aspx">RCIA website</a>. <i>
+Information</i>, 
+<a href="mailto:kmccabe@stjames-cathedral.org?subject=RCIA">Kathleen McCabe</a>, 
+206-382-2018.</p>
+
+
+<p><b>CD OF SUNDAY MASS</b>. Do you know someone who is
+unable to attend Sunday Mass but would appreciate
+staying connected by listening to the Mass on CD?
+Each Sunday, a faithful volunteer records and masters
+the 10:00am Mass, including the music, prayers,
+reading, and homilies. This CD is mailed at no charge
+to homebound parishioners and to ìlong-distanceî
+parishioners around the country, along with a Sunday
+bulletin. If you or someone you know would like to be
+added to the list, contact 
+<a href="mailto:mlaughlin@stjames-cathedral.org?subject=CD of Sunday Mass">Maria Laughlin</a>, 206-382-4284.</p>
+
+<p><b>BAPTISM OF INFANTS & YOUNG CHILDREN</b> (under the
+age of 7) is celebrated monthly at one of the weekend
+Masses. To prepare for this most important sacrament,
+parents and godparents participate in a series of classes
+to update their understanding of baptism, to reflect on
+their responsibility to guide their children in the
+practice of the faith, and to learn about the many ways
+our parish supports families. Please allow at least two
+months for preparation. <i>Information</i>,
+<a href="mailto:jcastro@stjames-cathedral.org?subject=Baptism of infants and young children">Julianna Castro</a>, 206-619-0816.</p>
+<p><b>BABYSITTING</b> for children up to 4-years of age is
+available every Sunday during the 10am and Noon
+Masses in the Mother Cabrini Room located on the
+first floor of the Pastoral Outreach Center. Babysitting
+is also offered during baptism preparation classes and
+special events. You are welcome to visit our
+babysitting room to get to know our paid staff and to
+help your children get comfortable. <i>Information</i>,
+<a href="mailto:slee@stjames-cathedral.org?subject=Babysitting">Suzanne Lee</a>, 206-654-4640.</p>
+
+
+<p><b>ARE YOU A REGISTERED PARISHIONER AT ST.
+JAMES?</b> Many who attend St. James regularly and consider the Cathedral their 
+parish have never officially registered. We strongly encourage you to register. 
+Registered parishioners receive important mailings from the Cathedral (including 
+offering envelopes!).
+<a href="https://www.stjames-cathedral.org/businesscenter/registration.aspx">R</a><a target="_bulletin" href="https://www.stjames-cathedral.org/businesscenter/registration.aspx">egister online</a>.</p>
+<p><b>MINISTRY OF PRESENCE IN THE CATHEDRAL</b>. Each
+weekday in the Cathedral, a volunteer sits at a desk in
+the northeast corner of the Cathedral near the Mary
+Shrine, available to answer questions, accept prayer
+requests, and greet visitors who stop in between
+1:00pm-4:00pm. Itís a quiet time to pray, read, and be
+present to those who come to the Cathedral, often
+people in need. <b>We are currently looking for a
+volunteer who might cover one Tuesday afternoon
+each month, beginning in November</b>. If youíd enjoy
+some quiet time in the Cathedral, weíd love to have
+you be a part of this ministry. <i>Information</i>,
+<a href="mailto:mlaughlin@stjames-cathedral.org?subject=Ministry of Presence in the Cathedral">
+Maria Laughlin</a>, 206-382-4284.</p>
+<p><b>YOUNG ADULTS: PUMPKIN CARVING CONTEST!</b> On
+Sunday, October 28, from 6:30-8:30pm, we will be
+joining the Youth Ministry as we carve pumpkins in
+Cathedral Hall. This is a family friendly event. Feel
+free to bring your own pumpkins and carving supplies,
+though we will provide pumpkins and supplies at the
+parish as well. We are also collecting coats for our
+clothing drive. <i>Information or to RSVP</i>, 
+<a href="mailto:cleighton@stjames-cathedral.org?subject=Young Adults">Curtis</a>, 206-264-2082.</p>
+
+
+<table cellpadding="8" border="2" width="100%">
+	<tr>
+		<td style="font-family: Arial">
+		<p align="center">
+		<img border="0" src="../images/youth-ministry.png" width="406" height="61"></p>
+
+<p><b>YOUTH GROUP TONIGHT</b>. Come join other teens in
+grades 8-12 for an evening of community, faith and
+fun activities to help you integrate faith into your
+daily life. We meet from 6:30 to 8:30 pm in the
+Pastoral Outreach Center. Hope to see you there!</p>
+<p><b>PUMPKIN CARVING CONTEST</b>. Weíll be joined by
+Cathedral Young Adults on Sunday, October 28
+for our annual pumpkin carving contest.</p>
+		<p align="center"><i>Information</i>,
+		<a href="mailto:cleighton@stjames-cathedral.org?subject=Youth Ministry">
+		Curtis Leighton</a>, 206-264-2082</p>
+</td></tr></table>
+
 <p><b>PARISH REMEMBRANCE</b>: <i>Throughout the year, because we
 are the Cathedral Church, we remember in prayer at Mass
 and Vespers each of the parishes and missions of the
 Archdiocese of Seattle on a Sunday near their feast day</i>. This
-week we pray for the parishes of St. Joseph in Seattle,
-Tacoma, and Lynden and the Mission of St. Joseph in
-Kalama.</p>
+week we pray for the parishes of St. Luke in Shoreline, St.
+Jude in Redmond, and Our Lady of the Olympics Mission in
+Quinault.</p>
 
 <!-- End of bulletin -->
 

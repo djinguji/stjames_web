@@ -79,6 +79,134 @@ parishioner community. </p>
 			<td><a href="18Bulletins/180304.aspx">March 4, 2018</a> - 
 			<a href="18Bulletins/180304.pdf" target="_bulletin">PDF</a> - Lent III</td>
 		</tr>
+		<tr>
+			<td><a href="18Bulletins/180311.aspx">March 11, 2018</a> - 
+			<a href="18Bulletins/180311.pdf" target="_bulletin">PDF</a> - Lent IV</td>
+		</tr>
+		<tr>
+			<td><a href="18Bulletins/180318.aspx">March 18, 2018</a> - 
+			<a href="18Bulletins/180318.pdf" target="_bulletin">PDF</a> - Lent V</td>
+		</tr>
+		<tr>
+			<td><a href="18Bulletins/180325.aspx">March 25, 2018</a> - 
+			<a href="18Bulletins/180325.pdf" target="_bulletin">PDF</a> - Palm Sunday</td>
+		</tr>
+		<tr>
+			<td><a href="18Bulletins/180401.aspx">April 1, 2018</a> - 
+			<a href="18Bulletins/180401.pdf" target="_bulletin">PDF</a> - Easter Sunday</td>
+		</tr>
+		<tr>
+			<td><a href="18Bulletins/180408.aspx">April 8, 2018</a> - 
+			<a href="18Bulletins/180408.pdf" target="_bulletin">PDF</a> - Easter II</td>
+		</tr>
+		<tr>
+			<td><a href="18Bulletins/180415.aspx">April 15, 2018</a> - 
+			<a href="18Bulletins/180415.pdf" target="_bulletin">PDF</a> - Easter III</td>
+		</tr>
+		<tr>
+			<td><a href="18Bulletins/180422.aspx">April 22, 2018</a> - 
+			<a href="18Bulletins/180422.pdf" target="_bulletin">PDF</a> - Easter IV</td>
+		</tr>
+		<tr>
+			<td><a href="18Bulletins/180429.aspx">April 29, 2018</a> - 
+			<a href="18Bulletins/180429.pdf" target="_bulletin">PDF</a> - Easter V</td>
+		</tr>
+		<tr>
+			<td><a href="18Bulletins/180506.aspx">May 6, 2018</a> - 
+			<a href="18Bulletins/180506.pdf" target="_bulletin">PDF</a> - Easter VI</td>
+		</tr>
+		<tr>
+			<td><a href="18Bulletins/180513.aspx">May 13, 2018</a> - 
+			<a href="18Bulletins/180513.pdf" target="_bulletin">PDF</a> - Ascension</td>
+		</tr>
+		<tr>
+			<td><a href="18Bulletins/180520.aspx">May 20, 2018</a> - 
+			<a href="18Bulletins/180520.pdf" target="_bulletin">PDF</a> - Pentecost</td>
+		</tr>
+		<tr>
+			<td><a href="18Bulletins/180527.aspx">May 27, 2018</a> - 
+			<a href="18Bulletins/180527.pdf" target="_bulletin">PDF</a> - Trinity</td>
+		</tr>
+		<tr>
+			<td><a href="18Bulletins/180603.aspx">June 3, 2018</a> - 
+			<a href="18Bulletins/180603.pdf" target="_bulletin">PDF</a> - Corpus Christi</td>
+		</tr>
+		<tr>
+			<td><a href="18Bulletins/180610.aspx">June 10, 2018</a> - 
+			<a href="18Bulletins/180610.pdf" target="_bulletin">PDF</a></td>
+		</tr>
+		<tr>
+			<td><a href="18Bulletins/180617.aspx">June 17, 2018</a> - 
+			<a href="18Bulletins/180617.pdf" target="_bulletin">PDF</a></td>
+		</tr>
+		<tr>
+			<td><a href="18Bulletins/180624.aspx">June 24, 2018</a> - 
+			<a href="18Bulletins/180624.pdf" target="_bulletin">PDF</a> - Nativity of John the Baptist</td>
+		</tr>
+		<tr>
+			<td><a href="18Bulletins/180701.aspx">July 1, 2018</a> - 
+			<a href="18Bulletins/180701.pdf" target="_bulletin">PDF</a></td>
+		</tr>
+		<tr>
+			<td><a href="18Bulletins/180708.aspx">July 8, 2018</a> - 
+			<a href="18Bulletins/180708.pdf" target="_bulletin">PDF</a></td>
+		</tr>
+		<tr>
+			<td><a href="18Bulletins/180715.aspx">July 15, 2018</a> - 
+			<a href="18Bulletins/180715.pdf" target="_bulletin">PDF</a></td>
+		</tr>
+		<tr>
+			<td><a href="18Bulletins/180722.aspx">July 22, 2018</a> - 
+			<a href="18Bulletins/180722.pdf" target="_bulletin">PDF</a> - St. James, Apostle</td>
+		</tr>
+		<tr>
+			<td><a href="18Bulletins/180729.aspx">July 29, 2018</a> - 
+			<a href="18Bulletins/180729.pdf" target="_bulletin">PDF</a></td>
+		</tr>
+		<tr>
+			<td><a href="18Bulletins/180805.aspx">August 5, 2018</a> - 
+			<a href="18Bulletins/180805.pdf" target="_bulletin">PDF</a></td>
+		</tr>
+		<tr>
+			<td><a href="18Bulletins/180812.aspx">August 12, 2018</a> - 
+			<a href="18Bulletins/180812.pdf" target="_bulletin">PDF</a></td>
+		</tr>
+		<tr>
+			<td><a href="18Bulletins/180819.aspx">August 19, 2018</a> - 
+			<a href="18Bulletins/180819.pdf" target="_bulletin">PDF</a></td>
+		</tr>
+		<tr>
+			<td><a href="18Bulletins/180826.aspx">August 26, 2018</a> - 
+			<a href="18Bulletins/180826.pdf" target="_bulletin">PDF</a></td>
+		</tr>
+		<tr>
+			<td><a href="18Bulletins/180902.aspx">September 2, 2018</a> - 
+			<a href="18Bulletins/180902.pdf" target="_bulletin">PDF</a></td>
+		</tr>
+		<tr>
+			<td><a href="18Bulletins/180909.aspx">September 9, 2018</a> - 
+			<a href="18Bulletins/180909.pdf" target="_bulletin">PDF</a></td>
+		</tr>
+		<tr>
+			<td><a href="18Bulletins/180916.aspx">September 16, 2018</a> - 
+			<a href="18Bulletins/180916.pdf" target="_bulletin">PDF</a></td>
+		</tr>
+		<tr>
+			<td><a href="18Bulletins/180923.aspx">September 23, 2018</a> - 
+			<a href="18Bulletins/180923.pdf" target="_bulletin">PDF</a></td>
+		</tr>
+		<tr>
+			<td><a href="18Bulletins/180930.aspx">September 30, 2018</a> - 
+			<a href="18Bulletins/180930.pdf" target="_bulletin">PDF</a></td>
+		</tr>
+		<tr>
+			<td><a href="18Bulletins/181007.aspx">October 7, 2018</a> - 
+			<a href="18Bulletins/181007.pdf" target="_bulletin">PDF</a></td>
+		</tr>
+		<tr>
+			<td><a href="18Bulletins/181014.aspx">October 14, 2018</a> - 
+			<a href="18Bulletins/181014.pdf" target="_bulletin">PDF</a></td>
+		</tr>
 	</table>
 <p>Back to <a href="bulletins.aspx">current archive</a>.</p>
 <p>&nbsp;</p>
