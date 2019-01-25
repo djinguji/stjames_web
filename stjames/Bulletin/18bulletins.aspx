@@ -24,23 +24,23 @@ parishioner community. </p>
 <p>Here are links to the online bulletin for the liturgical year, 2017-2018.</p>
 	<table border="0" cellpadding="5" align="center" id="table1">
 		<tr>
-			<td><a href="18Bulletins/171203.aspx">December 3, 2016</a> - 
+			<td><a href="18Bulletins/171203.aspx">December 3, 2017</a> - 
 			<a href="18Bulletins/171203.pdf" target="_bulletin">PDF</a> - Advent I</td>
 		</tr>
 		<tr>
-			<td><a href="18Bulletins/171210.aspx">December 10, 2016</a> - 
+			<td><a href="18Bulletins/171210.aspx">December 10, 2017</a> - 
 			<a href="18Bulletins/171210.pdf" target="_bulletin">PDF</a> - Advent II</td>
 		</tr>
 		<tr>
-			<td><a href="18Bulletins/171217.aspx">December 17, 2016</a> - 
+			<td><a href="18Bulletins/171217.aspx">December 17, 2017</a> - 
 			<a href="18Bulletins/171217.pdf" target="_bulletin">PDF</a> - Advent III</td>
 		</tr>
 		<tr>
-			<td><a href="18Bulletins/171224.aspx">December 24, 2016</a> - 
+			<td><a href="18Bulletins/171224.aspx">December 24, 2017</a> - 
 			<a href="18Bulletins/171224.pdf" target="_bulletin">PDF</a> - Advent IV</td>
 		</tr>
 		<tr>
-			<td><a href="18Bulletins/171231.aspx">December 31, 2016</a> - 
+			<td><a href="18Bulletins/171231.aspx">December 31, 2017</a> - 
 			<a href="18Bulletins/171231.pdf" target="_bulletin">PDF</a> - Holy Family</td>
 		</tr>
 		<tr>
@@ -206,6 +206,30 @@ parishioner community. </p>
 		<tr>
 			<td><a href="18Bulletins/181014.aspx">October 14, 2018</a> - 
 			<a href="18Bulletins/181014.pdf" target="_bulletin">PDF</a></td>
+		</tr>
+		<tr>
+			<td><a href="18Bulletins/181021.aspx">October 21, 2018</a> - 
+			<a href="18Bulletins/181021.pdf" target="_bulletin">PDF</a></td>
+		</tr>
+		<tr>
+			<td><a href="18Bulletins/181028.aspx">October 28, 2018</a> - 
+			<a href="18Bulletins/181028.pdf" target="_bulletin">PDF</a></td>
+		</tr>
+		<tr>
+			<td><a href="18Bulletins/181104.aspx">November 4, 2018</a> - 
+			<a href="18Bulletins/181104.pdf" target="_bulletin">PDF</a></td>
+		</tr>
+		<tr>
+			<td><a href="18Bulletins/181111.aspx">November 11, 2018</a> - 
+			<a href="18Bulletins/181111.pdf" target="_bulletin">PDF</a></td>
+		</tr>
+		<tr>
+			<td><a href="18Bulletins/181118.aspx">November 18, 2018</a> - 
+			<a href="18Bulletins/181118.pdf" target="_bulletin">PDF</a></td>
+		</tr>
+		<tr>
+			<td><a href="18Bulletins/181125.aspx">November 25, 2018</a> - 
+			<a href="18Bulletins/181125.pdf" target="_bulletin">PDF</a> - Christ the King</td>
 		</tr>
 	</table>
 <p>Back to <a href="bulletins.aspx">current archive</a>.</p>

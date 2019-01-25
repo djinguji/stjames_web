@@ -5,7 +5,7 @@
 <!-- DO NOT CHANGE THE TABLE STYLE IN THIS HEADER -->
 <table  style="margin-top:10px;" cellspacing="1" border="0" width="100%" >
   	<script language="javascript" type="text/javascript">
-		GetHeader("This Week's Bulletin: 21 October 2018", ""); 
+		GetHeader("This Week's Bulletin: 20 January 2019", ""); 
 	</script>
 </table>
 <!-- END HEADER -->
@@ -44,156 +44,151 @@ souvenirs as well as Catholic books and gifts.</i> </p>
 <tr><td style="font-family: Arial">
 <b>FOR YOUR SAFETY</b>. At each of the weekend Masses a Seattle police officer 
 is present on the Cathedral campus. </td></tr></table>
-<p><b>ON THE COVER</b> <i>Jesus is clothed in a purple cloak</i>. East
-Apse Stained-Glass Window, St. James Cathedral. Hans
-Gottfried von Stockhausen, artist.</p>
-<p><b>FLOWERS AT THE ALTAR</b> are offered in loving memory
-of Dave Runkle from his wife Liz.</p>
-<p><b>TODAY IS WORLD MISSION SUNDAY</b>, celebrated in every
-parish in the world. This Sunday calls us to be
-missionary disciples, especially to those most in need of
-the Good News of Jesus Christ. Envelopes for this
-important collection are in the pews this weekend.</p>
-<p><b>PACIFIC MUSICWORKS CONCERT – MONTEVERDI
-MASTERWORKS</b> Saturday, October 27 at 8:00pm.
-Published 30 years after his Vespers, Claudio
-Monteverdi’s last great collection of church music, <i>Selva Morale</i>, was conceived and written for the
-glorious and spacious acoustics of San Marco, Venice. Pacific MusicWorks Artistic Director
-Stephen Stubbs directs a stellar lineup of singers and
-instrumentalists in this breathtaking and inspirational
-program. <i>Information and passes</i>,
-<a target="_bulletin" href="http://www.pacificmusicworks.org">www.pacificmusicworks.org</a> or 206-708-6003.</p>
-<p><b>SOLEMN MASS FOR THE FEAST OF ALL SOULS–MOZART REQUIEM</b> Friday, November 2 at 7:30pm. Each
-year, St. James Cathedral commemorates the Feast of All
-Souls with a solemn Mass for the dead featuring a
-musical setting of the Requiem Mass. This year, Joseph
-Adam conducts the Cathedral Choir, soloists, and
-Cathedral Chamber Orchestra in Mozart’s Requiem.
-Experiencing Mozart’s masterpiece within the context of
-the Mass for which it was written offers new insights
-into a beloved musical work. Very Reverend Michael G.
-Ryan, presider. All are welcome.</p>
-<p><b>MULTICULTURAL CELEBRATION OF ALL OUR SAINTS</b>.
-On Saturday, November 3 at 11:00am, Archbishop Sartain will celebrate Mass with communities from
-across the Archdiocese of Seattle, as we honor our
-diversity and the saints who guide us along the way.
-The Mass will be preceded by Exposition of the
-Blessed Sacrament at 10:00am; a reception will
-follow. All are welcome!</p>
-<p><b>ST VINCENT DE PAUL THANKS YOU</b>. A young woman
-asked us for a bed. When we visited, we saw she
-already had a good twin bed, covered with a sweet
-collection of stuffed animals from her childhood. We
-gently asked why she needed another bed. She
-explained that the bed she had did not belong to her.
-Her favorite auntie had loaned her the bed, which
-belonged to auntie’s young son. But the boy badly
-needed to get his bed back as sharing a bed with his
-mom was not working out so well for either of them!
-We gladly provided a new twin bed for the young
-woman. Thanks to your support, the single bed we
-gave is helping three people sleep much better now –
-all in their own beds. <i>Information</i>,
-<a href="mailto:bobclifford53@gmail.com?subject=St Vincent de Paul">Bob Clifford</a>, 
-206-718-4158.</p>
-<p><b>CALLED TO SERVE AS CHRIST CAMPAIGN</b>.
-Archbishop Sartain has launched a major capital campaign to raise funds for the 
-retirement needs of priests and women religious throughout the Archdiocese of 
-Seattle. The Cathedral’s goal is $3.2 million. 15% of every gift will be 
-returned to the Cathedral parish. Many thanks to those who have already turned 
-in your pledges. We are well on our way to meeting our goal! If you have any 
-questions at all, would like additional information, or have other feedback 
-about the campaign, don’t hesitate to call or e-mail. <i>Information</i>, 
-<a href="mailto:mlaughlin@stjames-cathedral.org?subject=Called to Serve as Christ Campaign">
-Maria Laughlin</a>, 206-382-4284.</p>
+<p></p>
+<table cellpadding="0" border="0" width="100%"><tr>
+	<td style="font-family: Arial">
+
+<p><b>
+<img border="0" src="19Bulletins/2019-01-20.png" height="200" align="right">ON THE COVER</b> 
+<i>Icon of the Wedding at Cana.</i> Joan Brand-Landkamer, Cathedral iconographer.</td></tr></table>
+<p><b>FLOWERS AT THE ALTAR</b> are offered by Barbara & Jim Ziemann in memory of Dr. & Mrs. E.R. Good.</p>
+<p><b>JOIN WITH HUNDREDS
+OF CATHOLICS</b> as we
+put our faith in action
+to advocate for our
+brothers and sisters in
+need on Catholic
+Advocacy Day in
+Olympia, Thursday,
+February 7, 2019. The day will include briefings on
+legislative issues, Mass and appointments with
+legislators. Register at <a target="_bulletin" href="http://www.ipjc.org">www.ipjc.org</a> by January 23.
+Sponsored by: Washington State Catholic Conference,
+Catholic Community/Housing Services,
+Intercommunity Peace & Justice Center and the St.
+Vincent de Paul Society.</p>
+<p dir="ltr"><b>OPERATION NIGHTWATCH VOLUNTEER OPENING</b>. A
+few times a month, parishioners from St. James prepare
+and serve a late-night meal to guests at Operation Nightwatch, an organization that seeks to reduce the
+impacts of poverty by providing resources to people
+experiencing homelessness. We are currently looking for
+a volunteer to help us serve dinner on Second Sundays of
+every month. Come join our team! <i>Information</i>, 
+<a href="mailto:dhogan@stjames-cathedral.org?subject=Operation Nightwatch">Dylan
+Hogan</a>, 206-382-4235.</p>
+<p><b>REPORT FROM ST VINCENT DE PAUL</b>. Your SVdP
+donations made it possible for our Cathedral Vincentians
+to do 188 home visits during October, November &
+December and help 298 low (or no) income residents of
+St James parish who struggle to pay for life's necessities,
+such as rent, electricity, beds, food, clothes and basic
+hygiene products. Your generosity is great, but we
+continue to be asked for more help than we can provide,
+especially as rents keep rising. That means we and those
+we serve are deeply grateful for every dollar you share
+with SVdP – thank you! <i>Information</i>,
+<a href="mailto:bobclifford53@gmail.com?subject=St. Vincent de Paul">Bob 
+Clifford</a>, 206-718-4158.</p>
+<p><b>ROSARY</b>. All are welcome to join with a group of
+parishioners who pray the rosary together in the Chapel,
+Monday through Saturday at 7:40am.</p>
 <p><b>A WEEKLY TIP ON CARING FOR OUR COMMON HOME</b>.
-Insulating your attic is very important for keeping your
-home warm. As heat rises, a well-insulated attic will
-help trap the heat and keep it from escaping. Insulation
-can be done by the homeowner fairly easily; however,
-if you aren’t sure which type to purchase, or simply
-don’t have the time, be sure to call a professional.
-(Courtesy <i>Seattle Magazine</i>)</p>
-<p><b>WINTER SHELTER</b>. You can support our ministry to
-homeless men by donating much-needed supplies.
-Items can be brought to Sunday Coffee Hour or you
-can deliver or ship orders to the Parish Office. Wish
-List: hotel-size soap, shampoo, conditioner and lotion;
-lip balm; toothpaste and men’s toothbrushes. Thank
-you!</p>
-<p><b>ARE YOU INTERESTED IN BECOMING CATHOLIC?</b> If you are an adult who has 
-never been baptized, an adult who has been baptized in another Christian 
-tradition or a Catholic who has been baptized, but not received First Eucharist 
-or Confirmation, you are invited to participate in the RCIA, a process of 
-initiation into the Catholic Church. You can learn more by going to the
-<a href="http://www.stjames-cathedral.org/rcia/default.aspx">RCIA website</a>. <i>
-Information</i>, 
-<a href="mailto:kmccabe@stjames-cathedral.org?subject=RCIA">Kathleen McCabe</a>, 
-206-382-2018.</p>
+Aside from indoor plants creating a cozy and warm
+ambience in a house, they are also energy efficient in
+the way they release moisture from their leaves
+allowing it to hold in heat. Some houseplants like aloe vera can act as an air purifying plant surviving on less
+sunlight and water while others such as the Golden
+Pothos, one of the most popular household plants, need
+indirect light consistently.</p>
+<p><b>SUNDAY HOSPITALITY VOLUNTEERS NEEDED</b>. Many
+people do not know that there are very few places for
+those experiencing food insecurity to get a hot meal on
+a Sunday. In order to meet this area of highest need,
+St. James is rolling out Early Breakfast, a free Sundaymorning
+meal program, starting January 27. The
+regular Coffee Hour following the 8am, 10am, and
+Noon Masses will remain unchanged; however, we are
+in urgent need of volunteers to help at least once a
+month with food prep on Saturday afternoons and/or
+service and cleanup on Sundays in the early morning.
+We are also seeking additional assistance with our
+regular Coffee Hour following all Sunday Masses.
+These are excellent options for people seeking
+volunteer opportunities that fit into their busy work
+schedules, or for those looking to complement their
+Sunday worship with direct service to those in need.
+<i>Early Breakfast information</i>, 
+<a href="mailto:dhogan@stjames-cathedral.org?subject=Early Breakfast volunteers">Dylan Hogan</a>, 206-382-4235.
+<i>Coffee Hour information</i>,
+<a href="mailto:jhaynes@stjames-cathedral.org?subject=Coffee hour volunteers">Jamerika Haynes</a>,
+206-382-4235.</p>
+
+<p dir="ltr"><b>PROTECTING GOD’S CHILDREN – SAFE
+ENVIRONMENT PROGRAM FOR NEW
+VOLUNTEERS</b>. Do you volunteer with children or
+vulnerable adults here at St. James? Safe Environment
+Program Training will be offered on Sunday afternoon,
+February 10 from 1:30pm to 4:30pm. You must preregister
+online for this class at 
+	<a target="_bulletin" href="https://www.virtusonline.org/virtus/">https://www.virtusonline.org/virtus/</a>; go to Seattle
+Archdiocese, and look for the February 10th class.
+<i>Information</i>, 
+	<a href="mailto:tvandeven@stjames-cathedral?subject=Protecting God's Children">Theresa Van de Ven</a>, 206-219-5822, or
+	<a href="mailto:slee@stjames-cathedral.org?subject=Protecting God's Children">Suzanne Lee</a>, 
+	206-979-6308.</p>
+<p><b>POWERFUL TOOLS FOR CAREGIVERS</b>. Do you
+support an adult family member with a chronic
+condition? In this free 6-week course, learn key skills
+for taking care of yourself while you care for your
+loved one. Topics include stress reduction,
+communication, decision-making, and community
+resources. 11am–12:30pm. Thursdays, February 14 –
+March 21. Pastoral Outreach Center. Space is limited;
+Registration is required by February 7. <i>Information</i>,
+<a href="mailto:mbecker1@uw.edu?subject=Powerful Tools for Caregivers">Mari 
+Becker</a>, UW Memory &amp; Brain Wellness Center, 206-744-2017.</p>
+<p><b>BABYSITTERS NEEDED</b>. St. James Cathedral offers
+babysitting for children ages 1-4 during the 10 am and
+12:00pm Sunday Masses, during baptism preparation
+classes, and for special events. Two paid babysitters,
+who are over the age of 18 and have gone through Safe
+Environment Training, are on duty at all times. We
+currently have openings for additional staff. If you like
+working with children and want to provide a valuable
+service to the young families of our parish, please
+apply. <i>Information</i>, 
+<a href="mailto:slee@stjames-cathedral.org?subject=Babysitters needed">Suzanne Lee</a>, 206-654-4640.</p>
 
 
-<p><b>CD OF SUNDAY MASS</b>. Do you know someone who is
-unable to attend Sunday Mass but would appreciate
-staying connected by listening to the Mass on CD?
-Each Sunday, a faithful volunteer records and masters
-the 10:00am Mass, including the music, prayers,
-reading, and homilies. This CD is mailed at no charge
-to homebound parishioners and to “long-distance”
-parishioners around the country, along with a Sunday
-bulletin. If you or someone you know would like to be
-added to the list, contact 
-<a href="mailto:mlaughlin@stjames-cathedral.org?subject=CD of Sunday Mass">Maria Laughlin</a>, 206-382-4284.</p>
+<table cellpadding="8" border="2" width="100%">
+	<tr>
+		<td style="font-family: Arial">
+<p align="center"><font size="5">
+<img border="0" src="../images/catholic_101.png" width="125" height="317" align="left">CATHOLIC 101</font></p>
+<p><b>Wednesday, 1/30<br>
+INVESTING FOR THE COMMON GOOD</b><br>
+7:00pm, Holy Names Room<br>
+SISTER JUDY BYRON, OP, shares the
+story of her extraordinary ministry
+doing shareholder advocacy work with
+corporations.</p>
+<p><b>Wednesday, 2/27 at 7:00pm<br>
+ECOLOGICAL SPIRITUALITY</b><br>
+7:00pm, Holy Names Room<br>
+SISTER ALEXANDRA KOVATS, CSJP,
+draws upon the timeless wisdom of
+nature, the insights of scientists,
+native people, scripture, theologians
+and mystics, emphasizing the Christian
+responsibility to listen to and live in
+harmony with Earth and to be co-creators
+with God in shaping the
+future.</p>
+<p align="right">Information, 
+<a href="mailto:mlaughlin@stjames-cathedral.org?subject=Catholic 101">Maria Laughlin</a></p>
+</td></tr></table>
 
-<p><b>BAPTISM OF INFANTS & YOUNG CHILDREN</b> (under the
-age of 7) is celebrated monthly at one of the weekend
-Masses. To prepare for this most important sacrament,
-parents and godparents participate in a series of classes
-to update their understanding of baptism, to reflect on
-their responsibility to guide their children in the
-practice of the faith, and to learn about the many ways
-our parish supports families. Please allow at least two
-months for preparation. <i>Information</i>,
-<a href="mailto:jcastro@stjames-cathedral.org?subject=Baptism of infants and young children">Julianna Castro</a>, 206-619-0816.</p>
-<p><b>BABYSITTING</b> for children up to 4-years of age is
-available every Sunday during the 10am and Noon
-Masses in the Mother Cabrini Room located on the
-first floor of the Pastoral Outreach Center. Babysitting
-is also offered during baptism preparation classes and
-special events. You are welcome to visit our
-babysitting room to get to know our paid staff and to
-help your children get comfortable. <i>Information</i>,
-<a href="mailto:slee@stjames-cathedral.org?subject=Babysitting">Suzanne Lee</a>, 206-654-4640.</p>
-
-
-<p><b>ARE YOU A REGISTERED PARISHIONER AT ST.
-JAMES?</b> Many who attend St. James regularly and consider the Cathedral their 
-parish have never officially registered. We strongly encourage you to register. 
-Registered parishioners receive important mailings from the Cathedral (including 
-offering envelopes!).
-<a href="https://www.stjames-cathedral.org/businesscenter/registration.aspx">R</a><a target="_bulletin" href="https://www.stjames-cathedral.org/businesscenter/registration.aspx">egister online</a>.</p>
-<p><b>MINISTRY OF PRESENCE IN THE CATHEDRAL</b>. Each
-weekday in the Cathedral, a volunteer sits at a desk in
-the northeast corner of the Cathedral near the Mary
-Shrine, available to answer questions, accept prayer
-requests, and greet visitors who stop in between
-1:00pm-4:00pm. It’s a quiet time to pray, read, and be
-present to those who come to the Cathedral, often
-people in need. <b>We are currently looking for a
-volunteer who might cover one Tuesday afternoon
-each month, beginning in November</b>. If you’d enjoy
-some quiet time in the Cathedral, we’d love to have
-you be a part of this ministry. <i>Information</i>,
-<a href="mailto:mlaughlin@stjames-cathedral.org?subject=Ministry of Presence in the Cathedral">
-Maria Laughlin</a>, 206-382-4284.</p>
-<p><b>YOUNG ADULTS: PUMPKIN CARVING CONTEST!</b> On
-Sunday, October 28, from 6:30-8:30pm, we will be
-joining the Youth Ministry as we carve pumpkins in
-Cathedral Hall. This is a family friendly event. Feel
-free to bring your own pumpkins and carving supplies,
-though we will provide pumpkins and supplies at the
-parish as well. We are also collecting coats for our
-clothing drive. <i>Information or to RSVP</i>, 
-<a href="mailto:cleighton@stjames-cathedral.org?subject=Young Adults">Curtis</a>, 206-264-2082.</p>
+<p></p>
 
 
 <table cellpadding="8" border="2" width="100%">
@@ -202,26 +197,56 @@ clothing drive. <i>Information or to RSVP</i>,
 		<p align="center">
 		<img border="0" src="../images/youth-ministry.png" width="406" height="61"></p>
 
-<p><b>YOUTH GROUP TONIGHT</b>. Come join other teens in
-grades 8-12 for an evening of community, faith and
-fun activities to help you integrate faith into your
-daily life. We meet from 6:30 to 8:30 pm in the
-Pastoral Outreach Center. Hope to see you there!</p>
-<p><b>PUMPKIN CARVING CONTEST</b>. We’ll be joined by
-Cathedral Young Adults on Sunday, October 28
-for our annual pumpkin carving contest.</p>
+<p dir="ltr"><b>WORLD YOUTH DAY IN SEATTLE</b>. Join high school
+teens around the Archdiocese for this weekend of
+live music, engaging speakers, and lively breakout
+sessions at this year’s World Youth Day in Seattle
+January 26 and 27. The weekend coincides with
+Pope Francis’ WYD visit to Panama. Registration
+can be done online at <a target="_bulletin" href="https://conta.cc/2SOwZrK">https://conta.cc/2SOwZrK</a>.
+<i>Information</i>,
+<a href="mailto:cleighton@stjames-cathedral.org?subject=World Youth Day in Seattle">
+Curtis Leighton</a>.</p>
+<p dir="ltr"><b>YOUTH NIGHT TONIGHT</b>. Newcomers and regulars
+in grades 8-12 are invited to join us for Youth
+Night from 6:30-8:30 pm in the Pastoral Outreach
+Center. This is a fun, lively way to learn about
+ways to put your faith in practice, talk about what
+it’s like to be a teen and grow as a community of
+young people. We meet most Sunday evenings.
+Note: There will be no Youth Night next weekend,
+January 27.</p>
 		<p align="center"><i>Information</i>,
 		<a href="mailto:cleighton@stjames-cathedral.org?subject=Youth Ministry">
 		Curtis Leighton</a>, 206-264-2082</p>
 </td></tr></table>
 
-<p><b>PARISH REMEMBRANCE</b>: <i>Throughout the year, because we
+<p></p>
+
+
+<table cellpadding="8" border="2" width="100%">
+	<tr>
+		<td style="font-family: Arial">
+		<p align="center"><font face="Monotype Corsiva" size="6">Sacred Steps<br>
+		</font><span style="font-variant: small-caps; font-style: italic">
+		<font face="Times New Roman" size="4">S</font><font face="Times New Roman">acramental</font><font face="Times New Roman" size="4"> M</font><font face="Times New Roman">oments 
+		at</font><font face="Times New Roman" size="4"> S</font><font face="Times New Roman">t</font><font face="Times New Roman" size="4">. J</font><font face="Times New Roman">ames</font></span></p>
+
+<p><b>CONGRATULATIONS AND GOD’S
+BLESSINGS</b> to the following children,
+baptized in the Cathedral last Sunday,
+January 13, <i>Keanu Alfredo Duenas</i>, <i>Lachlan
+Shawn-William McCrillis</i>, <i>Michael Pietromonaco
+Soelter</i>, and <i>Emilia Nhi Than</i>.</p>
+</td></tr></table>
+
+	<p><b>PARISH REMEMBRANCE</b>: <i>Throughout the year, because we
 are the Cathedral Church, we remember in prayer at Mass
 and Vespers each of the parishes and missions of the
 Archdiocese of Seattle on a Sunday near their feast day</i>. This
-week we pray for the parishes of St. Luke in Shoreline, St.
-Jude in Redmond, and Our Lady of the Olympics Mission in
-Quinault.</p>
+week we pray for the parishes of St. Paul in Seattle and on the
+Swinomish Reservation; and the Mission Church of St. Paul
+in Westport.</p>
 
 <!-- End of bulletin -->
 
