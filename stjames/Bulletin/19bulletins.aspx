@@ -51,6 +51,58 @@ parishioner community. </p>
 			<td><a href="19Bulletins/190113.aspx">January 13, 2019</a> - 
 			<a href="19Bulletins/190113.pdf" target="_bulletin">PDF</a> - Baptism of the Lord</td>
 		</tr>
+		<tr>
+			<td><a href="19Bulletins/190120.aspx">January 20, 2019</a> - 
+			<a href="19Bulletins/190120.pdf" target="_bulletin">PDF</a></td>
+		</tr>
+		<tr>
+			<td><a href="19Bulletins/190127.aspx">January 27, 2019</a> - 
+			<a href="19Bulletins/190127.pdf" target="_bulletin">PDF</a></td>
+		</tr>
+		<tr>
+			<td><a href="19Bulletins/190203.aspx">February 3, 2019</a> - 
+			<a href="19Bulletins/190203.pdf" target="_bulletin">PDF</a></td>
+		</tr>
+		<tr>
+			<td><a href="19Bulletins/190210.aspx">February 10, 2019</a> - 
+			<a href="19Bulletins/190210.pdf" target="_bulletin">PDF</a></td>
+		</tr>
+		<tr>
+			<td><a href="19Bulletins/190217.aspx">February 17, 2019</a> - 
+			<a href="19Bulletins/190217.pdf" target="_bulletin">PDF</a></td>
+		</tr>
+		<tr>
+			<td><a href="19Bulletins/190224.aspx">February 24, 2019</a> - 
+			<a href="19Bulletins/190224.pdf" target="_bulletin">PDF</a></td>
+		</tr>
+		<tr>
+			<td><a href="19Bulletins/190303.aspx">March 3, 2019</a> - 
+			<a href="19Bulletins/190303.pdf" target="_bulletin">PDF</a></td>
+		</tr>
+		<tr>
+			<td><a href="19Bulletins/190310.aspx">March 10, 2019</a> - 
+			<a href="19Bulletins/190310.pdf" target="_bulletin">PDF</a> - Lent I</td>
+		</tr>
+		<tr>
+			<td><a href="19Bulletins/190317.aspx">March 17, 2019</a> - 
+			<a href="19Bulletins/190317.pdf" target="_bulletin">PDF</a> - Lent II</td>
+		</tr>
+		<tr>
+			<td><a href="19Bulletins/190324.aspx">March 24, 2019</a> - 
+			<a href="19Bulletins/190324.pdf" target="_bulletin">PDF</a> - Lent III</td>
+		</tr>
+		<tr>
+			<td><a href="19Bulletins/190331.aspx">March 31, 2019</a> - 
+			<a href="19Bulletins/190331.pdf" target="_bulletin">PDF</a> - Lent IV</td>
+		</tr>
+		<tr>
+			<td><a href="19Bulletins/190407.aspx">April 7, 2019</a> - 
+			<a href="19Bulletins/190407.pdf" target="_bulletin">PDF</a> - Lent V</td>
+		</tr>
+		<tr>
+			<td><a href="19Bulletins/190414.aspx">April 14, 2019</a> - 
+			<a href="19Bulletins/190414.pdf" target="_bulletin">PDF</a> - Palm Sunday</td>
+		</tr>
 	</table>
 <p>Back to <a href="bulletins.aspx">current archive</a>.</p>
 <p>&nbsp;</p>
