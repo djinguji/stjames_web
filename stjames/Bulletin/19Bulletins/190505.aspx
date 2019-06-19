@@ -31,7 +31,7 @@ archive</a>.</p>
 
 <table width=100%><tr><td width=50% style="font-family: Arial"></td>
 	<td width=50% style="font-family: Arial"><br>
-	February 21, 2019</td></tr></table>
+	May 5, 2019</td></tr></table>
 <p>Dear Friends,</p>
 <p>The announcement this past week that Pope Francis has appointed Archbishop
 Paul Etienne (pronounced &#256;-chen), Archbishop of Anchorage, as coadjutor archbishop for

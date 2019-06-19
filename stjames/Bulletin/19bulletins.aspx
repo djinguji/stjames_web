@@ -107,6 +107,30 @@ parishioner community. </p>
 			<td><a href="19Bulletins/190428.aspx">April 28, 2019</a> - 
 			<a href="19Bulletins/190428.pdf" target="_bulletin">PDF</a> - Easter II</td>
 		</tr>
+		<tr>
+			<td><a href="19Bulletins/190505.aspx">May 5, 2019</a> - 
+			<a href="19Bulletins/190505.pdf" target="_bulletin">PDF</a> - Easter III</td>
+		</tr>
+		<tr>
+			<td><a href="19Bulletins/190512.aspx">May 12, 2019</a> - 
+			<a href="19Bulletins/190512.pdf" target="_bulletin">PDF</a> - Easter IV</td>
+		</tr>
+		<tr>
+			<td><a href="19Bulletins/190519.aspx">May 19, 2019</a> - 
+			<a href="19Bulletins/190519.pdf" target="_bulletin">PDF</a> - Easter V</td>
+		</tr>
+		<tr>
+			<td><a href="19Bulletins/190526.aspx">May 26, 2019</a> - 
+			<a href="19Bulletins/190526.pdf" target="_bulletin">PDF</a> - Easter VI</td>
+		</tr>
+		<tr>
+			<td><a href="19Bulletins/190602.aspx">June 2, 2019</a> - 
+			<a href="19Bulletins/190602.pdf" target="_bulletin">PDF</a> - Ascension</td>
+		</tr>
+		<tr>
+			<td><a href="19Bulletins/190609.aspx">June 9, 2019</a> - 
+			<a href="19Bulletins/190609.pdf" target="_bulletin">PDF</a> - Pentecost</td>
+		</tr>
 	</table>
 <p>Back to <a href="bulletins.aspx">current archive</a>.</p>
 <p>&nbsp;</p>

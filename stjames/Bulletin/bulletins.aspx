@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" masterpagefile="~/StJames.master" title="Parish Bulletin Archive" %>
+<%@ Page Language="C#" masterpagefile="~/StJames.master" title="Parish Bulletin Archive" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
 
 <!-- HEADER GOES HERE -- edit the GetHeader below with your title also, edit the title above with your title -->
@@ -27,6 +27,30 @@ parishioner community. Here are links to the online bulletin.</p>
 <p>Here are links to recent bulletins:</p>
 	<table border="0" cellpadding="5" align="center" id="table2">
 		<tr>
+			<td><a href="19Bulletins/190609.aspx">June 9, 2019</a> - 
+			<a href="19Bulletins/190609.pdf" target="_bulletin">PDF</a> - Pentecost</td>
+		</tr>
+		<tr>
+			<td><a href="19Bulletins/190602.aspx">June 2, 2019</a> - 
+			<a href="19Bulletins/190602.pdf" target="_bulletin">PDF</a> - Ascension</td>
+		</tr>
+		<tr>
+			<td><a href="19Bulletins/190526.aspx">May 26, 2019</a> - 
+			<a href="19Bulletins/190526.pdf" target="_bulletin">PDF</a> - Easter VI</td>
+		</tr>
+		<tr>
+			<td><a href="19Bulletins/190519.aspx">May 19, 2019</a> - 
+			<a href="19Bulletins/190519.pdf" target="_bulletin">PDF</a> - Easter V</td>
+		</tr>
+		<tr>
+			<td><a href="19Bulletins/190512.aspx">May 12, 2019</a> - 
+			<a href="19Bulletins/190512.pdf" target="_bulletin">PDF</a> - Easter IV</td>
+		</tr>
+		<tr>
+			<td><a href="19Bulletins/190505.aspx">May 5, 2019</a> - 
+			<a href="19Bulletins/190505.pdf" target="_bulletin">PDF</a> - Easter III</td>
+		</tr>
+		<tr>
 			<td><a href="19Bulletins/190428.aspx">April 28, 2019</a> - 
 			<a href="19Bulletins/190428.pdf" target="_bulletin">PDF</a> - Easter II</td>
 		</tr>
@@ -37,42 +61,6 @@ parishioner community. Here are links to the online bulletin.</p>
 		<tr>
 			<td><a href="19Bulletins/190407.aspx">April 7, 2019</a> - 
 			<a href="19Bulletins/190407.pdf" target="_bulletin">PDF</a> - Lent V</td>
-		</tr>
-		<tr>
-			<td><a href="19Bulletins/190331.aspx">March 31, 2019</a> - 
-			<a href="19Bulletins/190331.pdf" target="_bulletin">PDF</a> - Lent IV</td>
-		</tr>
-		<tr>
-			<td><a href="19Bulletins/190324.aspx">March 24, 2019</a> - 
-			<a href="19Bulletins/190324.pdf" target="_bulletin">PDF</a> - Lent III</td>
-		</tr>
-		<tr>
-			<td><a href="19Bulletins/190317.aspx">March 17, 2019</a> - 
-			<a href="19Bulletins/190317.pdf" target="_bulletin">PDF</a> - Lent II</td>
-		</tr>
-		<tr>
-			<td><a href="19Bulletins/190310.aspx">March 10, 2019</a> - 
-			<a href="19Bulletins/190310.pdf" target="_bulletin">PDF</a> - Lent I</td>
-		</tr>
-		<tr>
-			<td><a href="19Bulletins/190303.aspx">March 3, 2019</a> - 
-			<a href="19Bulletins/190303.pdf" target="_bulletin">PDF</a></td>
-		</tr>
-		<tr>
-			<td><a href="19Bulletins/190224.aspx">February 24, 2019</a> - 
-			<a href="19Bulletins/190224.pdf" target="_bulletin">PDF</a></td>
-		</tr>
-		<tr>
-			<td><a href="19Bulletins/190217.aspx">February 17, 2019</a> - 
-			<a href="19Bulletins/190217.pdf" target="_bulletin">PDF</a></td>
-		</tr>
-		<tr>
-			<td><a href="19Bulletins/190210.aspx">February 10, 2019</a> - 
-			<a href="19Bulletins/190210.pdf" target="_bulletin">PDF</a></td>
-		</tr>
-		<tr>
-			<td><a href="19Bulletins/190203.aspx">February 3, 2019</a> - 
-			<a href="19Bulletins/190203.pdf" target="_bulletin">PDF</a></td>
 		</tr>
 	</table>
 <p>Yearly archives:</p>
