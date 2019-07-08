@@ -27,6 +27,18 @@ parishioner community. Here are links to the online bulletin.</p>
 <p>Here are links to recent bulletins:</p>
 	<table border="0" cellpadding="5" align="center" id="table2">
 		<tr>
+			<td><a href="19Bulletins/190630.aspx">June 30, 2019</a> - 
+			<a href="19Bulletins/190630.pdf" target="_bulletin">PDF</a></td>
+		</tr>
+		<tr>
+			<td><a href="19Bulletins/190623.aspx">June 23, 2019</a> - 
+			<a href="19Bulletins/190623.pdf" target="_bulletin">PDF</a> - Corpus Christi</td>
+		</tr>
+		<tr>
+			<td><a href="19Bulletins/190616.aspx">June 16, 2019</a> - 
+			<a href="19Bulletins/190616.pdf" target="_bulletin">PDF</a> - Trinity</td>
+		</tr>
+		<tr>
 			<td><a href="19Bulletins/190609.aspx">June 9, 2019</a> - 
 			<a href="19Bulletins/190609.pdf" target="_bulletin">PDF</a> - Pentecost</td>
 		</tr>

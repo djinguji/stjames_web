@@ -131,6 +131,18 @@ parishioner community. </p>
 			<td><a href="19Bulletins/190609.aspx">June 9, 2019</a> - 
 			<a href="19Bulletins/190609.pdf" target="_bulletin">PDF</a> - Pentecost</td>
 		</tr>
+		<tr>
+			<td><a href="19Bulletins/190616.aspx">June 16, 2019</a> - 
+			<a href="19Bulletins/190616.pdf" target="_bulletin">PDF</a> - Trinity</td>
+		</tr>
+		<tr>
+			<td><a href="19Bulletins/190623.aspx">June 23, 2019</a> - 
+			<a href="19Bulletins/190623.pdf" target="_bulletin">PDF</a> - Corpus Christi</td>
+		</tr>
+		<tr>
+			<td><a href="19Bulletins/190630.aspx">June 30, 2019</a> - 
+			<a href="19Bulletins/190630.pdf" target="_bulletin">PDF</a></td>
+		</tr>
 	</table>
 <p>Back to <a href="bulletins.aspx">current archive</a>.</p>
 <p>&nbsp;</p>
