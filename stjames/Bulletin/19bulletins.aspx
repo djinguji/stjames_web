@@ -143,6 +143,26 @@ parishioner community. </p>
 			<td><a href="19Bulletins/190630.aspx">June 30, 2019</a> - 
 			<a href="19Bulletins/190630.pdf" target="_bulletin">PDF</a></td>
 		</tr>
+		<tr>
+			<td><a href="19Bulletins/190707.aspx">July 7, 2019</a> - 
+			<a href="19Bulletins/190707.pdf" target="_bulletin">PDF</a></td>
+		</tr>
+		<tr>
+			<td><a href="19Bulletins/190714.aspx">July 14, 2019</a> - 
+			<a href="19Bulletins/190714.pdf" target="_bulletin">PDF</a></td>
+		</tr>
+		<tr>
+			<td><a href="19Bulletins/190721.aspx">July 21, 2019</a> - 
+			<a href="19Bulletins/190721.pdf" target="_bulletin">PDF</a></td>
+		</tr>
+		<tr>
+			<td><a href="19Bulletins/190728.aspx">July 28, 2019</a> - 
+			<a href="19Bulletins/190728.pdf" target="_bulletin">PDF</a></td>
+		</tr>
+		<tr>
+			<td><a href="19Bulletins/190804.aspx">August 4, 2019</a> - 
+			<a href="19Bulletins/190804.pdf" target="_bulletin">PDF</a></td>
+		</tr>
 	</table>
 <p>Back to <a href="bulletins.aspx">current archive</a>.</p>
 <p>&nbsp;</p>

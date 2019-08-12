@@ -27,6 +27,26 @@ parishioner community. Here are links to the online bulletin.</p>
 <p>Here are links to recent bulletins:</p>
 	<table border="0" cellpadding="5" align="center" id="table2">
 		<tr>
+			<td><a href="19Bulletins/190804.aspx">August 4, 2019</a> - 
+			<a href="19Bulletins/190804.pdf" target="_bulletin">PDF</a></td>
+		</tr>
+		<tr>
+			<td><a href="19Bulletins/190728.aspx">July 28, 2019</a> - 
+			<a href="19Bulletins/190728.pdf" target="_bulletin">PDF</a></td>
+		</tr>
+		<tr>
+			<td><a href="19Bulletins/190721.aspx">July 21, 2019</a> - 
+			<a href="19Bulletins/190721.pdf" target="_bulletin">PDF</a></td>
+		</tr>
+		<tr>
+			<td><a href="19Bulletins/190714.aspx">July 14, 2019</a> - 
+			<a href="19Bulletins/190714.pdf" target="_bulletin">PDF</a></td>
+		</tr>
+		<tr>
+			<td><a href="19Bulletins/190707.aspx">July 7, 2019</a> - 
+			<a href="19Bulletins/190707.pdf" target="_bulletin">PDF</a></td>
+		</tr>
+		<tr>
 			<td><a href="19Bulletins/190630.aspx">June 30, 2019</a> - 
 			<a href="19Bulletins/190630.pdf" target="_bulletin">PDF</a></td>
 		</tr>
@@ -45,34 +65,6 @@ parishioner community. Here are links to the online bulletin.</p>
 		<tr>
 			<td><a href="19Bulletins/190602.aspx">June 2, 2019</a> - 
 			<a href="19Bulletins/190602.pdf" target="_bulletin">PDF</a> - Ascension</td>
-		</tr>
-		<tr>
-			<td><a href="19Bulletins/190526.aspx">May 26, 2019</a> - 
-			<a href="19Bulletins/190526.pdf" target="_bulletin">PDF</a> - Easter VI</td>
-		</tr>
-		<tr>
-			<td><a href="19Bulletins/190519.aspx">May 19, 2019</a> - 
-			<a href="19Bulletins/190519.pdf" target="_bulletin">PDF</a> - Easter V</td>
-		</tr>
-		<tr>
-			<td><a href="19Bulletins/190512.aspx">May 12, 2019</a> - 
-			<a href="19Bulletins/190512.pdf" target="_bulletin">PDF</a> - Easter IV</td>
-		</tr>
-		<tr>
-			<td><a href="19Bulletins/190505.aspx">May 5, 2019</a> - 
-			<a href="19Bulletins/190505.pdf" target="_bulletin">PDF</a> - Easter III</td>
-		</tr>
-		<tr>
-			<td><a href="19Bulletins/190428.aspx">April 28, 2019</a> - 
-			<a href="19Bulletins/190428.pdf" target="_bulletin">PDF</a> - Easter II</td>
-		</tr>
-		<tr>
-			<td><a href="19Bulletins/190414.aspx">April 14, 2019</a> - 
-			<a href="19Bulletins/190414.pdf" target="_bulletin">PDF</a> - Palm Sunday</td>
-		</tr>
-		<tr>
-			<td><a href="19Bulletins/190407.aspx">April 7, 2019</a> - 
-			<a href="19Bulletins/190407.pdf" target="_bulletin">PDF</a> - Lent V</td>
 		</tr>
 	</table>
 <p>Yearly archives:</p>
