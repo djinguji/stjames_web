@@ -163,6 +163,66 @@ parishioner community. </p>
 			<td><a href="19Bulletins/190804.aspx">August 4, 2019</a> - 
 			<a href="19Bulletins/190804.pdf" target="_bulletin">PDF</a></td>
 		</tr>
+		<tr>
+			<td><a href="19Bulletins/190811.aspx">August 11, 2019</a> - 
+			<a href="19Bulletins/190811.pdf" target="_bulletin">PDF</a></td>
+		</tr>
+		<tr>
+			<td><a href="19Bulletins/190818.aspx">August 18, 2019</a> - 
+			<a href="19Bulletins/190818.pdf" target="_bulletin">PDF</a></td>
+		</tr>
+		<tr>
+			<td><a href="19Bulletins/190825.aspx">August 25, 2019</a> - 
+			<a href="19Bulletins/190825.pdf" target="_bulletin">PDF</a></td>
+		</tr>
+		<tr>
+			<td><a href="19Bulletins/190901.aspx">September 1, 2019</a> - 
+			<a href="19Bulletins/190901.pdf" target="_bulletin">PDF</a></td>
+		</tr>
+		<tr>
+			<td><a href="19Bulletins/190908.aspx">September 8, 2019</a> - 
+			<a href="19Bulletins/190908.pdf" target="_bulletin">PDF</a></td>
+		</tr>
+		<tr>
+			<td><a href="19Bulletins/190915.aspx">September 15, 2019</a> - 
+			<a href="19Bulletins/190915.pdf" target="_bulletin">PDF</a></td>
+		</tr>
+		<tr>
+			<td><a href="19Bulletins/190922.aspx">September 22, 2019</a> - 
+			<a href="19Bulletins/190922.pdf" target="_bulletin">PDF</a></td>
+		</tr>
+		<tr>
+			<td><a href="19Bulletins/190929.aspx">September 29, 2019</a> - 
+			<a href="19Bulletins/190929.pdf" target="_bulletin">PDF</a></td>
+		</tr>
+		<tr>
+			<td><a href="19Bulletins/191006.aspx">October 6, 2019</a> - 
+			<a href="19Bulletins/191006.pdf" target="_bulletin">PDF</a></td>
+		</tr>
+		<tr>
+			<td><a href="19Bulletins/191013.aspx">October 13, 2019</a> - 
+			<a href="19Bulletins/191013.pdf" target="_bulletin">PDF</a></td>
+		</tr>
+		<tr>
+			<td><a href="19Bulletins/191020.aspx">October 20, 2019</a> - 
+			<a href="19Bulletins/191020.pdf" target="_bulletin">PDF</a></td>
+		</tr>
+		<tr>
+			<td><a href="19Bulletins/191027.aspx">October 27, 2019</a> - 
+			<a href="19Bulletins/191027.pdf" target="_bulletin">PDF</a></td>
+		</tr>
+		<tr>
+			<td><a href="19Bulletins/191103.aspx">November 3, 2019</a> - 
+			<a href="19Bulletins/191103.pdf" target="_bulletin">PDF</a></td>
+		</tr>
+		<tr>
+			<td><a href="19Bulletins/191110.aspx">November 10, 2019</a> - 
+			<a href="19Bulletins/191110.pdf" target="_bulletin">PDF</a></td>
+		</tr>
+		<tr>
+			<td><a href="19Bulletins/191117.aspx">November 17, 2019</a> - 
+			<a href="19Bulletins/191117.pdf" target="_bulletin">PDF</a></td>
+		</tr>
 	</table>
 <p>Back to <a href="bulletins.aspx">current archive</a>.</p>
 <p>&nbsp;</p>

@@ -5,7 +5,7 @@
 <!-- DO NOT CHANGE THE TABLE STYLE IN THIS HEADER -->
 <table  style="margin-top:10px;" cellspacing="1" border="0" width="100%" >
   	<script language="javascript" type="text/javascript">
-		GetHeader("This Week's Bulletin: 1 September 2019", ""); 
+		GetHeader("This Week's Bulletin: 24 November 2019", "Christ, the King"); 
 	</script>
 </table>
 <!-- END HEADER -->
@@ -28,41 +28,6 @@ archive</a>.</p>
 
 <!-- Beginning of bulletin -->
 
-<table width=100%><tr><td width=50% style="font-family: Arial"></td>
-	<td width=50% style="font-family: Arial"><br>
-	September 1, 2019</td></tr></table>
-<p>Dear Friends,</p>
-<p>As Archbishop Sartain prepares to take his leave of us, I want to take this 
-opportunity to express my gratitude to him for his years of faithful service as 
-Archbishop of Seattle.</p>
-<p>From the day we first met back in 2010, it was clear to me that God had sent 
-a humble, holy shepherd to lead this archdiocese. Everything that happened over 
-the next nine years has only served to reinforce that initial impression. Not 
-only did he shepherd this church with personal holiness and deep humility, he 
-also brought to this ministry a warmth, a wisdom, and a quiet hoy that was 
-evident whenever he was with us.</p>
-<p>And he loved this Cathedral! Every time he spoke to me about it, he referred 
-to it as “our Cathedral.” He loved leading us in prayer, preaching the Word, 
-celebrating the sacraments, meeting parishioners, and taking time to visit with 
-people living on the margins.</p>
-<p>I was privileged to spend a fair amount of time with Archbishop Sartain over 
-his years here, and in all my dealings with him I found him to be unfailingly 
-kind, wonderfully affirming, a good listener, and every inch a Christian 
-gentleman. To say that I will miss him is an understatement.</p>
-<p>I know that all of you join me in praying God's richest blessings on 
-Archbishop Sartain. And please pray in a special way for his strength and good 
-health. Although he will be returning to the South were he will be close to his 
-family, he will remain a priest of this archdiocese and, just as importantly, he 
-will continue to have an important place in our hearts and in our prayers.</p>
-<p><i>Ad multos annos</i>, Archbishop Sartain!</p>
-<table width=100%><tr><td width=50% style="font-family: Arial"></td>
-	<td width=50% style="font-family: Arial">
-<img src="../images/FrRyan.gif" width="179" height="53"><br>
-	Father Michael G. Ryan<br>
-	<i>Pastor of St. James Cathedral</i></td></tr></table>
-
-<hr/>
-
 <p><b>WELCOME, VISITORS!</b> <i>If you are a visitor to the
 Cathedral, we want you to know how
 welcome you are – whether you have come
@@ -82,186 +47,154 @@ is present on the Cathedral campus. </td></tr></table><p></p>
 <table cellpadding="0" border="0" width="100%"><tr>
 	<td style="font-family: Arial">
 <b>
-<img border="0" src="19Bulletins/2019-09-01.png" height="200" align="right">ON THE COVER</b> 
+<img border="0" src="19Bulletins/2019-11-24.png" height="200" align="right">ON THE COVER</b> 
 
-<i> </i>“Take my yoke upon you, says the Lord,
-and learn from me, for I am meek and humble of
-heart.” (Verse before the Gospel.) The cover image is
-Archbishop Sartain’s crosier. </td></tr></table>
-<p><b>FLOWERS AT THE ALTAR</b> are offered in memory of John Carmack on the first anniversary of his death, from John
-Gooding. Flowers are also given in thanksgiving for
-Archbishop Sartain's nine years in our midst, from the
-Cathedral Parish.</p>
-<p><b>MONDAY IS LABOR DAY</b>. On Monday, September 2,
-Labor Day, the Parish Office will be closed. There will
-be one Mass in the Cathedral at 9:00am. The Cathedral
-will remain open for prayer until 4:00pm.</p>
-<p><b>FIND OUT MORE ABOUT BECOMING CATHOLIC</b>. Are
-you, a family member, or a friend interested in learning
-more about the Catholic Church? Come and see! You’re
-invited to a no-strings-attached gathering to ask questions
-and fine out more on Wednesday, September 4, at
-7:00pm in the Fireside Room (lower level of the Pastoral
-Outreach Center at 907 Columbia Street). Please use the
-courtyard entrance to access the Fireside Room. All are
-welcome, no RSVP needed.</p>
-<p><b>HUNTHAUSEN GOLF TOURNAMENT THANK YOU</b>. A huge
-thank you to all who participated in the Hunthausen Golf
-Tournament on Monday, August 26, whether you were a
-sponsor, player, dinner guest, or auction donor. Your
-participation made a big difference and helped us raise
-over $150,000 to support our Cathedral outreach
-ministries, especially the Cathedral Kitchen. Special
-thanks to Pagliacci Pizza, Macrina Bakery, the
-Archdiocese of Seattle, Proliance Surgeons, Jim Sinegal,
-and an anonymous donor for your incredible support.
-Thanks also to our hosts, Glendale Country Club!</p>
+<i> </i>During the month of November we
+pray for all our beloved dead, and in a special way
+those who remembered the Cathedral in their will over
+these past thirty years. </td></tr></table>
+<p>
+
+
+
+
+</p>
+<p><b>FLOWERS AT THE ALTAR</b> are offered in loving memory
+of Frank Kenmetz from his son John. Flowers are also from Efren and Fely Belleza 
+in celebration of their 50th wedding anniversary. Flowers in the north transcept 
+shrine of the Blessed Virgin Mary on November 10 were offered in loving memory 
+of Teresita Guerrero from her family.</p>
+<p><b>CATHEDRAL ESPRESSO</b>. This month, all espresso sales
+benefit the Cathedral Kitchen. The Espresso Cart is
+open at coffee hour after the 10:00am Mass.</p>
+<p><b>PARENTAL NOTIFICATION INITIATIVE</b>. Washington is
+one of only six states in the country that do not require
+any parental involvement before a minor can have an
+abortion. To change this policy, the bishops of
+Washington State support an initiative to the
+legislature. I-1004 would require physicians to notify a
+parent or guardian before performing an abortion on a
+minor. The initiative does not require parental
+permission, only parental notification. I-1004 contains
+reasonable exceptions to protect minors in cases where
+notification may threaten the minor’s safety or where a
+valid medical exemption is present. Failure to comply
+with the law would carry criminal penalties and
+provide grounds for civil claims. January 4, 2020 is the
+deadline for submission of 320,000 signatures of
+registered voters to the office of the Secretary of State.
+Petitions will be available to sign through December 1
+at the Sunday morning coffee hours and in the west
+vestibule of the cathedral after 5:30 Masses. More
+information about this initiative can be found at
+<a target="_bulletin" href="http://www.parentsandstudentsprotectingminors.org">www.parentsandstudentsprotectingminors.org</a>.</p>
 
 
 <table cellpadding="8" border="2" width="100%">
 	<tr>
 		<td style="font-family: Arial">
-		<p align="center"><font face="Monotype Corsiva" size="6">Sacred Steps<br>
-		</font><span style="font-variant: small-caps; font-style: italic">
-		<font face="Times New Roman" size="4">S</font><font face="Times New Roman">acramental</font><font face="Times New Roman" size="4"> 
-		M</font><font face="Times New Roman">oments at</font><font face="Times New Roman" size="4"> 
-		S</font><font face="Times New Roman">t</font><font face="Times New Roman" size="4">. 
-		J</font><font face="Times New Roman">ames</font></span></p>
-
-<p><b>REST IN PEACE</b>. Please pray for the repose of
-the souls of <i>Mai Pham</i> and <i>Larry Beetham</i>.</p>
+<p align="center">
+<img border="0" src="../images/christmas_party_2019.png" width="180" height="243" align="right"><font size="4">Family Christmas Party</font><br>
+<b><font size="5" color="#008000">To Bethlehem and Beyond</font></b></p>
+<p><b><font size="5" color="#FF0000">Activities, Crafts, Caroling, Lunch & Piñatas</font></b></p>
+<p><font size="4">All families with at
+least one child and at
+least one adult
+welcome!</font></p>
+<p><b><font size="5">Saturday, December 21, 9AM to 1PM in Cathedral Hall</font></b></p>
+<p align="center">RSVP required:
+<a href="mailto:tvandeven@stjames-cathedral.org?subject=Family Christmas Party">Theresa Van de Ven</a> (206) 219-5822</p>
 </td></tr></table>
-
-	<p><b>FIRST COMMUNION PREPARATION</b> customarily begins
-when a child is five years old and/or in the 1st grade.
-St James also offers First Communion preparation for
-older children as well as for children with special
-needs. Preparation begins the 2nd Sunday of
-September. A brief family meeting is required before
-beginning preparation. <i>Information</i>, 
-	<a href="mailto:bbellamy@stjames-cathedral.org?subject=First Communion Preparation">Brenda Bellamy</a>,
-Director of Children’s Faith Formation, 206-274-3108.</p>
-<p><b>REGISTER FOR YOUTH CONFIRMATION NOW</b>. Preparation classes for the 
-Sacrament of Confirmation will begin Sunday, September 15 for high school age 
-candidates (grades 9-12). Keep an eye out for a mailing with more information on 
-youth confirmation or contact 
-<a href="mailto:cleighton@stjames-cathedral.org?subject=Youth Confirmation">
-Curtis Leighton</a>, Youth Minister. To download the registration form, visit 
-<a target="_bulletin" href="http://www.stjames-cathedral.org/kids">
-www.stjames-cathedral.org/kids</a> and click the link that says “CFF 
-Registration”; be sure to mark the box that says “My child is ready to prepare 
-for Confirmation.” (Please note that the adult Confirmation program begins in 
-February 2020.)</p>
-<p><b>SAFETALK TRAINING</b> Sunday, September 15, 1:15-5:15pm, Pastoral Outreach Center. This is a half-day
-alertness training that prepares anyone over the age of
-15 to become alert to people with thoughts of suicide.
-Most people don’t truly want to die, but are struggling
-with the pain in their lives. SafeTALK has been used
-in over 20 countries around the world, and is tailored
-for diverse audiences. SafeTALK-trained helpers are
-an important part of suicide-safer communities, using
-their knowledge and compassion to identify and avert
-suicide risks. $25 registration fee. SafeTALK will
-donate all proceeds to our Mental Health Ministry.
-Refreshments provided. <i>Information</i>, 
-<a href="mailto:ngranger@stjames-cathedral.org?subject=SafeTALK ">Nancy Granger</a>, 206-382-4269.</p>
-<p><b>ST VINCENT DE PAUL THANKS YOU</b>. We visited an elderly woman who used to 
-work in hospice care. Despite health problems and faltering memory, she 
-continues to serve others by helping her neighbors in need. She lives on food 
-stamps and federal disability payments but forgot to submit paperwork necessary 
-to continue to qualify for those benefits. For three months she received no food 
-stamps, and her disability payments stopped. We offered help with food and rent, 
-but she chose to put all our money toward rent because she was so afraid of 
-eviction. Your donations make this help possible–thank you! <i>Information</i>,
-<a href="mailto:bobclifford53@gmail.com?subject=St Vincent de Paul">Bob Clifford</a>, 
-206-718-4158.</p>
-<p><b>THE ESOTERICS CONCERT–KVANDAL & BÄCK: A
-DOUBLE CENTENNIAL</b>, Saturday, September 14 at
-8:00pm. The Esoterics celebrate the life and work of
-two Scandinavians born eight days apart in September,
-1919: the Norwegian composer Johan Kvandal, and
-the Swedish composer Sven-Erik Bäck. Featuring all
-twelve of Bäck’s Motets for the church year in
-Swedish, as well as all of Johan Kvandal’s sacred
-works for unaccompanied choir. <i>Information</i>,
-<a target="_bulletin" href="http://www.TheEsoterics.org">www.TheEsoterics.org</a>. Pay-what-you-can parishioner
-passes, <a href="mailto:musicoffice@stjames-cathedral.org?subject=Esoterics Concert - Kvandal & Bäck">
-musicoffice@stjames-cathedral.org</a>.</p>
-<p><b>ROSARY</b>. All are welcome to join with a group of
-parishioners who pray the rosary together in the
-Chapel, Monday through Saturday at 7:40am.</p>
-
-<table cellpadding="8" border="2" width="100%">
-	<tr>
-		<td style="font-family: Arial">
-		<p align="center"><font face="Monotype Corsiva" size="6">
-		Opportunities to Serve</font></p>
-		<p><b>CATHEDRAL CHOIR & WOMEN’S SCHOLA
-AUDITIONS</b>. Auditions are still being held for
-membership in the Cathedral Choir and the
-Women of St. James Schola – choirs return on
-September 15. Cathedral Choir singers must have
-a good comfort level of reading music, attend
-Thursday night rehearsals, and sing at the Sunday
-10:00am Mass and other liturgical events. The
-Women of St. James Schola come from many
-musical backgrounds and skill levels, and meet at
-4:00pm on Sundays to sing for 5:30pm Mass.
-Schola repertoire includes unison chant and 2-3
-part motets. <i>Information</i>, 206-382-4874 or
-		<a href="mailto:musicoffice@stjames-cathedral.org?subject=Cathedral Choir and Women's Schola auditions">musicoffice@stjames-cathedral.org</a>.</p>
-<p><b>OPENINGS IN THE CATHEDRAL BOOKSTORE</b>.
-We currently have several openings for
-volunteers in the Cathedral Bookstore, on
-Saturday evenings and Sundays after the 8:00am,
-Noon, and 5:30pm Masses. If you love books and
-religious items, and can handle basic computer
-tasks, this might be the ministry for you! Must be
-a registered parishioner; background check
-required. All training will be provided!
-<i>Information</i>,
-<a href="mailto:mlaughlin@stjames-cathedral.org?subject=Cathedral Bookstore Openings">
-Maria Laughlin</a>, 206-382-4284.</p>
-		<p><b>SHARE YOUR LOVE OF GOD AND THE CHURCH
-WITH THE CHILDREN OF ST JAMES</b>. Join the team of catechists in the Children’s 
-		Faith Formation program as a lead, assistant or substitute. Classes meet 
-		most Sundays, September through June from 11:00am to 11:45am. Training, 
-		support and materials provided. Required 2019-2020 kick-off meeting on 
-		Saturday, September 7. <i>Information</i>,
-<a href="mailto:bbellamy@stjames-cathedral.orgq?subject=Children's Faith Formation Catechists">
+<p><b>ADVENT GIVING TREE</b>. Consider offering a Christmas
+gift to a person in need through the St. James Advent
+Giving Tree. This year’s partners include the Skagit
+Valley Youth Migrant Project, PREPARES, and
+several immigration services in Seattle. <i>This year’s
+Advent Giving Tree will be in the Cathedral and at
+Coffee Hour beginning TODAY Sunday, November 24</i>.</p>
+<p><b>MASS OF THANKSGIVING DAY</b>. There will be one Mass on Thanksgiving Day, 
+November 28, at 9:30 am. At this Mass, you will be invited to come forward to 
+the altar at offertory time with your gift of non-perishable food items for 
+those who are struggling at this time. All donations will be distributed by St. 
+Mary's Food Bank. This is a wonderful Thanksgiving tradition at St. James 
+Cathedral and all are encouraged to attend.</p>
+<p><b>PARISH OFFICE CLOSURE</b>. The parish office will be closed on Thursday, 
+November 28 and Friday, November 29, in observance of the Thanksgiving holiday.</p>
+<p><b>SACRIFICIAL SUNDAY GIVING</b>. If you haven’t already
+done so, please remember to drop your commitment
+card for 2020 in the offering basket this weekend. Your
+pledge makes it possible for the Cathedral to plan its
+budget in the coming year. If you donate via Our
+Sunday Visitor, be sure to login and update your giving
+preferences there. Thank you so much for your ongoing
+support of the Cathedral parish. <i>Information</i>,
+<a href="mailto:mlaughlin@stjames-cathedral.org?subject=Sacrificial Sunday Giving">
+Maria Laughlin</a>.</p>
+<p><b>ASSISTED LISTENING DEVICES</b>. If you have trouble
+hearing the spoken word during Mass, the Cathedral
+offers assisted listening devices which provide crystal
+clear sound. Listening devices are always available to
+borrow—just ask an usher. In addition, if you are a
+regular who would like to purchase your own listening
+device to use whenever you come to Mass, please
+contact 
+<a href="mailto:claughlin@stjames-cathedral.org?subject=Assisted Listening Devices">Corinna Laughlin</a>, 206-264-2086.</p>
+<p><b>CATHEDRAL BLOOD DRIVE</b>. Monday, December 9, 12:30 pm - 6:30 pm (closed 
+2:30 - 3:30 pm). What better gift than the gift of life! Please thoughtfully 
+consider donating blood during the holy season of Advent. Blood donors have a 
+profound life-giving impact on our entire community, including those with acute 
+needs due to injury and accident, those who require transfusions to combat the 
+effects of chemotherapy, those who live with chronic illnesses and need blood 
+transfusions to survive, those undergoing organ transplants. Each blood donation 
+can help up to 3 lives. How many lives will you save? Sign up at the Welcome 
+Desk at Coffee Hours on 11/24, 12/1, and 12/8 or schedule an appointment at
+<a target="_bulletin" href="http://www.bloodworks.org/drives">
+www.bloodworks.org/drives</a>.</p>
+<p><b>ST VINCENT DE PAUL THANKS YOU</b>. A young woman worked in a warehouse to 
+pay her way through college. Then her employer outsourced warehouse work. She 
+lost her job. Soon she started part-time jobs in a shoe store and commercial 
+kitchen. But her landlord threatened eviction, unwilling to wait for his first 
+paychecks from the new jobs. She thanked us when we helped with enough rent to 
+keep her housed. Within days, she thanked up a second time and proudly told us 
+she had just gotten the news that she would receive a college scholarship that 
+is awarded to only a few students in the country each year. Your donations to 
+SVdP make thanksgiving a year-round event! <i>Information</i>,
+<a href="mailto:bobclifford53@gmail.com?subject=St. Vincent de Paul">Bob 
+Clifford</a>, 206-718-4158.</p>
+<p><b>SUPPORT THE WINTER SHELTER</b>. Consider joining the Winter Shelter team! 
+We have openings for overnight volunteers for Sunday nights, and breakfast hosts 
+for Sundays, Mondays and Tuesdays. We also need volunteers who can substitute in 
+case our regular volunteers are unavailable. If you cannot be an overnight host 
+or provide breakfast, you can support the Winter Shelter by donating: spray 
+deodorant, large tubes of toothpaste, cough drops, hand warmers, travel-size 
+tissues, and lip balm. Items can be brought to Coffee Hour, or dropped off or 
+mailed to the Parish Office. Thank you! <i>Information</i>, 
+<a href="mailto:pbarredo@stjames-cathedral.org?subject=Winter Shelter">Patrick 
+Barredo</a>, 206-382-4515.</p>
+<p><b>HELP PREPARE FOR ST JAMES' CHILDREN'S CHRISTMAS PARTY</b>. Are you crafty? 
+Do you have an hour or two to help put together activities for the party, or to 
+help out at the party itself? If so, contact
+<a href="mailto:bbellamy@stjames-cathedral.org?subject=St. James Children's Christmas Party">
 Brenda Bellamy</a>, 206-274-3108.</p>
-<p><b>SUBSTITUTE GLEANERS NEEDED</b>. The Cathedral
-Kitchen can use a few more substitute gleaners
-who can volunteer on short notice and help with
-our gleaning while our regularly scheduled
-gleaners are away. Gleaners drive the Cathedral
-Kitchen van and go out in the morning to local
-supermarkets and collect food (fruits, vegetables,
-milk, deli items, etc.) These items are used in our
-daily meals. It’s fun and rewarding! <i>Information</i>,
-<a href="mailto:tcallahan@stjames-cathedral.org?subject=Substitute gleaners needed">Teddi 
-Callahan</a>, 206-264-2091.</p>
-<p><b>JOIN THE ST. JAMES WINTER SHELTER TEAM!</b>
-Are you looking for a concrete way to respond to
-homelessness in our city? St. James Cathedral
-offers emergency shelter on Friday, Saturday,
-Sunday and Monday nights from October
-through April. One of the Corporal Works of
-Mercy is to shelter the homeless. If you are
-available one night a month, please consider
-joining the Winter Shelter team. All training is
-provided. <i>Information</i>, 
-<a href="mailto:pbarredo@stjames-cathedral.org?subject=Join the St James Winter Shelter Team">Patrick Barredo</a>, 
-206-382-4515.</p>
-</td></tr></table>
+<p><b>ST. JAMES CATHEDRAL ON SOCIAL MEDIA</b>. Be sure to
+follow the Cathedral on social media for up-to-date
+information about ongoing events in the life of the
+Cathedral! On Instagram: @stjamescathedral. On
+Facebook and Twitter: @stjamesseattle. Did you know the Cathedral has a podcast? 
+Father Ryan’s homilies are available on iTunes. Just search “St. James 
+Cathedral, Seattle” on Apple podcasts. And of course, you can always visit the 
+Cathedral website for up to date information
+on Cathedral happenings. <i>If you aren’t getting our
+weekly e-newsletters, be sure to check your spam
+folder and add St. James to your “safe senders” list!</i></p>
 
-	<p><b>PARISH REMEMBRANCE</b>: <i>Throughout the year, because we
+
+<p><b>PARISH REMEMBRANCE</b>: <i>Throughout the year, because we
 are the Cathedral Church, we remember in prayer at Mass
 and Vespers each of the parishes and missions of the
 Archdiocese of Seattle on a Sunday near their feast day</i>. This
-week we pray for the parishes of St. Teresa of Calcutta in
-Woodinville, St. Rose of Viterbo in Longview, and Our Lady
-of Mt. Virgin in Seattle.</p>
+week we pray for the parishes of Christ the King in Seattle, St. Andrew in 
+Sumner, St. Francis Xavier in Toledo, and St. Barbara in Black Diamond.</p>
 
 <!-- End of bulletin -->
 

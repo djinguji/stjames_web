@@ -27,44 +27,68 @@ parishioner community. Here are links to the online bulletin.</p>
 <p>Here are links to recent bulletins:</p>
 	<table border="0" cellpadding="5" align="center" id="table2">
 		<tr>
+			<td><a href="19Bulletins/191117.aspx">November 17, 2019</a> - 
+			<a href="19Bulletins/191117.pdf" target="_bulletin">PDF</a></td>
+		</tr>
+		<tr>
+			<td><a href="19Bulletins/191110.aspx">November 10, 2019</a> - 
+			<a href="19Bulletins/191110.pdf" target="_bulletin">PDF</a></td>
+		</tr>
+		<tr>
+			<td><a href="19Bulletins/191103.aspx">November 3, 2019</a> - 
+			<a href="19Bulletins/191103.pdf" target="_bulletin">PDF</a></td>
+		</tr>
+		<tr>
+			<td><a href="19Bulletins/191027.aspx">October 27, 2019</a> - 
+			<a href="19Bulletins/191027.pdf" target="_bulletin">PDF</a></td>
+		</tr>
+		<tr>
+			<td><a href="19Bulletins/191020.aspx">October 20, 2019</a> - 
+			<a href="19Bulletins/191020.pdf" target="_bulletin">PDF</a></td>
+		</tr>
+		<tr>
+			<td><a href="19Bulletins/191013.aspx">October 13, 2019</a> - 
+			<a href="19Bulletins/191013.pdf" target="_bulletin">PDF</a></td>
+		</tr>
+		<tr>
+			<td><a href="19Bulletins/191006.aspx">October 6, 2019</a> - 
+			<a href="19Bulletins/191006.pdf" target="_bulletin">PDF</a></td>
+		</tr>
+		<tr>
+			<td><a href="19Bulletins/190929.aspx">September 29, 2019</a> - 
+			<a href="19Bulletins/190929.pdf" target="_bulletin">PDF</a></td>
+		</tr>
+		<tr>
+			<td><a href="19Bulletins/190922.aspx">September 22, 2019</a> - 
+			<a href="19Bulletins/190922.pdf" target="_bulletin">PDF</a></td>
+		</tr>
+		<tr>
+			<td><a href="19Bulletins/190915.aspx">September 15, 2019</a> - 
+			<a href="19Bulletins/190915.pdf" target="_bulletin">PDF</a></td>
+		</tr>
+		<tr>
+			<td><a href="19Bulletins/190908.aspx">September 8, 2019</a> - 
+			<a href="19Bulletins/190908.pdf" target="_bulletin">PDF</a></td>
+		</tr>
+		<tr>
+			<td><a href="19Bulletins/190901.aspx">September 1, 2019</a> - 
+			<a href="19Bulletins/190901.pdf" target="_bulletin">PDF</a></td>
+		</tr>
+		<tr>
+			<td><a href="19Bulletins/190825.aspx">August 25, 2019</a> - 
+			<a href="19Bulletins/190825.pdf" target="_bulletin">PDF</a></td>
+		</tr>
+		<tr>
+			<td><a href="19Bulletins/190818.aspx">August 18, 2019</a> - 
+			<a href="19Bulletins/190818.pdf" target="_bulletin">PDF</a></td>
+		</tr>
+		<tr>
+			<td><a href="19Bulletins/190811.aspx">August 11, 2019</a> - 
+			<a href="19Bulletins/190811.pdf" target="_bulletin">PDF</a></td>
+		</tr>
+		<tr>
 			<td><a href="19Bulletins/190804.aspx">August 4, 2019</a> - 
 			<a href="19Bulletins/190804.pdf" target="_bulletin">PDF</a></td>
-		</tr>
-		<tr>
-			<td><a href="19Bulletins/190728.aspx">July 28, 2019</a> - 
-			<a href="19Bulletins/190728.pdf" target="_bulletin">PDF</a></td>
-		</tr>
-		<tr>
-			<td><a href="19Bulletins/190721.aspx">July 21, 2019</a> - 
-			<a href="19Bulletins/190721.pdf" target="_bulletin">PDF</a></td>
-		</tr>
-		<tr>
-			<td><a href="19Bulletins/190714.aspx">July 14, 2019</a> - 
-			<a href="19Bulletins/190714.pdf" target="_bulletin">PDF</a></td>
-		</tr>
-		<tr>
-			<td><a href="19Bulletins/190707.aspx">July 7, 2019</a> - 
-			<a href="19Bulletins/190707.pdf" target="_bulletin">PDF</a></td>
-		</tr>
-		<tr>
-			<td><a href="19Bulletins/190630.aspx">June 30, 2019</a> - 
-			<a href="19Bulletins/190630.pdf" target="_bulletin">PDF</a></td>
-		</tr>
-		<tr>
-			<td><a href="19Bulletins/190623.aspx">June 23, 2019</a> - 
-			<a href="19Bulletins/190623.pdf" target="_bulletin">PDF</a> - Corpus Christi</td>
-		</tr>
-		<tr>
-			<td><a href="19Bulletins/190616.aspx">June 16, 2019</a> - 
-			<a href="19Bulletins/190616.pdf" target="_bulletin">PDF</a> - Trinity</td>
-		</tr>
-		<tr>
-			<td><a href="19Bulletins/190609.aspx">June 9, 2019</a> - 
-			<a href="19Bulletins/190609.pdf" target="_bulletin">PDF</a> - Pentecost</td>
-		</tr>
-		<tr>
-			<td><a href="19Bulletins/190602.aspx">June 2, 2019</a> - 
-			<a href="19Bulletins/190602.pdf" target="_bulletin">PDF</a> - Ascension</td>
 		</tr>
 	</table>
 <p>Yearly archives:</p>
