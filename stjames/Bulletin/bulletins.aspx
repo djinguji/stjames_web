@@ -27,68 +27,68 @@ parishioner community. Here are links to the online bulletin.</p>
 <p>Here are links to recent bulletins:</p>
 	<table border="0" cellpadding="5" align="center" id="table2">
 		<tr>
-			<td><a href="19Bulletins/191117.aspx">November 17, 2019</a> - 
-			<a href="19Bulletins/191117.pdf" target="_bulletin">PDF</a></td>
+			<td><a href="20Bulletins/200315.aspx">March 15, 2020</a> - 
+			<a href="20Bulletins/200315.pdf" target="_bulletin">PDF</a> - Lent III</td>
 		</tr>
 		<tr>
-			<td><a href="19Bulletins/191110.aspx">November 10, 2019</a> - 
-			<a href="19Bulletins/191110.pdf" target="_bulletin">PDF</a></td>
+			<td><a href="20Bulletins/200308.aspx">March 8, 2020</a> - 
+			<a href="20Bulletins/200308.pdf" target="_bulletin">PDF</a> - Lent II</td>
 		</tr>
 		<tr>
-			<td><a href="19Bulletins/191103.aspx">November 3, 2019</a> - 
-			<a href="19Bulletins/191103.pdf" target="_bulletin">PDF</a></td>
+			<td><a href="20Bulletins/200301.aspx">March 1, 2020</a> - 
+			<a href="20Bulletins/200301.pdf" target="_bulletin">PDF</a> - Lent I</td>
 		</tr>
 		<tr>
-			<td><a href="19Bulletins/191027.aspx">October 27, 2019</a> - 
-			<a href="19Bulletins/191027.pdf" target="_bulletin">PDF</a></td>
+			<td><a href="20Bulletins/200223.aspx">February 23, 2020</a> - 
+			<a href="20Bulletins/200223.pdf" target="_bulletin">PDF</a> </td>
 		</tr>
 		<tr>
-			<td><a href="19Bulletins/191020.aspx">October 20, 2019</a> - 
-			<a href="19Bulletins/191020.pdf" target="_bulletin">PDF</a></td>
+			<td><a href="20Bulletins/200216.aspx">February 16, 2020</a> - 
+			<a href="20Bulletins/200216.pdf" target="_bulletin">PDF</a> </td>
 		</tr>
 		<tr>
-			<td><a href="19Bulletins/191013.aspx">October 13, 2019</a> - 
-			<a href="19Bulletins/191013.pdf" target="_bulletin">PDF</a></td>
+			<td><a href="20Bulletins/200209.aspx">February 9, 2020</a> - 
+			<a href="20Bulletins/200209.pdf" target="_bulletin">PDF</a> </td>
 		</tr>
 		<tr>
-			<td><a href="19Bulletins/191006.aspx">October 6, 2019</a> - 
-			<a href="19Bulletins/191006.pdf" target="_bulletin">PDF</a></td>
+			<td><a href="20Bulletins/200202.aspx">February 2, 2020</a> - 
+			<a href="20Bulletins/200202.pdf" target="_bulletin">PDF</a> - Presentation of the Lord</td>
 		</tr>
 		<tr>
-			<td><a href="19Bulletins/190929.aspx">September 29, 2019</a> - 
-			<a href="19Bulletins/190929.pdf" target="_bulletin">PDF</a></td>
+			<td><a href="20Bulletins/200126.aspx">January 26, 2020</a> - 
+			<a href="20Bulletins/200126.pdf" target="_bulletin">PDF</a> </td>
 		</tr>
 		<tr>
-			<td><a href="19Bulletins/190922.aspx">September 22, 2019</a> - 
-			<a href="19Bulletins/190922.pdf" target="_bulletin">PDF</a></td>
+			<td><a href="20Bulletins/200119.aspx">January 19, 2020</a> - 
+			<a href="20Bulletins/200119.pdf" target="_bulletin">PDF</a> </td>
 		</tr>
 		<tr>
-			<td><a href="19Bulletins/190915.aspx">September 15, 2019</a> - 
-			<a href="19Bulletins/190915.pdf" target="_bulletin">PDF</a></td>
+			<td><a href="20Bulletins/200112.aspx">January 12, 2020</a> - 
+			<a href="20Bulletins/200112.pdf" target="_bulletin">PDF</a> - Baptism of the Lord</td>
 		</tr>
 		<tr>
-			<td><a href="19Bulletins/190908.aspx">September 8, 2019</a> - 
-			<a href="19Bulletins/190908.pdf" target="_bulletin">PDF</a></td>
+			<td><a href="20Bulletins/200105.aspx">January 5, 2020</a> - 
+			<a href="20Bulletins/200105.pdf" target="_bulletin">PDF</a> - Epiphany</td>
 		</tr>
 		<tr>
-			<td><a href="19Bulletins/190901.aspx">September 1, 2019</a> - 
-			<a href="19Bulletins/190901.pdf" target="_bulletin">PDF</a></td>
+			<td><a href="20Bulletins/191229.aspx">December 29, 2019</a> - 
+			<a href="20Bulletins/191229.pdf" target="_bulletin">PDF</a> - Holy Family</td>
 		</tr>
 		<tr>
-			<td><a href="19Bulletins/190825.aspx">August 25, 2019</a> - 
-			<a href="19Bulletins/190825.pdf" target="_bulletin">PDF</a></td>
+			<td><a href="20Bulletins/191222.aspx">December 22, 2019</a> - 
+			<a href="20Bulletins/191222.pdf" target="_bulletin">PDF</a> - Advent IV</td>
 		</tr>
 		<tr>
-			<td><a href="19Bulletins/190818.aspx">August 18, 2019</a> - 
-			<a href="19Bulletins/190818.pdf" target="_bulletin">PDF</a></td>
+			<td><a href="20Bulletins/191215.aspx">December 15, 2019</a> - 
+			<a href="20Bulletins/191215.pdf" target="_bulletin">PDF</a> - Advent III</td>
 		</tr>
 		<tr>
-			<td><a href="19Bulletins/190811.aspx">August 11, 2019</a> - 
-			<a href="19Bulletins/190811.pdf" target="_bulletin">PDF</a></td>
+			<td><a href="20Bulletins/191208.aspx">December 8, 2019</a> - 
+			<a href="20Bulletins/191208.pdf" target="_bulletin">PDF</a> - Advent II</td>
 		</tr>
 		<tr>
-			<td><a href="19Bulletins/190804.aspx">August 4, 2019</a> - 
-			<a href="19Bulletins/190804.pdf" target="_bulletin">PDF</a></td>
+			<td><a href="20Bulletins/191201.aspx">December 1, 2019</a> - 
+			<a href="20Bulletins/191201.pdf" target="_bulletin">PDF</a> - Advent I</td>
 		</tr>
 	</table>
 <p>Yearly archives:</p>
@@ -107,6 +107,7 @@ parishioner community. Here are links to the online bulletin.</p>
 			<td><a href="17bulletins.aspx">2017</a></td>
 			<td><a href="18bulletins.aspx">2018</a></td>
 			<td><a href="19bulletins.aspx">2019</a></td>
+			<td><a href="20bulletins.aspx">2020</a></td>
 		</tr>
 	</table>
 

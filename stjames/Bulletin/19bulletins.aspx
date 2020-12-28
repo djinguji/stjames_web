@@ -21,7 +21,7 @@
 <h1>Weekly Bulletin, 2018-2019</h1>
 <p>The weekly bulletin is one of the primary ways we communicate with our 
 parishioner community. </p>
-<p>Here are links to the online bulletin for the liturgical year, 2017-2018.</p>
+<p>Here are links to the online bulletin for the liturgical year, 2018-2019.</p>
 	<table border="0" cellpadding="5" align="center" id="table1">
 		<tr>
 			<td><a href="19Bulletins/181202.aspx">December 2, 2018</a> - 
@@ -222,6 +222,10 @@ parishioner community. </p>
 		<tr>
 			<td><a href="19Bulletins/191117.aspx">November 17, 2019</a> - 
 			<a href="19Bulletins/191117.pdf" target="_bulletin">PDF</a></td>
+		</tr>
+		<tr>
+			<td><a href="19Bulletins/191124.aspx">November 24, 2019</a> - 
+			<a href="19Bulletins/191124.pdf" target="_bulletin">PDF</a> - Christ the King</td>
 		</tr>
 	</table>
 <p>Back to <a href="bulletins.aspx">current archive</a>.</p>
